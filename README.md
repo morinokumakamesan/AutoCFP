@@ -106,7 +106,9 @@ git push
 ### 自動更新
 
 - GitHub Actionsワークフローが毎日00:00 UTC（日本時間09:00）に自動実行されます
+- WikiCFPから最新のCFP情報（締切日、会議日程など）を取得し、`conferences_with_cfp.json`を更新します
 - 手動での実行も可能（Actions タブから "Update CFP Data" ワークフローを実行）
+- **注意**: 自動更新では`conferences_base.json`は更新されません。会議リストを変更する場合は、ローカルでCSVから再生成してコミットしてください
 
 ## ファイル構成
 
@@ -130,6 +132,30 @@ AutoCFP/
 │   └── scrape_cfp.py          # CFPスクレイパー
 └── README.md
 ```
+
+## データ更新ワークフロー
+
+### 会議リストの更新（手動）
+
+会議リストに新しい会議を追加したり、既存の会議情報を変更する場合：
+
+1. ローカルで`public/data/conferences.csv`を編集
+2. スクリプトを実行して`conferences_base.json`を再生成：
+   ```bash
+   uv run python scripts/parse_conferences.py
+   ```
+3. 生成されたJSONファイルをコミット：
+   ```bash
+   git add public/data/conferences_base.json
+   git commit -m "Update conference list"
+   git push
+   ```
+
+### CFP情報の自動更新
+
+- GitHub Actionsが毎日自動的に実行され、WikiCFPから最新のCFP情報を取得
+- `conferences_base.json`（会議リスト）は変更せず、`conferences_with_cfp.json`のみを更新
+- 締切日、通知日、会議開催日などの情報が最新の状態に保たれます
 
 ## カスタマイズ
 

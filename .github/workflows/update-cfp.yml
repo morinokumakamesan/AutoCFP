@@ -28,10 +28,10 @@ jobs:
       run: |
         uv sync
 
-    - name: Generate base conference data
-      run: |
-        uv run python scripts/parse_conferences.py
-
+    # Note: We don't run parse_conferences.py here because:
+    # - conferences_base.json is already committed to the repository
+    # - CSV file contains sensitive data and is not in version control
+    # - This workflow only updates CFP information from WikiCFP
     - name: Scrape CFP information
       run: |
         uv run python scripts/scrape_cfp.py

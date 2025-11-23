@@ -3,80 +3,54 @@
     {
       "name": "AAAI Conference on Artificial Intelligence",
       "short_name": "AAAI",
-      "theme": "10. 機械学習",
+      "theme": "機械学習",
       "rank": "S",
       "category": "人工知能（機械学習）",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "ACM ASIA Conference on Computer and Communications Security",
       "short_name": "ACM AsiaCCS",
-      "theme": "02.セキュリティ",
+      "theme": "セキュリティ",
       "rank": "A",
       "category": "サイバーセキュリティ",
-      "type": "C",
-      "paper_types": [
-        "Paper"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "ACM Annual International Conference on Mobile Computing and Networking",
       "short_name": "MobiCom",
-      "theme": "12. センシング",
+      "theme": "センシング",
       "rank": "S",
       "category": "ユビキタス・センサ処理",
-      "type": "C",
-      "paper_types": [
-        "Post deadline,invited,top-scored",
-        "オーラル、ポスター"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "ACM Conference on Computer and Communications Security ",
       "short_name": "ACM CCS",
-      "theme": "02.セキュリティ",
+      "theme": "セキュリティ",
       "rank": "S",
       "category": "サイバーセキュリティ",
-      "type": "C",
-      "paper_types": [
-        "Paper"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "ACM Conference on Economics and Computation",
       "short_name": "ACM EC",
-      "theme": "09. 理論計算機科学",
+      "theme": "理論計算機科学",
       "rank": "A",
       "category": "最適化",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "ACM Conference on Human Factors in Computing Systems",
       "short_name": "CHI",
-      "theme": "07.HCI",
+      "theme": "HCI",
       "rank": "S",
       "category": "HCI",
-      "type": "C",
-      "paper_types": [
-        "メイントラック",
-        "サブトラック（ポスター、Late Breaking、SpotLight、Workshopなど。ただし、ページ数上限が4ページ未満のトラックは除く）"
-      ],
       "information": {},
       "url": ""
     },
@@ -86,37 +60,24 @@
       "theme": "エージェント",
       "rank": "A",
       "category": "WEBインテリジェンス, 行動科学",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "ACM Conference on embedded networked sensor systems",
       "short_name": "SenSys",
-      "theme": "12. センシング",
+      "theme": "センシング",
       "rank": "S",
       "category": "ユビキタス・センサ処理",
-      "type": "C",
-      "paper_types": [
-        "Post deadline,invited,top-scored",
-        "オーラル、ポスター"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "ACM Designing Interactive Systems Conference",
       "short_name": "DIS",
-      "theme": "07.HCI",
+      "theme": "HCI",
       "rank": "A",
       "category": "HCI",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
@@ -126,189 +87,132 @@
       "theme": "データ工学",
       "rank": "A",
       "category": "データ工学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "ACM International Conference and Exhibition on Computer Graphics and Interactive Techniques",
       "short_name": "SIGGRAPH",
-      "theme": "06. コンピュータビジョン",
+      "theme": "コンピュータビジョン",
       "rank": "A",
       "category": "グラフィクス",
-      "type": "C",
-      "paper_types": [
-        "全て",
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "ACM International Conference on Emerging Networking Experiments and Technologies",
       "short_name": "CoNEXT",
-      "theme": "15. ネットワーク",
+      "theme": "ネットワーク",
       "rank": "A",
       "category": "",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "ACM International Conference on Information and Knowledge Management",
       "short_name": "CIKM",
-      "theme": "10. 機械学習",
+      "theme": "機械学習",
       "rank": "A",
       "category": "データマイニング",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー",
-        "ショート、レター"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "ACM International Conference on Mobile Systems, Applications and services",
       "short_name": "MobiSys",
-      "theme": "12. センシング",
+      "theme": "センシング",
       "rank": "A",
       "category": "ユビキタス・センサ処理",
-      "type": "C",
-      "paper_types": [
-        "オーラル、ポスター",
-        "Post deadline,invited,top-scored",
-        "オーラル"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "ACM International Conference on Modelling, Analysis, and Simulation of Wireless and Mobile Systems",
       "short_name": "MSWiM",
-      "theme": "08. 無線通信",
+      "theme": "無線通信",
       "rank": "B",
       "category": "無線通信",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "ACM International Conference on Multimedia",
       "short_name": "MM",
-      "theme": "07.HCI",
+      "theme": "HCI",
       "rank": "A",
       "category": "マルチメディア",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "ACM International Conference on Web Search and Data Mining",
       "short_name": "WSDM",
-      "theme": "10. 機械学習",
+      "theme": "機械学習",
       "rank": "A",
       "category": "データマイニング",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "ACM International Confernce on Multimedia",
       "short_name": "ACMMM",
-      "theme": "06. コンピュータビジョン",
+      "theme": "コンピュータビジョン",
       "rank": "A",
       "category": "マルチメディア",
-      "type": "C",
-      "paper_types": [
-        "全て"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "ACM Internet Measurement Conference",
       "short_name": "ACM IMC",
-      "theme": "02.セキュリティ",
+      "theme": "セキュリティ",
       "rank": "A",
       "category": "サイバーセキュリティ",
-      "type": "C",
-      "paper_types": [
-        "Paper"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "ACM SIGGRAPH/Eurographics Symposium on Computer Animation",
       "short_name": "SCA",
-      "theme": "07.HCI",
+      "theme": "HCI",
       "rank": "B",
       "category": "グラフィクス",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "ACM SIGIR Conference on Research and Development in Information Retrieval",
       "short_name": "SIGIR",
-      "theme": "10. 機械学習",
+      "theme": "機械学習",
       "rank": "S",
       "category": "情報検索",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー",
-        "ショート、レター"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
       "short_name": "KDD",
-      "theme": "10. 機械学習",
+      "theme": "機械学習",
       "rank": "S",
       "category": "データマイニング",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "ACM SIGPLAN Conference on Programming Language Design and Implementation",
       "short_name": "PLDI",
-      "theme": "09. 理論計算機科学",
+      "theme": "理論計算機科学",
       "rank": "A",
       "category": "プログラミング言語",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "ACM SIGPLAN Symposium on Principles of Programming Languages",
       "short_name": "POPL",
-      "theme": "09. 理論計算機科学",
+      "theme": "理論計算機科学",
       "rank": "A",
       "category": "プログラミング言語",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
@@ -318,22 +222,15 @@
       "theme": "データ工学",
       "rank": "S",
       "category": "ソフトウェア工学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "ACM Special Interest Group on Data Communication",
       "short_name": "SIGCOMM",
-      "theme": "01.光通信",
+      "theme": "光通信",
       "rank": "S",
       "category": "光通信",
-      "type": "C",
-      "paper_types": [
-        "Best paper, Invited paper, Post-deadline",
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
@@ -343,8 +240,6 @@
       "theme": "データ工学",
       "rank": "A",
       "category": "データ工学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
@@ -354,8 +249,6 @@
       "theme": "データ工学",
       "rank": "B",
       "category": "ソフトウェア工学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
@@ -365,8 +258,6 @@
       "theme": "データ工学",
       "rank": "A",
       "category": "データ工学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
@@ -376,8 +267,6 @@
       "theme": "データ工学",
       "rank": "A",
       "category": "データ工学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
@@ -387,87 +276,60 @@
       "theme": "データ工学",
       "rank": "A",
       "category": "データ工学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "ACM Symposium on Theory of Computing",
       "short_name": "STOC",
-      "theme": "09. 理論計算機科学",
+      "theme": "理論計算機科学",
       "rank": "S",
       "category": "理論計算機科学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "ACM Symposium on User Interface Software and Technology",
       "short_name": "UIST",
-      "theme": "07.HCI",
+      "theme": "HCI",
       "rank": "A",
       "category": "HCI",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "ACM Symposium on Virtual Reality Software and Technology",
       "short_name": "VRST",
-      "theme": "07.HCI",
+      "theme": "HCI",
       "rank": "A",
       "category": "VR, AR",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "ACM/IEEE Design Automation Conference",
       "short_name": "DAC",
-      "theme": "04. 量子力学",
+      "theme": "量子力学",
       "rank": "S",
       "category": "量子力学",
-      "type": "C",
-      "paper_types": [
-        "招待講演/論文",
-        "オーラル",
-        "フルペーパー",
-        "Post deadline,invited,top-scored",
-        "オーラル、ポスター"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "ACM/IEEE International Conference on Human Robot Interaction",
       "short_name": "HRI",
-      "theme": "07.HCI",
+      "theme": "HCI",
       "rank": "A",
       "category": "HCI",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー",
-        "オーラル"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "ACM/IEEE International Conference on Information Processing in Sensor Networks",
       "short_name": "IPSN",
-      "theme": "08. 無線通信",
+      "theme": "無線通信",
       "rank": "B",
       "category": "無線通信",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
@@ -477,83 +339,60 @@
       "theme": "データ工学",
       "rank": "S",
       "category": "ソフトウェア工学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "ACM/IEEE International conference on cyber-physical systems",
       "short_name": "ICCPS",
-      "theme": "12. センシング",
+      "theme": "センシング",
       "rank": "S",
       "category": "センシング",
-      "type": "C",
-      "paper_types": [
-        "Post deadline,invited,top-scored",
-        "オーラル、ポスター"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "ACM/SIAM Symposium on Discrete Algorithms",
       "short_name": "SODA",
-      "theme": "09. 理論計算機科学",
+      "theme": "理論計算機科学",
       "rank": "S",
       "category": "理論計算機科学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "Adiabatic Quantum Computing",
       "short_name": "AQC",
-      "theme": "14. 物性",
+      "theme": "物性",
       "rank": "B",
       "category": "量子物性",
-      "type": "C",
-      "paper_types": [
-        "招待講演"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Advances in Motor Learning & Motor Control",
       "short_name": "MLMC",
-      "theme": "16. 神経科学",
+      "theme": "神経科学",
       "rank": "B",
       "category": "神経科学",
-      "type": "C",
-      "paper_types": [
-        "オーラル"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Algorithmic Learning Theory",
       "short_name": "ALT",
-      "theme": "10. 機械学習",
+      "theme": "機械学習",
       "rank": "B",
       "category": "機械学習",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Algorithms and Data Structures Symposium",
       "short_name": "WADS",
-      "theme": "09. 理論計算機科学",
+      "theme": "理論計算機科学",
       "rank": "B",
       "category": "理論計算機科学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
@@ -563,44 +402,24 @@
       "theme": "土木",
       "rank": "A",
       "category": "",
-      "type": "C",
-      "paper_types": [
-        "Invited paper",
-        "オーラル・ポスター",
-        "招待講演/論文",
-        "オーラル",
-        "招待講演/論文、Post deadline",
-        "招待講演",
-        "Post deadline,invited,top-scored",
-        "オーラル、ポスター",
-        "Invited paper, Best paper"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Annual Computer Security Applications Conference",
       "short_name": "ACSAC",
-      "theme": "02.セキュリティ",
+      "theme": "セキュリティ",
       "rank": "A",
       "category": "サイバーセキュリティ",
-      "type": "C",
-      "paper_types": [
-        "Paper"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Annual Conference of the European Association for Computer Graphics",
       "short_name": "Eurographics",
-      "theme": "06. コンピュータビジョン",
+      "theme": "コンピュータビジョン",
       "rank": "B",
       "category": "グラフィクス",
-      "type": "C",
-      "paper_types": [
-        "全て"
-      ],
       "information": {},
       "url": ""
     },
@@ -610,80 +429,51 @@
       "theme": "19 心理学",
       "rank": "B",
       "category": "19 心理学",
-      "type": "C",
-      "paper_types": [
-        "オーラル"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Annual Meeting of the Association for Computational Linguistics",
       "short_name": "ACL",
-      "theme": "05. 自然言語処理",
+      "theme": "自然言語処理",
       "rank": "A",
       "category": "自然言語処理",
-      "type": "C",
-      "paper_types": [
-        "ショート、レター",
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Annual Meeting of the Cognitive Science Society",
       "short_name": "CogSci",
-      "theme": "16. 神経科学",
+      "theme": "神経科学",
       "rank": "B",
       "category": "神経科学",
-      "type": "C",
-      "paper_types": [
-        "オーラル",
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Annual Meeting of the Special Interest Group on Discourse and Dialogue",
       "short_name": "SIGDIAL",
-      "theme": "05. 自然言語処理",
+      "theme": "自然言語処理",
       "rank": "B",
       "category": "対話",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Applied Superconductivity Conference",
       "short_name": "ASC",
-      "theme": "14. 物性",
+      "theme": "物性",
       "rank": "B",
       "category": "物質科学",
-      "type": "C",
-      "paper_types": [
-        "オーラル"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Asia and South Pacific Design Automation Conference",
       "short_name": "ASP-DAC",
-      "theme": "04. 量子力学",
+      "theme": "量子力学",
       "rank": "B",
       "category": "量子力学",
-      "type": "C",
-      "paper_types": [
-        "オーラル",
-        "招待講演/論文",
-        "Post deadline,invited,top-scored",
-        "オーラル、ポスター"
-      ],
       "information": {},
       "url": ""
     },
@@ -693,50 +483,33 @@
       "theme": "Affective Computing",
       "rank": "B",
       "category": "Affective Computing",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Asian Conference on Computer Vision",
       "short_name": "ACCV",
-      "theme": "06. コンピュータビジョン",
+      "theme": "コンピュータビジョン",
       "rank": "B",
       "category": "コンピュータビジョン",
-      "type": "C",
-      "paper_types": [
-        "全て"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Asian Conference on Machine Learning",
       "short_name": "ACML",
-      "theme": "10. 機械学習",
+      "theme": "機械学習",
       "rank": "B",
       "category": "機械学習",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Asian Symposium on Programming Languages and Systems",
       "short_name": "APLAS",
-      "theme": "04. 量子力学",
+      "theme": "量子力学",
       "rank": "B",
       "category": "量子力学",
-      "type": "C",
-      "paper_types": [
-        "オーラル",
-        "招待講演/論文"
-      ],
       "information": {},
       "url": ""
     },
@@ -746,102 +519,78 @@
       "theme": "発達科学",
       "rank": "B",
       "category": "発達科学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "British Machine Vision Conference",
       "short_name": "BMVC",
-      "theme": "06. コンピュータビジョン",
+      "theme": "コンピュータビジョン",
       "rank": "A",
       "category": "コンピュータビジョン",
-      "type": "C",
-      "paper_types": [
-        "全て"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Certified Programs and Proofs",
       "short_name": "CPP",
-      "theme": "09. 理論計算機科学",
+      "theme": "理論計算機科学",
       "rank": "B",
       "category": "プログラミング言語",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "Code Generation and Optimization",
       "short_name": "CGO",
-      "theme": "09. 理論計算機科学",
+      "theme": "理論計算機科学",
       "rank": "A",
       "category": "プログラミング言語",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "Compiler Construction",
       "short_name": "CC",
-      "theme": "09. 理論計算機科学",
+      "theme": "理論計算機科学",
       "rank": "B",
       "category": "プログラミング言語",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "Compound Semiconductor Week",
       "short_name": "CSW",
-      "theme": "13. 半導体",
+      "theme": "半導体",
       "rank": "B",
       "category": "半導体",
-      "type": "C",
-      "paper_types": [
-        "Post deadline,invited,top-scored"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Computational Complexity Conference",
       "short_name": "CCC",
-      "theme": "09. 理論計算機科学",
+      "theme": "理論計算機科学",
       "rank": "A",
       "category": "理論計算機科学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "Computer Aided Verification",
       "short_name": "CAV",
-      "theme": "09. 理論計算機科学",
+      "theme": "理論計算機科学",
       "rank": "A",
       "category": "論理・検証",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "Conference of the European Association for Computational Linguistics",
       "short_name": "EACL",
-      "theme": "05. 自然言語処理",
+      "theme": "自然言語処理",
       "rank": "A",
       "category": "自然言語処理",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
@@ -851,145 +600,96 @@
       "theme": "発達科学",
       "rank": "B",
       "category": "発達科学",
-      "type": "C",
-      "paper_types": [
-        "オーラル"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Conference on Computational Natural Language Learning",
       "short_name": "CoNLL",
-      "theme": "05. 自然言語処理",
+      "theme": "自然言語処理",
       "rank": "B",
       "category": "機械学習",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Conference on Empirical Methods in Natural Language Processing",
       "short_name": "EMNLP",
-      "theme": "05. 自然言語処理",
+      "theme": "自然言語処理",
       "rank": "S",
       "category": "自然言語処理",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー",
-        "ショート、レター"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Conference on Integer Programming and Combinatorial Optimization",
       "short_name": "IPCO",
-      "theme": "09. 理論計算機科学",
+      "theme": "理論計算機科学",
       "rank": "B",
       "category": "最適化",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "Conference on Lasers and Electro-Optics",
       "short_name": "CLEO",
-      "theme": "11.光学",
+      "theme": "光学",
       "rank": "S",
       "category": "光学",
-      "type": "C",
-      "paper_types": [
-        "Best paper, Invited paper, Post-deadline",
-        "オーラル"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Conference on Lasers and Electro-Optics Europe",
       "short_name": "CLEO-Europe",
-      "theme": "11.光学",
+      "theme": "光学",
       "rank": "B",
       "category": "光学",
-      "type": "C",
-      "paper_types": [
-        "オーラル、ポスター",
-        "Best paper, Invited paper, Post-deadline",
-        "招待講演"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Conference on Lasers and Electro-Optics Pacific Rim",
       "short_name": "CLEO-PR",
-      "theme": "01.光通信",
+      "theme": "光通信",
       "rank": "A",
       "category": "光通信",
-      "type": "C",
-      "paper_types": [
-        "Best paper, Invited paper, Post-deadline",
-        "オーラル、ポスター",
-        "Post deadline,invited,top-scored"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Conference on Learning Theory",
       "short_name": "COLT",
-      "theme": "10. 機械学習",
+      "theme": "機械学習",
       "rank": "A",
       "category": "機械学習",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Conference on Machine Translation",
       "short_name": "WMT",
-      "theme": "05. 自然言語処理",
+      "theme": "自然言語処理",
       "rank": "B",
       "category": "機械翻訳",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Conference on Neural Information Processing Systems",
       "short_name": "NeurIPS",
-      "theme": "10. 機械学習",
+      "theme": "機械学習",
       "rank": "S",
       "category": "機械学習",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Conference on Programming Language Design and Implementation",
       "short_name": "PDLI",
-      "theme": "04. 量子力学",
+      "theme": "量子力学",
       "rank": "A",
       "category": "量子力学",
-      "type": "C",
-      "paper_types": [
-        "オーラル",
-        "招待講演/論文"
-      ],
       "information": {},
       "url": ""
     },
@@ -999,122 +699,78 @@
       "theme": "ロボティクス",
       "rank": "B",
       "category": "ロボティクス",
-      "type": "C",
-      "paper_types": [
-        "オーラル"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Conference on Uncertainty in Artificial Intelligence",
       "short_name": "UAI",
-      "theme": "10. 機械学習",
+      "theme": "機械学習",
       "rank": "A",
       "category": "機械学習",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Conference on the International Speech Communication Association",
       "short_name": "Interspeech",
-      "theme": "03.音声音響・信号処理",
+      "theme": "音声音響・信号処理",
       "rank": "A",
       "category": "音声音響・信号処理",
-      "type": "C",
-      "paper_types": [
-        "オーラルまたはポスター",
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Conference on the North American Chapter of the Association for Computational Linguistics",
       "short_name": "NAACL",
-      "theme": "05. 自然言語処理",
+      "theme": "自然言語処理",
       "rank": "A",
       "category": "自然言語処理",
-      "type": "C",
-      "paper_types": [
-        "long/short paper"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Design, Automation & Test in Europe Conference & Exhibition",
       "short_name": "DATE",
-      "theme": "04. 量子力学",
+      "theme": "量子力学",
       "rank": "A",
       "category": "量子力学",
-      "type": "C",
-      "paper_types": [
-        "招待講演/論文",
-        "オーラル",
-        "オーラル、ポスター",
-        "Post deadline,invited,top-scored"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Device Research Conference",
       "short_name": "DRC",
-      "theme": "14. 物性",
+      "theme": "物性",
       "rank": "A",
       "category": "物性一般",
-      "type": "C",
-      "paper_types": [
-        "招待講演",
-        "オーラル",
-        "Post deadline,invited,top-scored",
-        "オーラル、ポスター"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Discovery Science",
       "short_name": "DS",
-      "theme": "10. 機械学習",
+      "theme": "機械学習",
       "rank": "B",
       "category": "機械学習",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Electrochemical Society Meeting",
       "short_name": "ECS Meeting",
-      "theme": "14. 物性",
+      "theme": "物性",
       "rank": "B",
       "category": "物性一般",
-      "type": "C",
-      "paper_types": [
-        "招待講演",
-        "招待講演/論文、Post deadline"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Electronic Materials Conference ",
       "short_name": "EMC",
-      "theme": "13. 半導体",
+      "theme": "半導体",
       "rank": "B",
       "category": "半導体",
-      "type": "C",
-      "paper_types": [
-        "Post deadline,invited,top-scored"
-      ],
       "information": {},
       "url": ""
     },
@@ -1124,101 +780,69 @@
       "theme": "エージェント",
       "rank": "A",
       "category": "WEBインテリジェンス",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "European Conference on Antennas and Propagation",
       "short_name": "EuCAP",
-      "theme": "08. 無線通信",
+      "theme": "無線通信",
       "rank": "B",
       "category": "無線通信",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "European Conference on Applied Superconductivity",
       "short_name": "EUCAS",
-      "theme": "14. 物性",
+      "theme": "物性",
       "rank": "B",
       "category": "物性一般",
-      "type": "C",
-      "paper_types": [
-        "招待講演"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "European Conference on Artificial Intelligence",
       "short_name": "ECAI",
-      "theme": "10. 機械学習",
+      "theme": "機械学習",
       "rank": "A",
       "category": "機械学習",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "European Conference on Computer Vision",
       "short_name": "ECCV",
-      "theme": "06. コンピュータビジョン",
+      "theme": "コンピュータビジョン",
       "rank": "S",
       "category": "コンピュータビジョン",
-      "type": "C",
-      "paper_types": [
-        "全て"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "European Conference on Machine Learning and Knowledge Discovery in Databases",
       "short_name": "ECML/PKDD",
-      "theme": "10. 機械学習",
+      "theme": "機械学習",
       "rank": "A",
       "category": "機械学習",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "European Conference on Object-Oriented Programming",
       "short_name": "ECOOP",
-      "theme": "09. 理論計算機科学",
+      "theme": "理論計算機科学",
       "rank": "A",
       "category": "プログラミング言語",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "European Conference on Optical Communication",
       "short_name": "ECOC",
-      "theme": "01.光通信",
+      "theme": "光通信",
       "rank": "B",
       "category": "光通信",
-      "type": "C",
-      "paper_types": [
-        "Best paper, Invited paper, Post-deadline",
-        "招待講演/論文、Post-deadline、Top-score, Best paper",
-        "オーラル",
-        "Post deadline,invited,top-scored",
-        "オーラル、ポスター"
-      ],
       "information": {},
       "url": ""
     },
@@ -1228,108 +852,78 @@
       "theme": "データ工学",
       "rank": "B",
       "category": "データ工学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "European Microwave Conference",
       "short_name": "EuMC",
-      "theme": "13. 半導体",
+      "theme": "半導体",
       "rank": "B",
       "category": "集積電子回路",
-      "type": "C",
-      "paper_types": [
-        "Post deadline,invited,top-scored"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "European Photovoltaic Solar Energy Conference and Exhibition ",
       "short_name": "EU-PVSEC",
-      "theme": "14. 物性",
+      "theme": "物性",
       "rank": "B",
       "category": "物性一般",
-      "type": "C",
-      "paper_types": [
-        "招待講演"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "European Signal Processing Conference",
       "short_name": "EUSIPCO",
-      "theme": "03.音声音響・信号処理",
+      "theme": "音声音響・信号処理",
       "rank": "B",
       "category": "音声音響・信号処理",
-      "type": "C",
-      "paper_types": [
-        "オーラルまたはポスター"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "European Symposium on Algorithms",
       "short_name": "ESA",
-      "theme": "09. 理論計算機科学",
+      "theme": "理論計算機科学",
       "rank": "A",
       "category": "理論計算機科学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "European Symposium on Artificial Neural Networks",
       "short_name": "ESANN",
-      "theme": "10. 機械学習",
+      "theme": "機械学習",
       "rank": "B",
       "category": "機械学習",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "European Symposium on Programming",
       "short_name": "ESOP",
-      "theme": "09. 理論計算機科学",
+      "theme": "理論計算機科学",
       "rank": "A",
       "category": "プログラミング言語",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "European Symposium on Research in Computer Security",
       "short_name": "ESORICS",
-      "theme": "02.セキュリティ",
+      "theme": "セキュリティ",
       "rank": "A",
       "category": "サイバーセキュリティ",
-      "type": "C",
-      "paper_types": [
-        "Paper"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "European Workshop on Metalorganic Vapour Phase Epitaxy",
       "short_name": "EWMOVPE",
-      "theme": "13. 半導体",
+      "theme": "半導体",
       "rank": "B",
       "category": "半導体",
-      "type": "C",
-      "paper_types": [
-        "Post deadline,invited,top-scored"
-      ],
       "information": {},
       "url": ""
     },
@@ -1339,82 +933,60 @@
       "theme": "エージェント",
       "rank": "B",
       "category": "知識処理",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Federation of European Neuroscience Societies Forum",
       "short_name": "FENS",
-      "theme": "18. 生物工学",
+      "theme": "生物工学",
       "rank": "B",
       "category": "バイオデバイス・材料",
-      "type": "C",
-      "paper_types": [
-        "招待講演/論文、Post deadline"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Formal Methods in Computer-Aided Design",
       "short_name": "FMCAD",
-      "theme": "09. 理論計算機科学",
+      "theme": "理論計算機科学",
       "rank": "B",
       "category": "論理・検証",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "Formal Structures for Computation and Deduction",
       "short_name": "FSCD",
-      "theme": "09. 理論計算機科学",
+      "theme": "理論計算機科学",
       "rank": "B",
       "category": "論理・検証",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "Foundations of Software Science and Computation Structures",
       "short_name": "FoSSaCS",
-      "theme": "09. 理論計算機科学",
+      "theme": "理論計算機科学",
       "rank": "A",
       "category": "プログラミング言語",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "Foundations of Software Technology and Theoretical Computer Science",
       "short_name": "FST&TCS",
-      "theme": "09. 理論計算機科学",
+      "theme": "理論計算機科学",
       "rank": "B",
       "category": "形式言語・オートマトン理論",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "Frontiers in Optics + Laser Science",
       "short_name": "FiO+LS",
-      "theme": "04. 量子力学",
+      "theme": "量子力学",
       "rank": "A",
       "category": "量子力学",
-      "type": "C",
-      "paper_types": [
-        "招待講演/論文",
-        "オーラル",
-        "Post deadline,invited,top-scored"
-      ],
       "information": {},
       "url": ""
     },
@@ -1424,206 +996,141 @@
       "theme": "データ工学",
       "rank": "B",
       "category": "ソフトウェア工学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "High Magnetic Field",
       "short_name": "HMF",
-      "theme": "14. 物性",
+      "theme": "物性",
       "rank": "B",
       "category": "物性一般",
-      "type": "C",
-      "paper_types": [
-        "招待講演"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE Applied Power Electronics Conference and Exposition",
       "short_name": "APEC",
-      "theme": "17. エネルギー一般",
+      "theme": "エネルギー一般",
       "rank": "B",
       "category": "a:エネルギー一般",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE Asian Solid-State Circuits Conference",
       "short_name": "A-SSCC",
-      "theme": "13. 半導体",
+      "theme": "半導体",
       "rank": "B",
       "category": "集積電子回路",
-      "type": "C",
-      "paper_types": [
-        "オーラル、ポスター",
-        "Post deadline,invited,top-scored"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE BiCMOS and Compound Semiconductor Integrated Circuits and Technology Symposium",
       "short_name": "BCICTS",
-      "theme": "13. 半導体",
+      "theme": "半導体",
       "rank": "A",
       "category": "集積電子回路",
-      "type": "C",
-      "paper_types": [
-        "Post deadline,invited,top-scored",
-        "オーラル、ポスター"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE Biomedical Circuits and Systems Conference",
       "short_name": "BioCAS",
-      "theme": "12. センシング",
+      "theme": "センシング",
       "rank": "B",
       "category": "センシング",
-      "type": "C",
-      "paper_types": [
-        "Post deadline,invited,top-scored"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE Conference on Virtual Reality and 3D User Interfaces",
       "short_name": "IEEE VR",
-      "theme": "07.HCI",
+      "theme": "HCI",
       "rank": "A",
       "category": "VR, AR",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE Consumer Communications & Networking Conference",
       "short_name": "CCNC",
-      "theme": "01.光通信",
+      "theme": "光通信",
       "rank": "B",
       "category": "光通信",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE Custom Integrated Circuis Conference",
       "short_name": "CICC",
-      "theme": "13. 半導体",
+      "theme": "半導体",
       "rank": "B",
       "category": "集積電子回路",
-      "type": "C",
-      "paper_types": [
-        "オーラル、ポスター",
-        "Post deadline,invited,top-scored"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE Electronic Components and Technology Conference",
       "short_name": "ECTC",
-      "theme": "13. 半導体",
+      "theme": "半導体",
       "rank": "S",
       "category": "半導体",
-      "type": "C",
-      "paper_types": [
-        "Post deadline,invited,top-scored",
-        "オーラル、ポスター"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE Energy Conversion Congress and Exposition",
       "short_name": "ECCE",
-      "theme": "17. エネルギー一般",
+      "theme": "エネルギー一般",
       "rank": "B",
       "category": "a:エネルギー一般",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE European Solid-State Circuits Conference",
       "short_name": "ESSCIRC",
-      "theme": "13. 半導体",
+      "theme": "半導体",
       "rank": "A",
       "category": "集積電子回路",
-      "type": "C",
-      "paper_types": [
-        "Post deadline,invited,top-scored",
-        "オーラル、ポスター"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE European Symposium on Security and Privacy",
       "short_name": "IEEE Euro S&P",
-      "theme": "02.セキュリティ",
+      "theme": "セキュリティ",
       "rank": "A",
       "category": "サイバーセキュリティ",
-      "type": "C",
-      "paper_types": [
-        "Paper"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE Global Communications Conference",
       "short_name": "GLOBECOM",
-      "theme": "01.光通信",
+      "theme": "光通信",
       "rank": "B",
       "category": "光通信",
-      "type": "C",
-      "paper_types": [
-        "Best paper, Invited paper, Post-deadline",
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE Hot Chips Symposium",
       "short_name": "HOT CHIPS",
-      "theme": "13. 半導体",
+      "theme": "半導体",
       "rank": "B",
       "category": "集積電子回路",
-      "type": "C",
-      "paper_types": [
-        "オーラル、ポスター",
-        "Post deadline,invited,top-scored"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE International Conference on Acoustics, Speech and Signal Processing",
       "short_name": "ICASSP",
-      "theme": "03.音声音響・信号処理",
+      "theme": "音声音響・信号処理",
       "rank": "A",
       "category": "音声音響・信号処理",
-      "type": "C",
-      "paper_types": [
-        "オーラルまたはポスター"
-      ],
       "information": {},
       "url": ""
     },
@@ -1633,23 +1140,15 @@
       "theme": "Affective Computing",
       "rank": "A",
       "category": "Affective Computing",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE International Conference on Big Data",
       "short_name": "BigData",
-      "theme": "10. 機械学習",
+      "theme": "機械学習",
       "rank": "B",
       "category": "データマイニング",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
@@ -1659,58 +1158,42 @@
       "theme": "データ工学",
       "rank": "B",
       "category": "データ工学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE International Conference on Cluster Computing ",
       "short_name": "IEEE Cluster",
-      "theme": "09. 理論計算機科学",
+      "theme": "理論計算機科学",
       "rank": "B",
       "category": "コンピューティング分野 (HPC・クラスタ計算や計算機アーキテクチャなど)",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE International Conference on Communications",
       "short_name": "ICC",
-      "theme": "01.光通信",
+      "theme": "光通信",
       "rank": "A",
       "category": "光通信",
-      "type": "C",
-      "paper_types": [
-        "Best paper, Invited paper, Post-deadline",
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids",
       "short_name": "SmartGridComm",
-      "theme": "17. エネルギー一般",
+      "theme": "エネルギー一般",
       "rank": "B",
       "category": "a:スマートグリッド",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE International Conference on Computer Communications",
       "short_name": "INFOCOM",
-      "theme": "01.光通信",
+      "theme": "光通信",
       "rank": "SS",
       "category": "光通信",
-      "type": "C",
-      "paper_types": [
-        "Best paper, Invited paper, Post-deadline",
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
@@ -1720,8 +1203,6 @@
       "theme": "データ工学",
       "rank": "B",
       "category": "ソフトウェア工学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
@@ -1731,57 +1212,42 @@
       "theme": "データ工学",
       "rank": "S",
       "category": "データ工学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE International Conference on Data Mining",
       "short_name": "ICDM",
-      "theme": "10. 機械学習",
+      "theme": "機械学習",
       "rank": "A",
       "category": "データマイニング",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE International Conference on Data Science and Advanced Analytics",
       "short_name": "DSAA",
-      "theme": "10. 機械学習",
+      "theme": "機械学習",
       "rank": "B",
       "category": "機械学習",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE International Conference on Distributed Computing Systems",
       "short_name": "ICDCS",
-      "theme": "09. 理論計算機科学",
+      "theme": "理論計算機科学",
       "rank": "A",
       "category": "理論計算機科学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE International Conference on Image Processing",
       "short_name": "ICIP",
-      "theme": "06. コンピュータビジョン",
+      "theme": "コンピュータビジョン",
       "rank": "B",
       "category": "コンピュータビジョン",
-      "type": "C",
-      "paper_types": [
-        "全て",
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
@@ -1791,64 +1257,42 @@
       "theme": "ロボティクス",
       "rank": "B",
       "category": "ロボティクス",
-      "type": "C",
-      "paper_types": [
-        "オーラル"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE International Conference on Multimedia and Expo",
       "short_name": "ICME",
-      "theme": "06. コンピュータビジョン",
+      "theme": "コンピュータビジョン",
       "rank": "A",
       "category": "マルチメディア",
-      "type": "C",
-      "paper_types": [
-        "全て",
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE International Conference on Network Protocols",
       "short_name": "ICNP",
-      "theme": "01.光通信",
+      "theme": "光通信",
       "rank": "B",
       "category": "光通信",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE International Conference on Network Softwarization",
       "short_name": "NetSoft",
-      "theme": "15. ネットワーク",
+      "theme": "ネットワーク",
       "rank": "B",
       "category": "",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE International Conference on Pervasive Computing and Communications",
       "short_name": "PerCom",
-      "theme": "12. センシング",
+      "theme": "センシング",
       "rank": "S",
       "category": "ユビキタス・センサ処理",
-      "type": "C",
-      "paper_types": [
-        "Post deadline,invited,top-scored",
-        "オーラル、ポスター"
-      ],
       "information": {},
       "url": ""
     },
@@ -1858,10 +1302,6 @@
       "theme": "ロボティクス",
       "rank": "A",
       "category": "ロボティクス",
-      "type": "C",
-      "paper_types": [
-        "オーラル"
-      ],
       "information": {},
       "url": ""
     },
@@ -1871,8 +1311,6 @@
       "theme": "データ工学",
       "rank": "A",
       "category": "ソフトウェア工学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
@@ -1882,8 +1320,6 @@
       "theme": "データ工学",
       "rank": "A",
       "category": "ソフトウェア工学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
@@ -1893,22 +1329,15 @@
       "theme": "データ工学",
       "rank": "A",
       "category": "ソフトウェア工学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE International Conference on Systems, Man, and Cybernetics",
       "short_name": "IEEE SMC",
-      "theme": "16. 神経科学",
+      "theme": "神経科学",
       "rank": "A",
       "category": "触覚",
-      "type": "C",
-      "paper_types": [
-        "招待講演/論文、Post deadline",
-        "オーラル"
-      ],
       "information": {},
       "url": ""
     },
@@ -1918,63 +1347,42 @@
       "theme": "データ工学",
       "rank": "B",
       "category": "データ工学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE International Electron Devices Meeting",
       "short_name": "IEDM",
-      "theme": "13. 半導体",
+      "theme": "半導体",
       "rank": "S",
       "category": "半導体",
-      "type": "C",
-      "paper_types": [
-        "Best paper, Invited paper, Post-deadline",
-        "オーラル、ポスター"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE International Frequency Control Symposium - European Frequency and Time Forum ",
       "short_name": "IFCS-EFTF",
-      "theme": "14. 物性",
+      "theme": "物性",
       "rank": "A",
       "category": "光物性",
-      "type": "C",
-      "paper_types": [
-        "招待講演",
-        "オーラル"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE International Geoscience and Remote Sensing Symposium",
       "short_name": "IGARSS",
-      "theme": "20.地球環境",
+      "theme": "地球環境",
       "rank": "B",
       "category": "c:地球観測",
-      "type": "C",
-      "paper_types": [
-        "オーラル"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE International Joint Conference on Neural Networks",
       "short_name": "IJCNN",
-      "theme": "10. 機械学習",
+      "theme": "機械学習",
       "rank": "B",
       "category": "機械学習",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー",
-        "オーラル"
-      ],
       "information": {},
       "url": ""
     },
@@ -1984,8 +1392,6 @@
       "theme": "データ工学",
       "rank": "A",
       "category": "データ工学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
@@ -1995,78 +1401,51 @@
       "theme": "データ工学",
       "rank": "A",
       "category": "ソフトウェア工学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE International Solid-State Circuits Conference",
       "short_name": "ISSCC",
-      "theme": "04. 量子力学",
+      "theme": "量子力学",
       "rank": "S",
       "category": "量子力学",
-      "type": "C",
-      "paper_types": [
-        "招待講演/論文",
-        "オーラル",
-        "Post deadline,invited,top-scored",
-        "オーラル、ポスター"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE International Symposium on Field-Programmable Custom Computing Machines",
       "short_name": "FCCM",
-      "theme": "13. 半導体",
+      "theme": "半導体",
       "rank": "A",
       "category": "集積電子回路",
-      "type": "C",
-      "paper_types": [
-        "Post deadline,invited,top-scored",
-        "オーラル、ポスター"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE International Symposium on High-Performance Computer Architecture",
       "short_name": "HPCA",
-      "theme": "04. 量子力学",
+      "theme": "量子力学",
       "rank": "S",
       "category": "量子力学",
-      "type": "C",
-      "paper_types": [
-        "招待講演/論文",
-        "オーラル",
-        "オーラル、ポスター",
-        "Post deadline,invited,top-scored"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE International Symposium on Information Theory",
       "short_name": "ISIT",
-      "theme": "03.音声音響・信号処理",
+      "theme": "音声音響・信号処理",
       "rank": "B",
       "category": "音声音響・信号処理",
-      "type": "C",
-      "paper_types": [
-        "オーラルまたはポスター"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE International Symposium on Personal, Indoor and Mobile Radio Communications",
       "short_name": "PIMRC",
-      "theme": "08. 無線通信",
+      "theme": "無線通信",
       "rank": "B",
       "category": "無線通信",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
@@ -2076,8 +1455,6 @@
       "theme": "データ工学",
       "rank": "A",
       "category": "ソフトウェア工学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
@@ -2087,8 +1464,6 @@
       "theme": "データ工学",
       "rank": "A",
       "category": "ソフトウェア工学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
@@ -2098,199 +1473,141 @@
       "theme": "データ工学",
       "rank": "B",
       "category": "ソフトウェア工学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE MTT-S International Microwave Symposium",
       "short_name": "IMS",
-      "theme": "08. 無線通信",
+      "theme": "無線通信",
       "rank": "A",
       "category": "無線通信",
-      "type": "C",
-      "paper_types": [
-        "Post deadline,invited,top-scored",
-        "オーラル、ポスター"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE Network Operations and Management Symposium",
       "short_name": "NOMS",
-      "theme": "15. ネットワーク",
+      "theme": "ネットワーク",
       "rank": "B",
       "category": "",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE Photonics Conference",
       "short_name": "IPC",
-      "theme": "04. 量子力学",
+      "theme": "量子力学",
       "rank": "A",
       "category": "量子力学",
-      "type": "C",
-      "paper_types": [
-        "招待講演/論文",
-        "オーラル",
-        "Post deadline,invited,top-scored",
-        "オーラル、ポスター"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE Photovoltaic Specialists Conference",
       "short_name": "IEEE PVSC",
-      "theme": "17. エネルギー一般",
+      "theme": "エネルギー一般",
       "rank": "B",
       "category": "a:再生可能エネルギー",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE Power and Energy Society General Meeting",
       "short_name": "PESGM",
-      "theme": "17. エネルギー一般",
+      "theme": "エネルギー一般",
       "rank": "A",
       "category": "a:エネルギー一般",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE Radio & Wireless Symposium",
       "short_name": "RWS",
-      "theme": "13. 半導体",
+      "theme": "半導体",
       "rank": "B",
       "category": "集積電子回路",
-      "type": "C",
-      "paper_types": [
-        "Post deadline,invited,top-scored"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE Radio Frequency Integrated Circuits Symposium",
       "short_name": "RFIC",
-      "theme": "13. 半導体",
+      "theme": "半導体",
       "rank": "A",
       "category": "集積電子回路",
-      "type": "C",
-      "paper_types": [
-        "Post deadline,invited,top-scored",
-        "オーラル、ポスター"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE Spoken Language Technology Workshop",
       "short_name": "SLT",
-      "theme": "03.音声音響・信号処理",
+      "theme": "音声音響・信号処理",
       "rank": "B",
       "category": "音声音響・信号処理",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE Symposium on Foundations of Computer Science",
       "short_name": "FOCS",
-      "theme": "09. 理論計算機科学",
+      "theme": "理論計算機科学",
       "rank": "S",
       "category": "理論計算機科学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE Symposium on Security and Privacy",
       "short_name": "IEEE S&P",
-      "theme": "02.セキュリティ",
+      "theme": "セキュリティ",
       "rank": "S",
       "category": "サイバーセキュリティ",
-      "type": "C",
-      "paper_types": [
-        "Paper"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE Symposium on VLSI Technology and Circuits",
       "short_name": "VLSI Symp",
-      "theme": "04. 量子力学",
+      "theme": "量子力学",
       "rank": "A",
       "category": "量子力学",
-      "type": "C",
-      "paper_types": [
-        "オーラル",
-        "招待講演/論文",
-        "Post deadline,invited,top-scored",
-        "オーラル、ポスター"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE Vehicular Technology Conference",
       "short_name": "VTC",
-      "theme": "08. 無線通信",
+      "theme": "無線通信",
       "rank": "B",
       "category": "無線通信",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE Wireless Communications and Networking Conference",
       "short_name": "WCNC",
-      "theme": "08. 無線通信",
+      "theme": "無線通信",
       "rank": "B",
       "category": "無線通信",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE Workshop on Applications of Signal Processing to Audio and Acoustics",
       "short_name": "WASPAA",
-      "theme": "03.音声音響・信号処理",
+      "theme": "音声音響・信号処理",
       "rank": "B",
       "category": "音声音響・信号処理",
-      "type": "C",
-      "paper_types": [
-        "オーラルまたはポスター"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE Workshop on Automatic Speech Recognition & Understanding",
       "short_name": "ASRU",
-      "theme": "03.音声音響・信号処理",
+      "theme": "音声音響・信号処理",
       "rank": "B",
       "category": "音声音響・信号処理",
-      "type": "C",
-      "paper_types": [
-        "オーラルまたはポスター"
-      ],
       "information": {},
       "url": ""
     },
@@ -2300,23 +1617,15 @@
       "theme": "19 心理学",
       "rank": "B",
       "category": "19 心理学",
-      "type": "C",
-      "paper_types": [
-        "オーラル"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE international semiconductor laser conference",
       "short_name": "ISLC",
-      "theme": "13. 半導体",
+      "theme": "半導体",
       "rank": "B",
       "category": "半導体",
-      "type": "C",
-      "paper_types": [
-        "Post deadline,invited,top-scored"
-      ],
       "information": {},
       "url": ""
     },
@@ -2326,8 +1635,6 @@
       "theme": "データ工学",
       "rank": "A",
       "category": "ソフトウェア工学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
@@ -2337,98 +1644,69 @@
       "theme": "データ工学",
       "rank": "B",
       "category": "データ工学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE/ACM International Symposium on Microarchitecture",
       "short_name": "MICRO",
-      "theme": "04. 量子力学",
+      "theme": "量子力学",
       "rank": "A",
       "category": "量子力学",
-      "type": "C",
-      "paper_types": [
-        "オーラル",
-        "招待講演/論文"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE/ACM International Symposium on Mixed and Augmented Reality",
       "short_name": "ISMAR",
-      "theme": "07.HCI",
+      "theme": "HCI",
       "rank": "A",
       "category": "VR, AR",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE/ACM International Symposium on Quality of Service",
       "short_name": "IWQoS",
-      "theme": "08. 無線通信",
+      "theme": "無線通信",
       "rank": "B",
       "category": "無線通信",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE/CVF Conference on Computer Vision and Patter Recognition",
       "short_name": "CVPR",
-      "theme": "06. コンピュータビジョン",
+      "theme": "コンピュータビジョン",
       "rank": "S",
       "category": "コンピュータビジョン",
-      "type": "C",
-      "paper_types": [
-        "全て"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE/CVF International Conference on Computer Vision",
       "short_name": "ICCV",
-      "theme": "06. コンピュータビジョン",
+      "theme": "コンピュータビジョン",
       "rank": "S",
       "category": "コンピュータビジョン",
-      "type": "C",
-      "paper_types": [
-        "全て"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE/CVF Winter Conference on Applications of Computer Vision",
       "short_name": "WACV",
-      "theme": "06. コンピュータビジョン",
+      "theme": "コンピュータビジョン",
       "rank": "A",
       "category": "コンピュータビジョン",
-      "type": "C",
-      "paper_types": [
-        "全て"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "IEEE/IFIP DSN（IEEE/IFIP International Conference on Dependable Systems and Networks）",
       "short_name": "DSN",
-      "theme": "02.セキュリティ",
+      "theme": "セキュリティ",
       "rank": "A",
       "category": "サイバーセキュリティ",
-      "type": "C",
-      "paper_types": [
-        "Paper"
-      ],
       "information": {},
       "url": ""
     },
@@ -2438,137 +1716,96 @@
       "theme": "ロボティクス",
       "rank": "A",
       "category": "ロボティクス",
-      "type": "C",
-      "paper_types": [
-        "オーラル"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "IFIP Conference on Human-Computer Interaction",
       "short_name": "INTERACT",
-      "theme": "07.HCI",
+      "theme": "HCI",
       "rank": "B",
       "category": "HCI",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Intelligent Virtual Agents",
       "short_name": "IVA",
-      "theme": "07.HCI",
+      "theme": "HCI",
       "rank": "B",
       "category": "HCI",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Interactive Theorem Proving",
       "short_name": "ITP",
-      "theme": "09. 理論計算機科学",
+      "theme": "理論計算機科学",
       "rank": "A",
       "category": "論理・検証",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "International ACM SIGACCESS Conference on Computers and Accessibility",
       "short_name": "ASSETS",
-      "theme": "07.HCI",
+      "theme": "HCI",
       "rank": "A",
       "category": "HCI",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "International Colloquium on Automata Languages and Programming",
       "short_name": "ICALP",
-      "theme": "09. 理論計算機科学",
+      "theme": "理論計算機科学",
       "rank": "A",
       "category": "理論計算機科学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "International Conference On Computer-Aided Design",
       "short_name": "ICCAD",
-      "theme": "13. 半導体",
+      "theme": "半導体",
       "rank": "A",
       "category": "設計",
-      "type": "C",
-      "paper_types": [
-        "オーラル、ポスター",
-        "Best Paper Award"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "International Conference and Workshop on Algorithms and Computation",
       "short_name": "WALCOM",
-      "theme": "09. 理論計算機科学",
+      "theme": "理論計算機科学",
       "rank": "B",
       "category": "理論計算機科学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "International Conference for High Performance Computing, Networking, Storage, and Analysis",
       "short_name": "SC",
-      "theme": "04. 量子力学",
+      "theme": "量子力学",
       "rank": "A",
       "category": "量子力学",
-      "type": "C",
-      "paper_types": [
-        "オーラル",
-        "招待講演/論文"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "International Conference of the IEEE Engineering in Medicine and Biology Society",
       "short_name": "EMBC",
-      "theme": "12. センシング",
+      "theme": "センシング",
       "rank": "A",
       "category": "センシング",
-      "type": "C",
-      "paper_types": [
-        "Post deadline,invited,top-scored",
-        "オーラル、ポスター"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "International Conference on 3D Vision",
       "short_name": "3DV",
-      "theme": "06. コンピュータビジョン",
+      "theme": "コンピュータビジョン",
       "rank": "B",
       "category": "コンピュータビジョン",
-      "type": "C",
-      "paper_types": [
-        "全て"
-      ],
       "information": {},
       "url": ""
     },
@@ -2578,51 +1815,33 @@
       "theme": "Affective Computing",
       "rank": "A",
       "category": "Affective Computing",
-      "type": "C",
-      "paper_types": [
-        "メイントラック",
-        "サブトラック（ポスター、Late Breaking、SpotLight、Workshopなど。ただし、ページ数上限が4ページ未満のトラックは除く）"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "International Conference on Applied Cryptography and Network Security",
       "short_name": "ACNS",
-      "theme": "02.セキュリティ",
+      "theme": "セキュリティ",
       "rank": "B",
       "category": "サイバーセキュリティ",
-      "type": "C",
-      "paper_types": [
-        "Paper"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "International Conference on Architectural Support for Programming Languages and Operating Systems",
       "short_name": "ASPLOS",
-      "theme": "04. 量子力学",
+      "theme": "量子力学",
       "rank": "S",
       "category": "量子力学",
-      "type": "C",
-      "paper_types": [
-        "招待講演/論文",
-        "オーラル"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "International Conference on Artificial Intelligence and Statistics",
       "short_name": "AISTATS",
-      "theme": "10. 機械学習",
+      "theme": "機械学習",
       "rank": "A",
       "category": "機械学習",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
@@ -2632,23 +1851,15 @@
       "theme": "Affective Computing",
       "rank": "B",
       "category": "Affective Computing",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "International Conference on Automated Planning and Scheduling",
       "short_name": "ICAPS",
-      "theme": "09. 理論計算機科学",
+      "theme": "理論計算機科学",
       "rank": "A",
       "category": "理論計算機科学",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
@@ -2658,63 +1869,42 @@
       "theme": "エージェント",
       "rank": "A",
       "category": "エージェント",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "International Conference on Compound Semiconductor Manufacturing Technology",
       "short_name": "CS Mantech",
-      "theme": "13. 半導体",
+      "theme": "半導体",
       "rank": "B",
       "category": "半導体",
-      "type": "C",
-      "paper_types": [
-        "Post deadline,invited,top-scored"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "International Conference on Computational Linguistics",
       "short_name": "COLING",
-      "theme": "05. 自然言語処理",
+      "theme": "自然言語処理",
       "rank": "B",
       "category": "自然言語処理",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "International Conference on Computer Communication and Networks",
       "short_name": "ICCCN",
-      "theme": "15. ネットワーク",
+      "theme": "ネットワーク",
       "rank": "B",
       "category": "",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "International Conference on Computing, Networking and Communications",
       "short_name": "ICNC",
-      "theme": "15. ネットワーク",
+      "theme": "ネットワーク",
       "rank": "A",
       "category": "",
-      "type": "C",
-      "paper_types": [
-        "Best paper, Invited paper, Post-deadline",
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
@@ -2724,146 +1914,105 @@
       "theme": "データ工学",
       "rank": "B",
       "category": "データ工学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "International Conference on Diamond and Carbon Materials",
       "short_name": "ICDCM",
-      "theme": "13. 半導体",
+      "theme": "半導体",
       "rank": "B",
       "category": "半導体",
-      "type": "C",
-      "paper_types": [
-        "Post deadline,invited,top-scored",
-        "招待講演"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "International Conference on Document Analysis and Recognition",
       "short_name": "ICDAR",
-      "theme": "06. コンピュータビジョン",
+      "theme": "コンピュータビジョン",
       "rank": "A",
       "category": "コンピュータビジョン",
-      "type": "C",
-      "paper_types": [
-        "全て"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "International Conference on Electronics Packaging",
       "short_name": "ICEP",
-      "theme": "13. 半導体",
+      "theme": "半導体",
       "rank": "B",
       "category": "半導体",
-      "type": "C",
-      "paper_types": [
-        "Post deadline,invited,top-scored"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "International Conference on Electronics and Sustainable Communication Systems",
       "short_name": "ICESC",
-      "theme": "17. エネルギー一般",
+      "theme": "エネルギー一般",
       "rank": "B",
       "category": "a:エネルギー一般",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "International Conference on Field Programmable Logic and Applications",
       "short_name": "FPL",
-      "theme": "13. 半導体",
+      "theme": "半導体",
       "rank": "A",
       "category": "集積電子回路",
-      "type": "C",
-      "paper_types": [
-        "Post deadline,invited,top-scored",
-        "オーラル、ポスター"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "International Conference on Field Programmable Technology",
       "short_name": "FPT",
-      "theme": "13. 半導体",
+      "theme": "半導体",
       "rank": "B",
       "category": "集積電子回路",
-      "type": "C",
-      "paper_types": [
-        "オーラル、ポスター",
-        "Post deadline,invited,top-scored"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "International Conference on Financial Cryptography and Data Security",
       "short_name": "FC",
-      "theme": "02.セキュリティ",
+      "theme": "セキュリティ",
       "rank": "A",
       "category": "データセキュリティ",
-      "type": "C",
-      "paper_types": [
-        "Paper"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "International Conference on Functional Programming",
       "short_name": "ICFP",
-      "theme": "09. 理論計算機科学",
+      "theme": "理論計算機科学",
       "rank": "A",
       "category": "プログラミング言語",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "International Conference on Generative Programming and Component Engineering",
       "short_name": "GPCE",
-      "theme": "09. 理論計算機科学",
+      "theme": "理論計算機科学",
       "rank": "B",
       "category": "プログラミング言語",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "International Conference on Intelligent Sustainable Systems",
       "short_name": "ICISS",
-      "theme": "17. エネルギー一般",
+      "theme": "エネルギー一般",
       "rank": "B",
       "category": "a:エネルギー一般",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "International Conference on Intelligent User Interfaces",
       "short_name": "IUI",
-      "theme": "07.HCI",
+      "theme": "HCI",
       "rank": "A",
       "category": "HCI",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
@@ -2873,152 +2022,105 @@
       "theme": "Affective Computing",
       "rank": "B",
       "category": "Affective Computing",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "International Conference on Learning Representations",
       "short_name": "ICLR",
-      "theme": "10. 機械学習",
+      "theme": "機械学習",
       "rank": "S",
       "category": "機械学習",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "International Conference on Logic Programming",
       "short_name": "ICLP",
-      "theme": "09. 理論計算機科学",
+      "theme": "理論計算機科学",
       "rank": "A",
       "category": "論理・検証",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "International Conference on Machine Learning",
       "short_name": "ICML",
-      "theme": "10. 機械学習",
+      "theme": "機械学習",
       "rank": "S",
       "category": "機械学習",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "International Conference on Medical Image Computing and Computer Assisted Intervention",
       "short_name": "MICCAI",
-      "theme": "06. コンピュータビジョン",
+      "theme": "コンピュータビジョン",
       "rank": "A",
       "category": "医用画像処理",
-      "type": "C",
-      "paper_types": [
-        "全て"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "International Conference on Metal Organic Vapor Phase Epitaxy",
       "short_name": "ICMOVPE",
-      "theme": "13. 半導体",
+      "theme": "半導体",
       "rank": "B",
       "category": "半導体",
-      "type": "C",
-      "paper_types": [
-        "Post deadline,invited,top-scored",
-        "招待講演"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "International Conference on Miniaturized Systems for Chemistry and Life Sciences",
       "short_name": "MicroTAS",
-      "theme": "18. 生物工学",
+      "theme": "生物工学",
       "rank": "A",
       "category": "バイオデバイス・材料",
-      "type": "C",
-      "paper_types": [
-        "招待講演/論文、Post deadline",
-        "オーラル"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "International Conference on Molecular Beam Epitaxy",
       "short_name": "ICMBE",
-      "theme": "13. 半導体",
+      "theme": "半導体",
       "rank": "B",
       "category": "半導体",
-      "type": "C",
-      "paper_types": [
-        "Post deadline,invited,top-scored"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "International Conference on Multimodal Interaction/Interface",
       "short_name": "ICMI",
-      "theme": "07.HCI",
+      "theme": "HCI",
       "rank": "A",
       "category": "HCI",
-      "type": "C",
-      "paper_types": [
-        "メイントラック",
-        "サブトラック（ポスター、Late Breaking、SpotLight、Workshopなど。ただし、ページ数上限が4ページ未満のトラックは除く）"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "International Conference on Network and Service Management ",
       "short_name": "CNSM",
-      "theme": "15. ネットワーク",
+      "theme": "ネットワーク",
       "rank": "B",
       "category": "",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "International Conference on Neural Information Processing",
       "short_name": "ICONIP",
-      "theme": "10. 機械学習",
+      "theme": "機械学習",
       "rank": "B",
       "category": "機械学習",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "International Conference on Nitride Semiconductors",
       "short_name": "ICNS",
-      "theme": "13. 半導体",
+      "theme": "半導体",
       "rank": "B",
       "category": "半導体",
-      "type": "C",
-      "paper_types": [
-        "Post deadline,invited,top-scored"
-      ],
       "information": {},
       "url": ""
     },
@@ -3028,61 +2130,42 @@
       "theme": "データ工学",
       "rank": "B",
       "category": "データ工学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "International Conference on Pattern Recognition",
       "short_name": "ICPR",
-      "theme": "06. コンピュータビジョン",
+      "theme": "コンピュータビジョン",
       "rank": "B",
       "category": "コンピュータビジョン",
-      "type": "C",
-      "paper_types": [
-        "全て",
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "International Conference on Photonics in Switching and Computing",
       "short_name": "PSC",
-      "theme": "01.光通信",
+      "theme": "光通信",
       "rank": "B",
       "category": "光通信",
-      "type": "C",
-      "paper_types": [
-        "Best paper, Invited paper, Post-deadline"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "International Conference on Practice and Theory in Public Key Cryptography",
       "short_name": "PKC",
-      "theme": "02.セキュリティ",
+      "theme": "セキュリティ",
       "rank": "B",
       "category": "データセキュリティ",
-      "type": "C",
-      "paper_types": [
-        "Paper"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "International Conference on Principles of Knowledge Representation and Reasoning",
       "short_name": "KR",
-      "theme": "09. 理論計算機科学",
+      "theme": "理論計算機科学",
       "rank": "A",
       "category": "理論計算機科学",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
@@ -3092,8 +2175,6 @@
       "theme": "データ工学",
       "rank": "B",
       "category": "ソフトウェア工学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
@@ -3103,74 +2184,51 @@
       "theme": "データ工学",
       "rank": "B",
       "category": "ソフトウェア工学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "International Conference on Solid State Devices and Materials",
       "short_name": "SSDM",
-      "theme": "13. 半導体",
+      "theme": "半導体",
       "rank": "B",
       "category": "半導体",
-      "type": "C",
-      "paper_types": [
-        "Post deadline,invited,top-scored"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "International Conference on Statistical Physics",
       "short_name": "STATPHYS",
-      "theme": "14. 物性",
+      "theme": "物性",
       "rank": "A",
       "category": "物性一般",
-      "type": "C",
-      "paper_types": [
-        "招待講演",
-        "オーラル"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "International Conference on Tangible Embedded and Embodied Interaction",
       "short_name": "TEI",
-      "theme": "07.HCI",
+      "theme": "HCI",
       "rank": "B",
       "category": "HCI",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "International Conference on The Theory and Application of Cryptology and Information Security ",
       "short_name": "ASIACRYPT",
-      "theme": "02.セキュリティ",
+      "theme": "セキュリティ",
       "rank": "A",
       "category": "データセキュリティ",
-      "type": "C",
-      "paper_types": [
-        "Paper"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "International Conference on Theory and Applications of Cryptographic Techniques ",
       "short_name": "EUROCRYPT",
-      "theme": "02.セキュリティ",
+      "theme": "セキュリティ",
       "rank": "S",
       "category": "データセキュリティ",
-      "type": "C",
-      "paper_types": [
-        "Paper"
-      ],
       "information": {},
       "url": ""
     },
@@ -3180,8 +2238,6 @@
       "theme": "データ工学",
       "rank": "S",
       "category": "データ工学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
@@ -3191,10 +2247,6 @@
       "theme": "エージェント",
       "rank": "A",
       "category": "WEBインテリジェンス, 行動科学",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
@@ -3204,40 +2256,24 @@
       "theme": "データ工学",
       "rank": "B",
       "category": "データ工学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "International Conference on the Electronic Properties of Two-Dimensional Systems / International Conference on Modulated Semiconductor Structures",
       "short_name": "EP2DS/MSS",
-      "theme": "13. 半導体",
+      "theme": "半導体",
       "rank": "A",
       "category": "半導体物理",
-      "type": "C",
-      "paper_types": [
-        "Post deadline,invited,top-scored",
-        "オーラル、ポスター",
-        "招待講演",
-        "オーラル"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "International Conference on the Physics of Semiconductors",
       "short_name": "ICPS",
-      "theme": "13. 半導体",
+      "theme": "半導体",
       "rank": "A",
       "category": "半導体物理",
-      "type": "C",
-      "paper_types": [
-        "Post deadline,invited,top-scored",
-        "オーラル、ポスター",
-        "招待講演",
-        "オーラル"
-      ],
       "information": {},
       "url": ""
     },
@@ -3247,63 +2283,42 @@
       "theme": "基礎数学",
       "rank": "SS",
       "category": "基礎数学",
-      "type": "C",
-      "paper_types": [
-        "招待講演",
-        "オーラル"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "International Cryptology Conference (Advances in Cryptology)",
       "short_name": "CRYPTO",
-      "theme": "02.セキュリティ",
+      "theme": "セキュリティ",
       "rank": "S",
       "category": "データセキュリティ",
-      "type": "C",
-      "paper_types": [
-        "Paper"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "International Joint Conference on Artificial Intelligence",
       "short_name": "IJCAI",
-      "theme": "10. 機械学習",
+      "theme": "機械学習",
       "rank": "S",
       "category": "人工知能（機械学習）",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "International Joint Conference on Natural Language Processing",
       "short_name": "IJCNLP",
-      "theme": "05. 自然言語処理",
+      "theme": "自然言語処理",
       "rank": "B",
       "category": "自然言語処理",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "International Natural Language Generation Conference",
       "short_name": "INLG",
-      "theme": "05. 自然言語処理",
+      "theme": "自然言語処理",
       "rank": "B",
       "category": "言語生成",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
@@ -3313,23 +2328,15 @@
       "theme": "エージェント",
       "rank": "A",
       "category": "知識処理",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "International Society for Music Information Retrieval Conference",
       "short_name": "ISMIR",
-      "theme": "03.音声音響・信号処理",
+      "theme": "音声音響・信号処理",
       "rank": "B",
       "category": "音声音響・信号処理",
-      "type": "C",
-      "paper_types": [
-        "オーラルまたはポスター"
-      ],
       "information": {},
       "url": ""
     },
@@ -3339,113 +2346,78 @@
       "theme": "発達科学",
       "rank": "B",
       "category": "発達科学",
-      "type": "C",
-      "paper_types": [
-        "オーラル"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "International Symposium on Algorithms and Computation",
       "short_name": "ISAAC",
-      "theme": "09. 理論計算機科学",
+      "theme": "理論計算機科学",
       "rank": "A",
       "category": "理論計算機科学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "International Symposium on Circuits and Systems",
       "short_name": "ISCAS",
-      "theme": "13. 半導体",
+      "theme": "半導体",
       "rank": "A",
       "category": "集積電子回路",
-      "type": "C",
-      "paper_types": [
-        "Post deadline,invited,top-scored",
-        "オーラル、ポスター"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "International Symposium on Computer Architecture",
       "short_name": "ISCA",
-      "theme": "04. 量子力学",
+      "theme": "量子力学",
       "rank": "S",
       "category": "量子力学",
-      "type": "C",
-      "paper_types": [
-        "招待講演/論文",
-        "オーラル"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "International Symposium on Experimental Algorithms",
       "short_name": "SEA",
-      "theme": "10. 機械学習",
+      "theme": "機械学習",
       "rank": "B",
       "category": "人工知能（機械学習）",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "International Symposium on Formal Methods",
       "short_name": "FM",
-      "theme": "09. 理論計算機科学",
+      "theme": "理論計算機科学",
       "rank": "A",
       "category": "論理・検証",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "International Symposium on Mathematical Foundations of Computer Science",
       "short_name": "MFCS",
-      "theme": "09. 理論計算機科学",
+      "theme": "理論計算機科学",
       "rank": "A",
       "category": "理論計算機科学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "International Symposium on Power Semiconductor Devices and Ics",
       "short_name": "ISPSD",
-      "theme": "13. 半導体",
+      "theme": "半導体",
       "rank": "B",
       "category": "半導体",
-      "type": "C",
-      "paper_types": [
-        "オーラル、ポスター",
-        "Post deadline,invited,top-scored",
-        "招待講演",
-        "オーラル"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "International Symposium on Research in Attacks, Intrusions and Defenses",
       "short_name": "RAID",
-      "theme": "02.セキュリティ",
+      "theme": "セキュリティ",
       "rank": "A",
       "category": "サイバーセキュリティ",
-      "type": "C",
-      "paper_types": [
-        "Paper"
-      ],
       "information": {},
       "url": ""
     },
@@ -3455,19 +2427,15 @@
       "theme": "データ工学",
       "rank": "A",
       "category": "ソフトウェア工学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "International Symposium on Theoretical Aspects of Computer Science",
       "short_name": "STACS",
-      "theme": "09. 理論計算機科学",
+      "theme": "理論計算機科学",
       "rank": "A",
       "category": "理論計算機科学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
@@ -3477,36 +2445,24 @@
       "theme": "データ工学",
       "rank": "B",
       "category": "ソフトウェア工学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "International Workshop on Nitride Semiconductors",
       "short_name": "IWN",
-      "theme": "13. 半導体",
+      "theme": "半導体",
       "rank": "B",
       "category": "半導体",
-      "type": "C",
-      "paper_types": [
-        "Post deadline,invited,top-scored",
-        "招待講演"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "International Workshop on Oxide Electronics",
       "short_name": "IWOE",
-      "theme": "14. 物性",
+      "theme": "物性",
       "rank": "A",
       "category": "物性一般",
-      "type": "C",
-      "paper_types": [
-        "招待講演",
-        "オーラル"
-      ],
       "information": {},
       "url": ""
     },
@@ -3516,63 +2472,42 @@
       "theme": "データ工学",
       "rank": "B",
       "category": "ソフトウェア工学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "International Workshop on Semantic Evaluation",
       "short_name": "SemEval",
-      "theme": "05. 自然言語処理",
+      "theme": "自然言語処理",
       "rank": "B",
       "category": "意味解析",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "International Workshop on Ultraviolet Materials and Devices",
       "short_name": "IWUMD",
-      "theme": "13. 半導体",
+      "theme": "半導体",
       "rank": "B",
       "category": "半導体",
-      "type": "C",
-      "paper_types": [
-        "Post deadline,invited,top-scored",
-        "招待講演"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "International World Wide Web Conferences",
       "short_name": "WWW",
-      "theme": "10. 機械学習",
+      "theme": "機械学習",
       "rank": "A",
       "category": "データマイニング",
-      "type": "C",
-      "paper_types": [
-        "ショート、レター",
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "International conference on Communications and Electronics",
       "short_name": "ICCE",
-      "theme": "13. 半導体",
+      "theme": "半導体",
       "rank": "A",
       "category": "集積電子回路",
-      "type": "C",
-      "paper_types": [
-        "Post deadline,invited,top-scored",
-        "オーラル、ポスター"
-      ],
       "information": {},
       "url": ""
     },
@@ -3582,216 +2517,150 @@
       "theme": "発達科学",
       "rank": "A",
       "category": "発達科学",
-      "type": "C",
-      "paper_types": [
-        "オーラル、ポスター"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Logic for Programming, Artificial Intelligenceand Reasoning",
       "short_name": "LPAR",
-      "theme": "09. 理論計算機科学",
+      "theme": "理論計算機科学",
       "rank": "B",
       "category": "プログラミング言語",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "Logic in Computer Science",
       "short_name": "LICS",
-      "theme": "09. 理論計算機科学",
+      "theme": "理論計算機科学",
       "rank": "A",
       "category": "論理・検証",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "Low Temperature",
       "short_name": "LT",
-      "theme": "14. 物性",
+      "theme": "物性",
       "rank": "A",
       "category": "物性一般",
-      "type": "C",
-      "paper_types": [
-        "招待講演",
-        "オーラル"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Material Research Society annual meeting ",
       "short_name": "MRS",
-      "theme": "13. 半導体",
+      "theme": "半導体",
       "rank": "B",
       "category": "半導体",
-      "type": "C",
-      "paper_types": [
-        "招待講演"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Materials Research Meeting",
       "short_name": "MRM",
-      "theme": "14. 物性",
+      "theme": "物性",
       "rank": "B",
       "category": "物質科学",
-      "type": "C",
-      "paper_types": [
-        "招待講演"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Neural Control of Movement",
       "short_name": "NCM",
-      "theme": "16. 神経科学",
+      "theme": "神経科学",
       "rank": "B",
       "category": "神経科学",
-      "type": "C",
-      "paper_types": [
-        "オーラル"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Neuroscience meeting (Society for Neuroscience)",
       "short_name": "SfN",
-      "theme": "16. 神経科学",
+      "theme": "神経科学",
       "rank": "B",
       "category": "神経科学",
-      "type": "C",
-      "paper_types": [
-        "オーラル"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "New Diamond & Nano Carbons",
       "short_name": "NDNC",
-      "theme": "13. 半導体",
+      "theme": "半導体",
       "rank": "B",
       "category": "半導体",
-      "type": "C",
-      "paper_types": [
-        "Post deadline,invited,top-scored",
-        "招待講演"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Object-oriented Programming, Systems, Languages, and Applications",
       "short_name": "OOPSLA",
-      "theme": "09. 理論計算機科学",
+      "theme": "理論計算機科学",
       "rank": "A",
       "category": "プログラミング言語",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "Optical Fiber Communications Conference and Exhibition",
       "short_name": "OFC",
-      "theme": "01.光通信",
+      "theme": "光通信",
       "rank": "A",
       "category": "光通信",
-      "type": "C",
-      "paper_types": [
-        "Best paper, Invited paper, Post-deadline",
-        "招待講演/論文、Post-deadline、Top-score, Best paper",
-        "オーラル",
-        "オーラル、ポスター",
-        "Post deadline,invited,top-scored"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Opto-Electronics and Communications Conference",
       "short_name": "OECC",
-      "theme": "01.光通信",
+      "theme": "光通信",
       "rank": "B",
       "category": "光通信",
-      "type": "C",
-      "paper_types": [
-        "Best paper, Invited paper, Post-deadline"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Pacific Rim International Conference on Artificial Intelligence",
       "short_name": "PRICAI",
-      "theme": "10. 機械学習",
+      "theme": "機械学習",
       "rank": "B",
       "category": "機械学習",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Pacific Rim Meeting on electrochemical and solid state science ",
       "short_name": "PRiME",
-      "theme": "14. 物性",
+      "theme": "物性",
       "rank": "B",
       "category": "物性一般",
-      "type": "C",
-      "paper_types": [
-        "招待講演"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Pacific-Asia Conference on Knowledge Discovery and Data Mining",
       "short_name": "PAKDD",
-      "theme": "10. 機械学習",
+      "theme": "機械学習",
       "rank": "B",
       "category": "データマイニング",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Principles and Practice of Constraint Programming",
       "short_name": "CP",
-      "theme": "09. 理論計算機科学",
+      "theme": "理論計算機科学",
       "rank": "A",
       "category": "プログラミング言語",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "Privacy Enhancing Technologies Symposium",
       "short_name": "PETS",
-      "theme": "02.セキュリティ",
+      "theme": "セキュリティ",
       "rank": "A",
       "category": "データセキュリティ",
-      "type": "C",
-      "paper_types": [
-        "Paper"
-      ],
       "information": {},
       "url": ""
     },
@@ -3801,36 +2670,24 @@
       "theme": "データ工学",
       "rank": "B",
       "category": "ソフトウェア工学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "Quantum Information Processing Conference",
       "short_name": "QIP",
-      "theme": "04. 量子力学",
+      "theme": "量子力学",
       "rank": "A",
       "category": "量子力学",
-      "type": "C",
-      "paper_types": [
-        "招待講演/論文",
-        "オーラル"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Quantum Physics and Logic (Proceeding Trackに限定)",
       "short_name": "QPL",
-      "theme": "04. 量子力学",
+      "theme": "量子力学",
       "rank": "B",
       "category": "量子力学",
-      "type": "C",
-      "paper_types": [
-        "オーラル",
-        "招待講演/論文"
-      ],
       "information": {},
       "url": ""
     },
@@ -3840,47 +2697,33 @@
       "theme": "ロボティクス",
       "rank": "B",
       "category": "ロボティクス",
-      "type": "C",
-      "paper_types": [
-        "オーラル"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "SIAM International Conference on Data Mining",
       "short_name": "SDM",
-      "theme": "10. 機械学習",
+      "theme": "機械学習",
       "rank": "A",
       "category": "データマイニング",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "SIGGRAPH Asia",
       "short_name": "SiggraphA",
-      "theme": "07.HCI",
+      "theme": "HCI",
       "rank": "B",
       "category": "マルチメディア",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Scandinavian Workshop on Algorithm Theory?",
       "short_name": "SWAT",
-      "theme": "09. 理論計算機科学",
+      "theme": "理論計算機科学",
       "rank": "B",
       "category": "理論計算機科学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
@@ -3890,72 +2733,51 @@
       "theme": "発達科学",
       "rank": "B",
       "category": "発達科学",
-      "type": "C",
-      "paper_types": [
-        "オーラル"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Software Language Engineering ",
       "short_name": "FLE",
-      "theme": "09. 理論計算機科学",
+      "theme": "理論計算機科学",
       "rank": "B",
       "category": "プログラミング言語",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "Static Analysis Symposium",
       "short_name": "SAS",
-      "theme": "09. 理論計算機科学",
+      "theme": "理論計算機科学",
       "rank": "B",
       "category": "プログラミング言語",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "Symposium On Usable Privacy and Security",
       "short_name": "USENIX SOUPS",
-      "theme": "02.セキュリティ",
+      "theme": "セキュリティ",
       "rank": "B",
       "category": "サイバーセキュリティ",
-      "type": "C",
-      "paper_types": [
-        "Paper"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Symposium of Combinatorial Search",
       "short_name": "SoCS",
-      "theme": "10. 機械学習",
+      "theme": "機械学習",
       "rank": "B",
       "category": "人工知能（機械学習）",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Symposium on Field Programmable Gate Arrays",
       "short_name": "FPGA",
-      "theme": "13. 半導体",
+      "theme": "半導体",
       "rank": "A",
       "category": "集積電子回路",
-      "type": "C",
-      "paper_types": [
-        "Post deadline,invited,top-scored",
-        "オーラル、ポスター"
-      ],
       "information": {},
       "url": ""
     },
@@ -3965,132 +2787,96 @@
       "theme": "データ工学",
       "rank": "A",
       "category": "データ工学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "The ACM Conference on Fairness, Accountability, and Transparency",
       "short_name": "FAccT",
-      "theme": "07.HCI",
+      "theme": "HCI",
       "rank": "A",
       "category": "HCI",
-      "type": "C",
-      "paper_types": [
-        "フルペーパー"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "The Conference on Magnetism and Magnetic Materials ",
       "short_name": "MMM",
-      "theme": "14. 物性",
+      "theme": "物性",
       "rank": "B",
       "category": "物性一般",
-      "type": "C",
-      "paper_types": [
-        "オーラル"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "The Data Compression Conference",
       "short_name": "DCC",
-      "theme": "09. 理論計算機科学",
+      "theme": "理論計算機科学",
       "rank": "B",
       "category": "理論計算機科学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "The IEEE International Magnetics Conference ",
       "short_name": "Intermag",
-      "theme": "14. 物性",
+      "theme": "物性",
       "rank": "B",
       "category": "物性一般",
-      "type": "C",
-      "paper_types": [
-        "オーラル"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "The Joint Conference on Magnetism and Magnetic Materials and Intermag ",
       "short_name": "MMM-Intermag",
-      "theme": "14. 物性",
+      "theme": "物性",
       "rank": "B",
       "category": "物性一般",
-      "type": "C",
-      "paper_types": [
-        "招待講演"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Theory and Applications of Satisfiability Testing",
       "short_name": "SAT",
-      "theme": "09. 理論計算機科学",
+      "theme": "理論計算機科学",
       "rank": "A",
       "category": "論理・検証",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "Theory of Cryptography Conference",
       "short_name": "TCC",
-      "theme": "02.セキュリティ",
+      "theme": "セキュリティ",
       "rank": "A",
       "category": "データセキュリティ",
-      "type": "C",
-      "paper_types": [
-        "Paper"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "Tools and Algorithms for the Construction and Analysis of Systems",
       "short_name": "TACAS",
-      "theme": "09. 理論計算機科学",
+      "theme": "理論計算機科学",
       "rank": "A",
       "category": "プログラミング言語",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "USENIX Network and Distributed System Security Symposium ",
       "short_name": "NDSS",
-      "theme": "02.セキュリティ",
+      "theme": "セキュリティ",
       "rank": "S",
       "category": "サイバーセキュリティ",
-      "type": "C",
-      "paper_types": [
-        "Paper"
-      ],
       "information": {},
       "url": ""
     },
     {
       "name": "USENIX Security Symposium",
       "short_name": "USENIX Security",
-      "theme": "02.セキュリティ",
+      "theme": "セキュリティ",
       "rank": "S",
       "category": "サイバーセキュリティ",
-      "type": "C",
-      "paper_types": [
-        "Paper"
-      ],
       "information": {},
       "url": ""
     },
@@ -4100,74 +2886,66 @@
       "theme": "データ工学",
       "rank": "B",
       "category": "データ工学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "Usenix Annual Technical Conference",
       "short_name": "USENIX",
-      "theme": "09. 理論計算機科学",
+      "theme": "理論計算機科学",
       "rank": "A",
       "category": "理論計算機科学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "Verification, Model Checking and Abstract Interpretation",
       "short_name": "VMCAI",
-      "theme": "09. 理論計算機科学",
+      "theme": "理論計算機科学",
       "rank": "B",
       "category": "プログラミング言語",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     },
     {
       "name": "Workshop on Algorithm Engineering and Experiments",
       "short_name": "ALENEX",
-      "theme": "09. 理論計算機科学",
+      "theme": "理論計算機科学",
       "rank": "A",
       "category": "理論計算機科学",
-      "type": "C",
-      "paper_types": [],
       "information": {},
       "url": ""
     }
   ],
   "themes": [
-    "01.光通信",
-    "02.セキュリティ",
-    "03.音声音響・信号処理",
-    "04. 量子力学",
-    "05. 自然言語処理",
-    "06. コンピュータビジョン",
-    "07.HCI",
-    "08. 無線通信",
-    "09. 理論計算機科学",
-    "10. 機械学習",
-    "11.光学",
-    "12. センシング",
-    "13. 半導体",
-    "14. 物性",
-    "15. ネットワーク",
-    "16. 神経科学",
-    "17. エネルギー一般",
-    "18. 生物工学",
     "19 心理学",
-    "20.地球環境",
     "Affective Computing",
+    "HCI",
+    "エネルギー一般",
     "エージェント",
+    "コンピュータビジョン",
+    "セキュリティ",
+    "センシング",
     "データ工学",
+    "ネットワーク",
     "ロボティクス",
+    "光学",
+    "光通信",
+    "半導体",
     "土木",
+    "地球環境",
     "基礎数学",
     "宇宙環境",
-    "発達科学"
+    "機械学習",
+    "無線通信",
+    "物性",
+    "理論計算機科学",
+    "生物工学",
+    "発達科学",
+    "神経科学",
+    "自然言語処理",
+    "量子力学",
+    "音声音響・信号処理"
   ],
   "last_updated": null
 }
