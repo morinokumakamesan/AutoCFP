@@ -99,7 +99,7 @@ if __name__ == "__main__":
         csv_path = Path(sys.argv[1])
         print(f"Using custom CSV path: {csv_path}")
     else:
-        csv_path = Path(__file__).parent.parent / "data" / "conferences.csv"
+        csv_path = Path(__file__).parent.parent / "public" / "data" / "conferences.csv"
         print(f"Using default CSV path: {csv_path}")
 
     # Analyze structure

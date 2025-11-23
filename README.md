@@ -46,9 +46,7 @@ uv sync
 pip install -r requirements.txt
 ```
 
-**注意**: 会議データのCSVファイル（`data/conferences.csv`）は既にプロジェクトに含まれています。CSVファイルを更新したい場合は、新しいCSVファイルで `data/conferences.csv` を置き換えてください。
-
-CSVファイルの形式については、[カスタマイズ](#カスタマイズ)セクションを参照してください。
+**注意**: 会議データのCSVファイル（`public/data/conferences.csv`）を手動で配置する必要があります。CSVファイルの形式については、[カスタマイズ](#カスタマイズ)セクションを参照してください。
 
 ### データの生成
 
@@ -98,7 +96,7 @@ uv run python scripts/parse_conferences.py
 python scripts/parse_conferences.py
 
 # データをコミット
-git add data/conferences_base.json data/conferences.csv
+git add public/data/conferences_base.json
 git commit -m "Add initial conference data"
 git push
 ```
@@ -117,15 +115,16 @@ AutoCFP/
 ├── .github/
 │   └── workflows/
 │       └── update-cfp.yml      # GitHub Actionsワークフロー
-├── data/
-│   ├── conferences_base.json   # 基本会議データ
-│   └── conferences_with_cfp.json  # CFP情報を含む会議データ
 ├── public/
 │   ├── index.html              # メインHTML
 │   ├── css/
 │   │   └── style.css          # スタイルシート
-│   └── js/
-│       └── calendar.js        # カレンダーロジック
+│   ├── js/
+│   │   └── calendar.js        # カレンダーロジック
+│   └── data/
+│       ├── conferences.csv           # 会議データCSV（gitignore）
+│       ├── conferences_base.json     # 基本会議データ
+│       └── conferences_with_cfp.json # CFP情報を含む会議データ
 ├── scripts/
 │   ├── parse_conferences.py    # CSVパーサー
 │   └── scrape_cfp.py          # CFPスクレイパー

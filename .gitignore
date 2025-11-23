@@ -30,6 +30,5 @@ Thumbs.db
 *.tmp
 .cache/
 
-# Data files
-data/conferences.csv
+# Data files - CSV contains sensitive conference data
 public/data/conferences.csv
