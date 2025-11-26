@@ -2,8 +2,8 @@ name: Update CFP Data
 
 on:
   schedule:
-    # Run every day at 00:00 UTC (09:00 JST)
-    - cron: '0 0 * * *'
+    # Run twice a month: 1st and 15th at 00:00 UTC (09:00 JST)
+    - cron: '0 0 1,15 * *'
   workflow_dispatch:  # Allow manual trigger
 
 jobs:
