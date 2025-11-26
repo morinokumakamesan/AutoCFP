@@ -3,7 +3,10 @@
     {
       "name": "AAAI Conference on Artificial Intelligence",
       "short_name": "AAAI",
-      "theme": "機械学習",
+      "themes": [
+        "機械学習",
+        "エージェント"
+      ],
       "rank": "S",
       "category": "人工知能（機械学習）",
       "information": {
@@ -92,7 +95,9 @@
     {
       "name": "ACM ASIA Conference on Computer and Communications Security",
       "short_name": "ACM AsiaCCS",
-      "theme": "セキュリティ",
+      "themes": [
+        "セキュリティ"
+      ],
       "rank": "A",
       "category": "サイバーセキュリティ",
       "information": {
@@ -152,7 +157,9 @@
     {
       "name": "ACM Annual International Conference on Mobile Computing and Networking",
       "short_name": "MobiCom",
-      "theme": "センシング",
+      "themes": [
+        "センシング"
+      ],
       "rank": "S",
       "category": "ユビキタス・センサ処理",
       "information": {
@@ -210,9 +217,11 @@
       "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=185562&copyownerid=71926"
     },
     {
-      "name": "ACM Conference on Computer and Communications Security ",
+      "name": "ACM Conference on Computer and Communications Security",
       "short_name": "ACM CCS",
-      "theme": "セキュリティ",
+      "themes": [
+        "セキュリティ"
+      ],
       "rank": "S",
       "category": "サイバーセキュリティ",
       "information": {
@@ -272,7 +281,10 @@
     {
       "name": "ACM Conference on Economics and Computation",
       "short_name": "ACM EC",
-      "theme": "理論計算機科学",
+      "themes": [
+        "理論計算機科学",
+        "エージェント"
+      ],
       "rank": "A",
       "category": "最適化",
       "information": {
@@ -321,7 +333,11 @@
     {
       "name": "ACM Conference on Human Factors in Computing Systems",
       "short_name": "CHI",
-      "theme": "HCI",
+      "themes": [
+        "HCI",
+        "Affective Computing",
+        "データ工学"
+      ],
       "rank": "S",
       "category": "HCI",
       "information": {
@@ -393,7 +409,9 @@
     {
       "name": "ACM Conference on Recommender Systems (RecSys)",
       "short_name": "RecSys",
-      "theme": "エージェント",
+      "themes": [
+        "エージェント"
+      ],
       "rank": "A",
       "category": "WEBインテリジェンス, 行動科学",
       "information": {
@@ -464,7 +482,9 @@
     {
       "name": "ACM Conference on embedded networked sensor systems",
       "short_name": "SenSys",
-      "theme": "センシング",
+      "themes": [
+        "センシング"
+      ],
       "rank": "S",
       "category": "ユビキタス・センサ処理",
       "information": {
@@ -524,7 +544,9 @@
     {
       "name": "ACM Designing Interactive Systems Conference",
       "short_name": "DIS",
-      "theme": "HCI",
+      "themes": [
+        "HCI"
+      ],
       "rank": "A",
       "category": "HCI",
       "information": {
@@ -562,7 +584,9 @@
     {
       "name": "ACM European Conference on Computer Systems",
       "short_name": "EuroSys",
-      "theme": "データ工学",
+      "themes": [
+        "データ工学"
+      ],
       "rank": "A",
       "category": "データ工学",
       "information": {
@@ -639,7 +663,10 @@
     {
       "name": "ACM International Conference and Exhibition on Computer Graphics and Interactive Techniques",
       "short_name": "SIGGRAPH",
-      "theme": "コンピュータビジョン",
+      "themes": [
+        "コンピュータビジョン",
+        "HCI"
+      ],
       "rank": "A",
       "category": "グラフィクス",
       "information": {
@@ -699,7 +726,9 @@
     {
       "name": "ACM International Conference on Emerging Networking Experiments and Technologies",
       "short_name": "CoNEXT",
-      "theme": "ネットワーク",
+      "themes": [
+        "ネットワーク"
+      ],
       "rank": "A",
       "category": "",
       "information": {},
@@ -708,7 +737,10 @@
     {
       "name": "ACM International Conference on Information and Knowledge Management",
       "short_name": "CIKM",
-      "theme": "機械学習",
+      "themes": [
+        "機械学習",
+        "エージェント"
+      ],
       "rank": "A",
       "category": "データマイニング",
       "information": {
@@ -779,7 +811,10 @@
     {
       "name": "ACM International Conference on Mobile Systems, Applications and services",
       "short_name": "MobiSys",
-      "theme": "センシング",
+      "themes": [
+        "センシング",
+        "地球環境"
+      ],
       "rank": "A",
       "category": "ユビキタス・センサ処理",
       "information": {
@@ -839,7 +874,9 @@
     {
       "name": "ACM International Conference on Modelling, Analysis, and Simulation of Wireless and Mobile Systems",
       "short_name": "MSWiM",
-      "theme": "無線通信",
+      "themes": [
+        "無線通信"
+      ],
       "rank": "B",
       "category": "無線通信",
       "information": {
@@ -899,7 +936,10 @@
     {
       "name": "ACM International Conference on Multimedia",
       "short_name": "MM",
-      "theme": "HCI",
+      "themes": [
+        "HCI",
+        "Affective Computing"
+      ],
       "rank": "A",
       "category": "マルチメディア",
       "information": {},
@@ -908,7 +948,10 @@
     {
       "name": "ACM International Conference on Web Search and Data Mining",
       "short_name": "WSDM",
-      "theme": "機械学習",
+      "themes": [
+        "機械学習",
+        "エージェント"
+      ],
       "rank": "A",
       "category": "データマイニング",
       "information": {
@@ -996,7 +1039,9 @@
     {
       "name": "ACM International Confernce on Multimedia",
       "short_name": "ACMMM",
-      "theme": "コンピュータビジョン",
+      "themes": [
+        "コンピュータビジョン"
+      ],
       "rank": "A",
       "category": "マルチメディア",
       "information": {
@@ -1067,7 +1112,9 @@
     {
       "name": "ACM Internet Measurement Conference",
       "short_name": "ACM IMC",
-      "theme": "セキュリティ",
+      "themes": [
+        "セキュリティ"
+      ],
       "rank": "A",
       "category": "サイバーセキュリティ",
       "information": {
@@ -1151,7 +1198,9 @@
     {
       "name": "ACM SIGGRAPH/Eurographics Symposium on Computer Animation",
       "short_name": "SCA",
-      "theme": "HCI",
+      "themes": [
+        "HCI"
+      ],
       "rank": "B",
       "category": "グラフィクス",
       "information": {
@@ -1211,7 +1260,10 @@
     {
       "name": "ACM SIGIR Conference on Research and Development in Information Retrieval",
       "short_name": "SIGIR",
-      "theme": "機械学習",
+      "themes": [
+        "機械学習",
+        "エージェント"
+      ],
       "rank": "S",
       "category": "情報検索",
       "information": {
@@ -1283,7 +1335,10 @@
     {
       "name": "ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
       "short_name": "KDD",
-      "theme": "機械学習",
+      "themes": [
+        "機械学習",
+        "データ工学"
+      ],
       "rank": "S",
       "category": "データマイニング",
       "information": {
@@ -1361,7 +1416,10 @@
     {
       "name": "ACM SIGPLAN Conference on Programming Language Design and Implementation",
       "short_name": "PLDI",
-      "theme": "理論計算機科学",
+      "themes": [
+        "理論計算機科学",
+        "データ工学"
+      ],
       "rank": "A",
       "category": "プログラミング言語",
       "information": {
@@ -1399,7 +1457,10 @@
     {
       "name": "ACM SIGPLAN Symposium on Principles of Programming Languages",
       "short_name": "POPL",
-      "theme": "理論計算機科学",
+      "themes": [
+        "理論計算機科学",
+        "データ工学"
+      ],
       "rank": "A",
       "category": "プログラミング言語",
       "information": {},
@@ -1408,7 +1469,9 @@
     {
       "name": "ACM SIGSOFT International Symposium on Foundations of Software Engineering",
       "short_name": "FSE",
-      "theme": "データ工学",
+      "themes": [
+        "データ工学"
+      ],
       "rank": "S",
       "category": "ソフトウェア工学",
       "information": {
@@ -1491,7 +1554,11 @@
     {
       "name": "ACM Special Interest Group on Data Communication",
       "short_name": "SIGCOMM",
-      "theme": "光通信",
+      "themes": [
+        "光通信",
+        "無線通信",
+        "ネットワーク"
+      ],
       "rank": "S",
       "category": "光通信",
       "information": {
@@ -1562,7 +1629,9 @@
     {
       "name": "ACM Special Interest Group on Management of Data",
       "short_name": "SIGMOD",
-      "theme": "データ工学",
+      "themes": [
+        "データ工学"
+      ],
       "rank": "A",
       "category": "データ工学",
       "information": {},
@@ -1571,7 +1640,9 @@
     {
       "name": "ACM Symposium on Applied Computing",
       "short_name": "SAC",
-      "theme": "データ工学",
+      "themes": [
+        "データ工学"
+      ],
       "rank": "B",
       "category": "ソフトウェア工学",
       "information": {
@@ -1654,7 +1725,9 @@
     {
       "name": "ACM Symposium on Operating Systems Principles",
       "short_name": "SOSP",
-      "theme": "データ工学",
+      "themes": [
+        "データ工学"
+      ],
       "rank": "A",
       "category": "データ工学",
       "information": {
@@ -1714,7 +1787,9 @@
     {
       "name": "ACM Symposium on Principles of Database Systems",
       "short_name": "PODS",
-      "theme": "データ工学",
+      "themes": [
+        "データ工学"
+      ],
       "rank": "A",
       "category": "データ工学",
       "information": {},
@@ -1723,7 +1798,9 @@
     {
       "name": "ACM Symposium on Principles of Distributed Computing",
       "short_name": "PODC",
-      "theme": "データ工学",
+      "themes": [
+        "データ工学"
+      ],
       "rank": "A",
       "category": "データ工学",
       "information": {
@@ -1806,7 +1883,9 @@
     {
       "name": "ACM Symposium on Theory of Computing",
       "short_name": "STOC",
-      "theme": "理論計算機科学",
+      "themes": [
+        "理論計算機科学"
+      ],
       "rank": "S",
       "category": "理論計算機科学",
       "information": {},
@@ -1815,7 +1894,9 @@
     {
       "name": "ACM Symposium on User Interface Software and Technology",
       "short_name": "UIST",
-      "theme": "HCI",
+      "themes": [
+        "HCI"
+      ],
       "rank": "A",
       "category": "HCI",
       "information": {
@@ -1864,7 +1945,9 @@
     {
       "name": "ACM Symposium on Virtual Reality Software and Technology",
       "short_name": "VRST",
-      "theme": "HCI",
+      "themes": [
+        "HCI"
+      ],
       "rank": "A",
       "category": "VR, AR",
       "information": {},
@@ -1873,7 +1956,11 @@
     {
       "name": "ACM/IEEE Design Automation Conference",
       "short_name": "DAC",
-      "theme": "量子力学",
+      "themes": [
+        "量子力学",
+        "機械学習",
+        "半導体"
+      ],
       "rank": "S",
       "category": "量子力学",
       "information": {
@@ -1944,7 +2031,10 @@
     {
       "name": "ACM/IEEE International Conference on Human Robot Interaction",
       "short_name": "HRI",
-      "theme": "HCI",
+      "themes": [
+        "HCI",
+        "ロボティクス"
+      ],
       "rank": "A",
       "category": "HCI",
       "information": {},
@@ -1953,7 +2043,9 @@
     {
       "name": "ACM/IEEE International Conference on Information Processing in Sensor Networks",
       "short_name": "IPSN",
-      "theme": "無線通信",
+      "themes": [
+        "無線通信"
+      ],
       "rank": "B",
       "category": "無線通信",
       "information": {},
@@ -1962,7 +2054,9 @@
     {
       "name": "ACM/IEEE International Conference on Software Engineering",
       "short_name": "ICSE",
-      "theme": "データ工学",
+      "themes": [
+        "データ工学"
+      ],
       "rank": "S",
       "category": "ソフトウェア工学",
       "information": {
@@ -2040,7 +2134,9 @@
     {
       "name": "ACM/IEEE International conference on cyber-physical systems",
       "short_name": "ICCPS",
-      "theme": "センシング",
+      "themes": [
+        "センシング"
+      ],
       "rank": "S",
       "category": "センシング",
       "information": {
@@ -2139,7 +2235,9 @@
     {
       "name": "ACM/SIAM Symposium on Discrete Algorithms",
       "short_name": "SODA",
-      "theme": "理論計算機科学",
+      "themes": [
+        "理論計算機科学"
+      ],
       "rank": "S",
       "category": "理論計算機科学",
       "information": {
@@ -2190,7 +2288,9 @@
     {
       "name": "Adiabatic Quantum Computing",
       "short_name": "AQC",
-      "theme": "物性",
+      "themes": [
+        "物性"
+      ],
       "rank": "B",
       "category": "量子物性",
       "information": {},
@@ -2199,7 +2299,9 @@
     {
       "name": "Advances in Motor Learning & Motor Control",
       "short_name": "MLMC",
-      "theme": "神経科学",
+      "themes": [
+        "神経科学"
+      ],
       "rank": "B",
       "category": "神経科学",
       "information": {},
@@ -2208,7 +2310,9 @@
     {
       "name": "Algorithmic Learning Theory",
       "short_name": "ALT",
-      "theme": "機械学習",
+      "themes": [
+        "機械学習"
+      ],
       "rank": "B",
       "category": "機械学習",
       "information": {},
@@ -2217,7 +2321,9 @@
     {
       "name": "Algorithms and Data Structures Symposium",
       "short_name": "WADS",
-      "theme": "理論計算機科学",
+      "themes": [
+        "理論計算機科学"
+      ],
       "rank": "B",
       "category": "理論計算機科学",
       "information": {
@@ -2266,7 +2372,9 @@
     {
       "name": "American Concrete Institute Concrete Convention",
       "short_name": "",
-      "theme": "土木",
+      "themes": [
+        "土木"
+      ],
       "rank": "A",
       "category": "",
       "information": {},
@@ -2275,7 +2383,9 @@
     {
       "name": "Annual Computer Security Applications Conference",
       "short_name": "ACSAC",
-      "theme": "セキュリティ",
+      "themes": [
+        "セキュリティ"
+      ],
       "rank": "A",
       "category": "サイバーセキュリティ",
       "information": {
@@ -2335,7 +2445,9 @@
     {
       "name": "Annual Conference of the European Association for Computer Graphics",
       "short_name": "Eurographics",
-      "theme": "コンピュータビジョン",
+      "themes": [
+        "コンピュータビジョン"
+      ],
       "rank": "B",
       "category": "グラフィクス",
       "information": {
@@ -2423,7 +2535,9 @@
     {
       "name": "Annual Meeting of Vision Sciences Society",
       "short_name": "VSS",
-      "theme": "19 心理学",
+      "themes": [
+        "19 心理学"
+      ],
       "rank": "B",
       "category": "19 心理学",
       "information": {},
@@ -2432,7 +2546,10 @@
     {
       "name": "Annual Meeting of the Association for Computational Linguistics",
       "short_name": "ACL",
-      "theme": "自然言語処理",
+      "themes": [
+        "自然言語処理",
+        "エージェント"
+      ],
       "rank": "A",
       "category": "自然言語処理",
       "information": {
@@ -2490,7 +2607,11 @@
     {
       "name": "Annual Meeting of the Cognitive Science Society",
       "short_name": "CogSci",
-      "theme": "神経科学",
+      "themes": [
+        "神経科学",
+        "19 心理学",
+        "Affective Computing"
+      ],
       "rank": "B",
       "category": "神経科学",
       "information": {},
@@ -2499,7 +2620,9 @@
     {
       "name": "Annual Meeting of the Special Interest Group on Discourse and Dialogue",
       "short_name": "SIGDIAL",
-      "theme": "自然言語処理",
+      "themes": [
+        "自然言語処理"
+      ],
       "rank": "B",
       "category": "対話",
       "information": {},
@@ -2508,7 +2631,9 @@
     {
       "name": "Applied Superconductivity Conference",
       "short_name": "ASC",
-      "theme": "物性",
+      "themes": [
+        "物性"
+      ],
       "rank": "B",
       "category": "物質科学",
       "information": {},
@@ -2517,7 +2642,10 @@
     {
       "name": "Asia and South Pacific Design Automation Conference",
       "short_name": "ASP-DAC",
-      "theme": "量子力学",
+      "themes": [
+        "量子力学",
+        "半導体"
+      ],
       "rank": "B",
       "category": "量子力学",
       "information": {
@@ -2588,7 +2716,9 @@
     {
       "name": "Asia-Pacific-Signal-and-Information-Processing-Association Annual Summit and Conference",
       "short_name": "APSIPA ASC",
-      "theme": "Affective Computing",
+      "themes": [
+        "Affective Computing"
+      ],
       "rank": "B",
       "category": "Affective Computing",
       "information": {},
@@ -2597,7 +2727,9 @@
     {
       "name": "Asian Conference on Computer Vision",
       "short_name": "ACCV",
-      "theme": "コンピュータビジョン",
+      "themes": [
+        "コンピュータビジョン"
+      ],
       "rank": "B",
       "category": "コンピュータビジョン",
       "information": {},
@@ -2606,7 +2738,9 @@
     {
       "name": "Asian Conference on Machine Learning",
       "short_name": "ACML",
-      "theme": "機械学習",
+      "themes": [
+        "機械学習"
+      ],
       "rank": "B",
       "category": "機械学習",
       "information": {
@@ -2664,18 +2798,46 @@
       "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=189751&copyownerid=13149"
     },
     {
+      "name": "Asian Quantum Information Science Conference",
+      "short_name": "",
+      "themes": [
+        "量子力学"
+      ],
+      "rank": "A",
+      "category": "量子力学",
+      "information": {},
+      "url": ""
+    },
+    {
       "name": "Asian Symposium on Programming Languages and Systems",
       "short_name": "APLAS",
-      "theme": "量子力学",
+      "themes": [
+        "量子力学",
+        "理論計算機科学",
+        "データ工学"
+      ],
       "rank": "B",
       "category": "量子力学",
       "information": {},
       "url": ""
     },
     {
+      "name": "Biophysical Society Annual Meeting",
+      "short_name": "",
+      "themes": [
+        "生物工学"
+      ],
+      "rank": "A",
+      "category": "バイオデバイス・材料",
+      "information": {},
+      "url": ""
+    },
+    {
       "name": "Boston University Conference on Language Development",
       "short_name": "BUCLD",
-      "theme": "発達科学",
+      "themes": [
+        "発達科学"
+      ],
       "rank": "B",
       "category": "発達科学",
       "information": {},
@@ -2684,7 +2846,9 @@
     {
       "name": "British Machine Vision Conference",
       "short_name": "BMVC",
-      "theme": "コンピュータビジョン",
+      "themes": [
+        "コンピュータビジョン"
+      ],
       "rank": "A",
       "category": "コンピュータビジョン",
       "information": {
@@ -2732,7 +2896,9 @@
     {
       "name": "Certified Programs and Proofs",
       "short_name": "CPP",
-      "theme": "理論計算機科学",
+      "themes": [
+        "理論計算機科学"
+      ],
       "rank": "B",
       "category": "プログラミング言語",
       "information": {},
@@ -2741,7 +2907,9 @@
     {
       "name": "Code Generation and Optimization",
       "short_name": "CGO",
-      "theme": "理論計算機科学",
+      "themes": [
+        "理論計算機科学"
+      ],
       "rank": "A",
       "category": "プログラミング言語",
       "information": {
@@ -2790,7 +2958,9 @@
     {
       "name": "Compiler Construction",
       "short_name": "CC",
-      "theme": "理論計算機科学",
+      "themes": [
+        "理論計算機科学"
+      ],
       "rank": "B",
       "category": "プログラミング言語",
       "information": {
@@ -2850,7 +3020,10 @@
     {
       "name": "Compound Semiconductor Week",
       "short_name": "CSW",
-      "theme": "半導体",
+      "themes": [
+        "半導体",
+        "物性"
+      ],
       "rank": "B",
       "category": "半導体",
       "information": {},
@@ -2859,7 +3032,9 @@
     {
       "name": "Computational Complexity Conference",
       "short_name": "CCC",
-      "theme": "理論計算機科学",
+      "themes": [
+        "理論計算機科学"
+      ],
       "rank": "A",
       "category": "理論計算機科学",
       "information": {},
@@ -2868,7 +3043,9 @@
     {
       "name": "Computer Aided Verification",
       "short_name": "CAV",
-      "theme": "理論計算機科学",
+      "themes": [
+        "理論計算機科学"
+      ],
       "rank": "A",
       "category": "論理・検証",
       "information": {
@@ -2917,7 +3094,9 @@
     {
       "name": "Conference of the European Association for Computational Linguistics",
       "short_name": "EACL",
-      "theme": "自然言語処理",
+      "themes": [
+        "自然言語処理"
+      ],
       "rank": "A",
       "category": "自然言語処理",
       "information": {
@@ -2955,7 +3134,9 @@
     {
       "name": "Conference on Architectures and Mechanisms for Language Processing",
       "short_name": "AMLaP",
-      "theme": "発達科学",
+      "themes": [
+        "発達科学"
+      ],
       "rank": "B",
       "category": "発達科学",
       "information": {},
@@ -2964,7 +3145,9 @@
     {
       "name": "Conference on Computational Natural Language Learning",
       "short_name": "CoNLL",
-      "theme": "自然言語処理",
+      "themes": [
+        "自然言語処理"
+      ],
       "rank": "B",
       "category": "機械学習",
       "information": {
@@ -3024,7 +3207,10 @@
     {
       "name": "Conference on Empirical Methods in Natural Language Processing",
       "short_name": "EMNLP",
-      "theme": "自然言語処理",
+      "themes": [
+        "自然言語処理",
+        "エージェント"
+      ],
       "rank": "S",
       "category": "自然言語処理",
       "information": {},
@@ -3033,7 +3219,9 @@
     {
       "name": "Conference on Integer Programming and Combinatorial Optimization",
       "short_name": "IPCO",
-      "theme": "理論計算機科学",
+      "themes": [
+        "理論計算機科学"
+      ],
       "rank": "B",
       "category": "最適化",
       "information": {
@@ -3093,7 +3281,11 @@
     {
       "name": "Conference on Lasers and Electro-Optics",
       "short_name": "CLEO",
-      "theme": "光学",
+      "themes": [
+        "光学",
+        "半導体",
+        "物性"
+      ],
       "rank": "S",
       "category": "光学",
       "information": {},
@@ -3102,7 +3294,11 @@
     {
       "name": "Conference on Lasers and Electro-Optics Europe",
       "short_name": "CLEO-Europe",
-      "theme": "光学",
+      "themes": [
+        "光学",
+        "半導体",
+        "物性"
+      ],
       "rank": "B",
       "category": "光学",
       "information": {},
@@ -3111,7 +3307,12 @@
     {
       "name": "Conference on Lasers and Electro-Optics Pacific Rim",
       "short_name": "CLEO-PR",
-      "theme": "光通信",
+      "themes": [
+        "光通信",
+        "光学",
+        "半導体",
+        "物性"
+      ],
       "rank": "A",
       "category": "光通信",
       "information": {},
@@ -3120,7 +3321,10 @@
     {
       "name": "Conference on Learning Theory",
       "short_name": "COLT",
-      "theme": "機械学習",
+      "themes": [
+        "機械学習",
+        "理論計算機科学"
+      ],
       "rank": "A",
       "category": "機械学習",
       "information": {
@@ -3171,7 +3375,9 @@
     {
       "name": "Conference on Machine Translation",
       "short_name": "WMT",
-      "theme": "自然言語処理",
+      "themes": [
+        "自然言語処理"
+      ],
       "rank": "B",
       "category": "機械翻訳",
       "information": {},
@@ -3180,7 +3386,10 @@
     {
       "name": "Conference on Neural Information Processing Systems",
       "short_name": "NeurIPS",
-      "theme": "機械学習",
+      "themes": [
+        "機械学習",
+        "エージェント"
+      ],
       "rank": "S",
       "category": "機械学習",
       "information": {
@@ -3229,7 +3438,9 @@
     {
       "name": "Conference on Programming Language Design and Implementation",
       "short_name": "PDLI",
-      "theme": "量子力学",
+      "themes": [
+        "量子力学"
+      ],
       "rank": "A",
       "category": "量子力学",
       "information": {},
@@ -3238,7 +3449,9 @@
     {
       "name": "Conference on Robot Learning",
       "short_name": "CoRL",
-      "theme": "ロボティクス",
+      "themes": [
+        "ロボティクス"
+      ],
       "rank": "B",
       "category": "ロボティクス",
       "information": {},
@@ -3247,7 +3460,9 @@
     {
       "name": "Conference on Uncertainty in Artificial Intelligence",
       "short_name": "UAI",
-      "theme": "機械学習",
+      "themes": [
+        "機械学習"
+      ],
       "rank": "A",
       "category": "機械学習",
       "information": {
@@ -3285,7 +3500,10 @@
     {
       "name": "Conference on the International Speech Communication Association",
       "short_name": "Interspeech",
-      "theme": "音声音響・信号処理",
+      "themes": [
+        "音声音響・信号処理",
+        "Affective Computing"
+      ],
       "rank": "A",
       "category": "音声音響・信号処理",
       "information": {},
@@ -3294,7 +3512,9 @@
     {
       "name": "Conference on the North American Chapter of the Association for Computational Linguistics",
       "short_name": "NAACL",
-      "theme": "自然言語処理",
+      "themes": [
+        "自然言語処理"
+      ],
       "rank": "A",
       "category": "自然言語処理",
       "information": {
@@ -3332,7 +3552,10 @@
     {
       "name": "Design, Automation & Test in Europe Conference & Exhibition",
       "short_name": "DATE",
-      "theme": "量子力学",
+      "themes": [
+        "量子力学",
+        "半導体"
+      ],
       "rank": "A",
       "category": "量子力学",
       "information": {},
@@ -3341,16 +3564,31 @@
     {
       "name": "Device Research Conference",
       "short_name": "DRC",
-      "theme": "物性",
+      "themes": [
+        "物性"
+      ],
       "rank": "A",
       "category": "物性一般",
       "information": {},
       "url": ""
     },
     {
+      "name": "Device Reserch Conference",
+      "short_name": "DRC",
+      "themes": [
+        "半導体"
+      ],
+      "rank": "A",
+      "category": "半導体",
+      "information": {},
+      "url": ""
+    },
+    {
       "name": "Discovery Science",
       "short_name": "DS",
-      "theme": "機械学習",
+      "themes": [
+        "機械学習"
+      ],
       "rank": "B",
       "category": "機械学習",
       "information": {
@@ -3399,16 +3637,22 @@
     {
       "name": "Electrochemical Society Meeting",
       "short_name": "ECS Meeting",
-      "theme": "物性",
+      "themes": [
+        "物性",
+        "生物工学"
+      ],
       "rank": "B",
       "category": "物性一般",
       "information": {},
       "url": ""
     },
     {
-      "name": "Electronic Materials Conference ",
+      "name": "Electronic Materials Conference",
       "short_name": "EMC",
-      "theme": "半導体",
+      "themes": [
+        "半導体",
+        "物性"
+      ],
       "rank": "B",
       "category": "半導体",
       "information": {
@@ -3466,9 +3710,22 @@
       "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=181772&copyownerid=188496"
     },
     {
+      "name": "Eurohaptics",
+      "short_name": "",
+      "themes": [
+        "19 心理学"
+      ],
+      "rank": "B",
+      "category": "19 心理学",
+      "information": {},
+      "url": ""
+    },
+    {
       "name": "European Conference on Advances in Information Retrieval (ECIR)",
       "short_name": "ECIR",
-      "theme": "エージェント",
+      "themes": [
+        "エージェント"
+      ],
       "rank": "A",
       "category": "WEBインテリジェンス",
       "information": {
@@ -3528,7 +3785,9 @@
     {
       "name": "European Conference on Antennas and Propagation",
       "short_name": "EuCAP",
-      "theme": "無線通信",
+      "themes": [
+        "無線通信"
+      ],
       "rank": "B",
       "category": "無線通信",
       "information": {},
@@ -3537,7 +3796,9 @@
     {
       "name": "European Conference on Applied Superconductivity",
       "short_name": "EUCAS",
-      "theme": "物性",
+      "themes": [
+        "物性"
+      ],
       "rank": "B",
       "category": "物性一般",
       "information": {},
@@ -3546,7 +3807,10 @@
     {
       "name": "European Conference on Artificial Intelligence",
       "short_name": "ECAI",
-      "theme": "機械学習",
+      "themes": [
+        "機械学習",
+        "エージェント"
+      ],
       "rank": "A",
       "category": "機械学習",
       "information": {
@@ -3595,7 +3859,9 @@
     {
       "name": "European Conference on Computer Vision",
       "short_name": "ECCV",
-      "theme": "コンピュータビジョン",
+      "themes": [
+        "コンピュータビジョン"
+      ],
       "rank": "S",
       "category": "コンピュータビジョン",
       "information": {},
@@ -3604,7 +3870,9 @@
     {
       "name": "European Conference on Machine Learning and Knowledge Discovery in Databases",
       "short_name": "ECML/PKDD",
-      "theme": "機械学習",
+      "themes": [
+        "機械学習"
+      ],
       "rank": "A",
       "category": "機械学習",
       "information": {
@@ -3653,7 +3921,9 @@
     {
       "name": "European Conference on Object-Oriented Programming",
       "short_name": "ECOOP",
-      "theme": "理論計算機科学",
+      "themes": [
+        "理論計算機科学"
+      ],
       "rank": "A",
       "category": "プログラミング言語",
       "information": {
@@ -3731,7 +4001,11 @@
     {
       "name": "European Conference on Optical Communication",
       "short_name": "ECOC",
-      "theme": "光通信",
+      "themes": [
+        "光通信",
+        "量子力学",
+        "光学"
+      ],
       "rank": "B",
       "category": "光通信",
       "information": {},
@@ -3740,7 +4014,9 @@
     {
       "name": "European Conference on Parallel Computing",
       "short_name": "EuroPar",
-      "theme": "データ工学",
+      "themes": [
+        "データ工学"
+      ],
       "rank": "B",
       "category": "データ工学",
       "information": {
@@ -3800,25 +4076,42 @@
     {
       "name": "European Microwave Conference",
       "short_name": "EuMC",
-      "theme": "半導体",
+      "themes": [
+        "半導体"
+      ],
       "rank": "B",
       "category": "集積電子回路",
       "information": {},
       "url": ""
     },
     {
-      "name": "European Photovoltaic Solar Energy Conference and Exhibition ",
+      "name": "European Photovoltaic Solar Energy Conference and Exhibition",
       "short_name": "EU-PVSEC",
-      "theme": "物性",
+      "themes": [
+        "物性"
+      ],
       "rank": "B",
       "category": "物性一般",
       "information": {},
       "url": ""
     },
     {
+      "name": "European Physical Society Conference on Plasma Physics",
+      "short_name": "",
+      "themes": [
+        "エネルギー一般"
+      ],
+      "rank": "B",
+      "category": "b:プラズマ・核融合",
+      "information": {},
+      "url": ""
+    },
+    {
       "name": "European Signal Processing Conference",
       "short_name": "EUSIPCO",
-      "theme": "音声音響・信号処理",
+      "themes": [
+        "音声音響・信号処理"
+      ],
       "rank": "B",
       "category": "音声音響・信号処理",
       "information": {
@@ -3878,7 +4171,9 @@
     {
       "name": "European Symposium on Algorithms",
       "short_name": "ESA",
-      "theme": "理論計算機科学",
+      "themes": [
+        "理論計算機科学"
+      ],
       "rank": "A",
       "category": "理論計算機科学",
       "information": {
@@ -3938,7 +4233,9 @@
     {
       "name": "European Symposium on Artificial Neural Networks",
       "short_name": "ESANN",
-      "theme": "機械学習",
+      "themes": [
+        "機械学習"
+      ],
       "rank": "B",
       "category": "機械学習",
       "information": {
@@ -3987,7 +4284,9 @@
     {
       "name": "European Symposium on Programming",
       "short_name": "ESOP",
-      "theme": "理論計算機科学",
+      "themes": [
+        "理論計算機科学"
+      ],
       "rank": "A",
       "category": "プログラミング言語",
       "information": {},
@@ -3996,7 +4295,9 @@
     {
       "name": "European Symposium on Research in Computer Security",
       "short_name": "ESORICS",
-      "theme": "セキュリティ",
+      "themes": [
+        "セキュリティ"
+      ],
       "rank": "A",
       "category": "サイバーセキュリティ",
       "information": {
@@ -4056,7 +4357,9 @@
     {
       "name": "European Workshop on Metalorganic Vapour Phase Epitaxy",
       "short_name": "EWMOVPE",
-      "theme": "半導体",
+      "themes": [
+        "半導体"
+      ],
       "rank": "B",
       "category": "半導体",
       "information": {},
@@ -4065,7 +4368,9 @@
     {
       "name": "Extended Semantic Web Conference (ESWC)",
       "short_name": "ESWC",
-      "theme": "エージェント",
+      "themes": [
+        "エージェント"
+      ],
       "rank": "B",
       "category": "知識処理",
       "information": {
@@ -4136,7 +4441,9 @@
     {
       "name": "Federation of European Neuroscience Societies Forum",
       "short_name": "FENS",
-      "theme": "生物工学",
+      "themes": [
+        "生物工学"
+      ],
       "rank": "B",
       "category": "バイオデバイス・材料",
       "information": {},
@@ -4145,7 +4452,9 @@
     {
       "name": "Formal Methods in Computer-Aided Design",
       "short_name": "FMCAD",
-      "theme": "理論計算機科学",
+      "themes": [
+        "理論計算機科学"
+      ],
       "rank": "B",
       "category": "論理・検証",
       "information": {},
@@ -4154,7 +4463,9 @@
     {
       "name": "Formal Structures for Computation and Deduction",
       "short_name": "FSCD",
-      "theme": "理論計算機科学",
+      "themes": [
+        "理論計算機科学"
+      ],
       "rank": "B",
       "category": "論理・検証",
       "information": {},
@@ -4163,7 +4474,9 @@
     {
       "name": "Foundations of Software Science and Computation Structures",
       "short_name": "FoSSaCS",
-      "theme": "理論計算機科学",
+      "themes": [
+        "理論計算機科学"
+      ],
       "rank": "A",
       "category": "プログラミング言語",
       "information": {},
@@ -4172,7 +4485,9 @@
     {
       "name": "Foundations of Software Technology and Theoretical Computer Science",
       "short_name": "FST&TCS",
-      "theme": "理論計算機科学",
+      "themes": [
+        "理論計算機科学"
+      ],
       "rank": "B",
       "category": "形式言語・オートマトン理論",
       "information": {},
@@ -4181,16 +4496,44 @@
     {
       "name": "Frontiers in Optics + Laser Science",
       "short_name": "FiO+LS",
-      "theme": "量子力学",
+      "themes": [
+        "量子力学",
+        "半導体",
+        "物性"
+      ],
       "rank": "A",
       "category": "量子力学",
       "information": {},
       "url": ""
     },
     {
+      "name": "Frontiers in Optics ＋Laser Science",
+      "short_name": "FiO+LS",
+      "themes": [
+        "光学"
+      ],
+      "rank": "B",
+      "category": "光学",
+      "information": {},
+      "url": ""
+    },
+    {
+      "name": "Frontiers of Nanomehcanical Systems",
+      "short_name": "",
+      "themes": [
+        "物性"
+      ],
+      "rank": "A",
+      "category": "物性一般",
+      "information": {},
+      "url": ""
+    },
+    {
       "name": "Fundamental Approaches to Software Engineering",
       "short_name": "FASE",
-      "theme": "データ工学",
+      "themes": [
+        "データ工学"
+      ],
       "rank": "B",
       "category": "ソフトウェア工学",
       "information": {},
@@ -4199,16 +4542,42 @@
     {
       "name": "High Magnetic Field",
       "short_name": "HMF",
-      "theme": "物性",
+      "themes": [
+        "物性"
+      ],
       "rank": "B",
       "category": "物性一般",
       "information": {},
       "url": ""
     },
     {
+      "name": "IAEA Fusion Energy Conference",
+      "short_name": "",
+      "themes": [
+        "エネルギー一般"
+      ],
+      "rank": "A",
+      "category": "b:プラズマ・核融合",
+      "information": {},
+      "url": ""
+    },
+    {
+      "name": "IEEE Aerospace Conference",
+      "short_name": "",
+      "themes": [
+        "宇宙環境"
+      ],
+      "rank": "B",
+      "category": "a:宇宙工学",
+      "information": {},
+      "url": ""
+    },
+    {
       "name": "IEEE Applied Power Electronics Conference and Exposition",
       "short_name": "APEC",
-      "theme": "エネルギー一般",
+      "themes": [
+        "エネルギー一般"
+      ],
       "rank": "B",
       "category": "a:エネルギー一般",
       "information": {},
@@ -4217,7 +4586,9 @@
     {
       "name": "IEEE Asian Solid-State Circuits Conference",
       "short_name": "A-SSCC",
-      "theme": "半導体",
+      "themes": [
+        "半導体"
+      ],
       "rank": "B",
       "category": "集積電子回路",
       "information": {
@@ -4277,25 +4648,104 @@
     {
       "name": "IEEE BiCMOS and Compound Semiconductor Integrated Circuits and Technology Symposium",
       "short_name": "BCICTS",
-      "theme": "半導体",
+      "themes": [
+        "半導体"
+      ],
       "rank": "A",
       "category": "集積電子回路",
       "information": {},
       "url": ""
     },
     {
-      "name": "IEEE Biomedical Circuits and Systems Conference",
-      "short_name": "BioCAS",
-      "theme": "センシング",
+      "name": "IEEE BioSensors",
+      "short_name": "",
+      "themes": [
+        "センシング"
+      ],
       "rank": "B",
       "category": "センシング",
       "information": {},
       "url": ""
     },
     {
+      "name": "IEEE Biomedical Circuits and Systems Conference",
+      "short_name": "BioCAS",
+      "themes": [
+        "センシング"
+      ],
+      "rank": "B",
+      "category": "センシング",
+      "information": {},
+      "url": ""
+    },
+    {
+      "name": "IEEE CLOUD",
+      "short_name": "",
+      "themes": [
+        "理論計算機科学"
+      ],
+      "rank": "B",
+      "category": "理論計算機科学",
+      "information": {
+        "2026": {
+          "deadlines": [
+            {
+              "type": "submission",
+              "date": "2026-02-15",
+              "label": "Submission Deadline"
+            },
+            {
+              "type": "notification",
+              "date": "2026-03-08",
+              "label": "Notification Due"
+            },
+            {
+              "type": "camera_ready",
+              "date": "2026-03-15",
+              "label": "Final Version Due"
+            }
+          ],
+          "conference_dates": {
+            "start": "2026-05-18",
+            "end": "2026-05-21"
+          }
+        },
+        "2027": {
+          "deadlines": [
+            {
+              "type": "submission",
+              "date": "2027-02-15",
+              "label": "Submission Deadline",
+              "is_predicted": true
+            },
+            {
+              "type": "notification",
+              "date": "2027-03-08",
+              "label": "Notification Due",
+              "is_predicted": true
+            },
+            {
+              "type": "camera_ready",
+              "date": "2027-03-15",
+              "label": "Final Version Due",
+              "is_predicted": true
+            }
+          ],
+          "conference_dates": {
+            "start": "2027-05-18",
+            "end": "2027-05-21"
+          },
+          "is_predicted": true
+        }
+      },
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=190473&copyownerid=66551"
+    },
+    {
       "name": "IEEE Conference on Virtual Reality and 3D User Interfaces",
       "short_name": "IEEE VR",
-      "theme": "HCI",
+      "themes": [
+        "HCI"
+      ],
       "rank": "A",
       "category": "VR, AR",
       "information": {},
@@ -4304,7 +4754,11 @@
     {
       "name": "IEEE Consumer Communications & Networking Conference",
       "short_name": "CCNC",
-      "theme": "光通信",
+      "themes": [
+        "光通信",
+        "無線通信",
+        "ネットワーク"
+      ],
       "rank": "B",
       "category": "光通信",
       "information": {
@@ -4371,7 +4825,9 @@
     {
       "name": "IEEE Custom Integrated Circuis Conference",
       "short_name": "CICC",
-      "theme": "半導体",
+      "themes": [
+        "半導体"
+      ],
       "rank": "B",
       "category": "集積電子回路",
       "information": {},
@@ -4380,7 +4836,9 @@
     {
       "name": "IEEE Electronic Components and Technology Conference",
       "short_name": "ECTC",
-      "theme": "半導体",
+      "themes": [
+        "半導体"
+      ],
       "rank": "S",
       "category": "半導体",
       "information": {},
@@ -4389,7 +4847,9 @@
     {
       "name": "IEEE Energy Conversion Congress and Exposition",
       "short_name": "ECCE",
-      "theme": "エネルギー一般",
+      "themes": [
+        "エネルギー一般"
+      ],
       "rank": "B",
       "category": "a:エネルギー一般",
       "information": {},
@@ -4398,7 +4858,9 @@
     {
       "name": "IEEE European Solid-State Circuits Conference",
       "short_name": "ESSCIRC",
-      "theme": "半導体",
+      "themes": [
+        "半導体"
+      ],
       "rank": "A",
       "category": "集積電子回路",
       "information": {},
@@ -4407,7 +4869,9 @@
     {
       "name": "IEEE European Symposium on Security and Privacy",
       "short_name": "IEEE Euro S&P",
-      "theme": "セキュリティ",
+      "themes": [
+        "セキュリティ"
+      ],
       "rank": "A",
       "category": "サイバーセキュリティ",
       "information": {},
@@ -4416,7 +4880,12 @@
     {
       "name": "IEEE Global Communications Conference",
       "short_name": "GLOBECOM",
-      "theme": "光通信",
+      "themes": [
+        "光通信",
+        "無線通信",
+        "理論計算機科学",
+        "ネットワーク"
+      ],
       "rank": "B",
       "category": "光通信",
       "information": {
@@ -4476,7 +4945,9 @@
     {
       "name": "IEEE Hot Chips Symposium",
       "short_name": "HOT CHIPS",
-      "theme": "半導体",
+      "themes": [
+        "半導体"
+      ],
       "rank": "B",
       "category": "集積電子回路",
       "information": {},
@@ -4485,7 +4956,9 @@
     {
       "name": "IEEE International Conference on Acoustics, Speech and Signal Processing",
       "short_name": "ICASSP",
-      "theme": "音声音響・信号処理",
+      "themes": [
+        "音声音響・信号処理"
+      ],
       "rank": "A",
       "category": "音声音響・信号処理",
       "information": {
@@ -4523,7 +4996,9 @@
     {
       "name": "IEEE International Conference on Automatic Face and Gesture Recognition",
       "short_name": "FG",
-      "theme": "Affective Computing",
+      "themes": [
+        "Affective Computing"
+      ],
       "rank": "A",
       "category": "Affective Computing",
       "information": {},
@@ -4532,7 +5007,10 @@
     {
       "name": "IEEE International Conference on Big Data",
       "short_name": "BigData",
-      "theme": "機械学習",
+      "themes": [
+        "機械学習",
+        "データ工学"
+      ],
       "rank": "B",
       "category": "データマイニング",
       "information": {
@@ -4604,25 +5082,23 @@
     {
       "name": "IEEE International Conference on Cluster Computing",
       "short_name": "CLUSTER",
-      "theme": "データ工学",
+      "themes": [
+        "データ工学",
+        "理論計算機科学"
+      ],
       "rank": "B",
       "category": "データ工学",
       "information": {
         "2026": {
           "deadlines": [
             {
-              "type": "abstract_registration",
-              "date": "2025-12-01",
-              "label": "Abstract Registration Due"
-            },
-            {
               "type": "submission",
-              "date": "2025-12-15",
+              "date": "2026-02-15",
               "label": "Submission Deadline"
             },
             {
               "type": "notification",
-              "date": "2025-02-10",
+              "date": "2026-03-08",
               "label": "Notification Due"
             },
             {
@@ -4662,20 +5138,14 @@
         "2027": {
           "deadlines": [
             {
-              "type": "abstract_registration",
-              "date": "2026-12-01",
-              "label": "Abstract Registration Due",
-              "is_predicted": true
-            },
-            {
               "type": "submission",
-              "date": "2026-12-15",
+              "date": "2027-02-15",
               "label": "Submission Deadline",
               "is_predicted": true
             },
             {
               "type": "notification",
-              "date": "2026-02-10",
+              "date": "2027-03-08",
               "label": "Notification Due",
               "is_predicted": true
             },
@@ -4693,21 +5163,17 @@
           "is_predicted": true
         }
       },
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=189781&copyownerid=195075"
-    },
-    {
-      "name": "IEEE International Conference on Cluster Computing ",
-      "short_name": "IEEE Cluster",
-      "theme": "理論計算機科学",
-      "rank": "B",
-      "category": "コンピューティング分野 (HPC・クラスタ計算や計算機アーキテクチャなど)",
-      "information": {},
-      "url": ""
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=190473&copyownerid=66551"
     },
     {
       "name": "IEEE International Conference on Communications",
       "short_name": "ICC",
-      "theme": "光通信",
+      "themes": [
+        "光通信",
+        "無線通信",
+        "理論計算機科学",
+        "ネットワーク"
+      ],
       "rank": "A",
       "category": "光通信",
       "information": {
@@ -4767,7 +5233,9 @@
     {
       "name": "IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids",
       "short_name": "SmartGridComm",
-      "theme": "エネルギー一般",
+      "themes": [
+        "エネルギー一般"
+      ],
       "rank": "B",
       "category": "a:スマートグリッド",
       "information": {},
@@ -4776,7 +5244,11 @@
     {
       "name": "IEEE International Conference on Computer Communications",
       "short_name": "INFOCOM",
-      "theme": "光通信",
+      "themes": [
+        "光通信",
+        "無線通信",
+        "ネットワーク"
+      ],
       "rank": "SS",
       "category": "光通信",
       "information": {
@@ -4848,7 +5320,9 @@
     {
       "name": "IEEE International Conference on Computers, Software, and Applications",
       "short_name": "COMPSAC",
-      "theme": "データ工学",
+      "themes": [
+        "データ工学"
+      ],
       "rank": "B",
       "category": "ソフトウェア工学",
       "information": {
@@ -4931,7 +5405,9 @@
     {
       "name": "IEEE International Conference on Data Engineering",
       "short_name": "ICDE",
-      "theme": "データ工学",
+      "themes": [
+        "データ工学"
+      ],
       "rank": "S",
       "category": "データ工学",
       "information": {
@@ -4969,7 +5445,10 @@
     {
       "name": "IEEE International Conference on Data Mining",
       "short_name": "ICDM",
-      "theme": "機械学習",
+      "themes": [
+        "機械学習",
+        "データ工学"
+      ],
       "rank": "A",
       "category": "データマイニング",
       "information": {
@@ -5018,7 +5497,9 @@
     {
       "name": "IEEE International Conference on Data Science and Advanced Analytics",
       "short_name": "DSAA",
-      "theme": "機械学習",
+      "themes": [
+        "機械学習"
+      ],
       "rank": "B",
       "category": "機械学習",
       "information": {},
@@ -5027,7 +5508,10 @@
     {
       "name": "IEEE International Conference on Distributed Computing Systems",
       "short_name": "ICDCS",
-      "theme": "理論計算機科学",
+      "themes": [
+        "理論計算機科学",
+        "データ工学"
+      ],
       "rank": "A",
       "category": "理論計算機科学",
       "information": {
@@ -5104,7 +5588,10 @@
     {
       "name": "IEEE International Conference on Image Processing",
       "short_name": "ICIP",
-      "theme": "コンピュータビジョン",
+      "themes": [
+        "コンピュータビジョン",
+        "Affective Computing"
+      ],
       "rank": "B",
       "category": "コンピュータビジョン",
       "information": {
@@ -5177,7 +5664,9 @@
     {
       "name": "IEEE International Conference on Mechatronics and Automation",
       "short_name": "ICMA",
-      "theme": "ロボティクス",
+      "themes": [
+        "ロボティクス"
+      ],
       "rank": "B",
       "category": "ロボティクス",
       "information": {},
@@ -5186,7 +5675,10 @@
     {
       "name": "IEEE International Conference on Multimedia and Expo",
       "short_name": "ICME",
-      "theme": "コンピュータビジョン",
+      "themes": [
+        "コンピュータビジョン",
+        "HCI"
+      ],
       "rank": "A",
       "category": "マルチメディア",
       "information": {
@@ -5224,7 +5716,11 @@
     {
       "name": "IEEE International Conference on Network Protocols",
       "short_name": "ICNP",
-      "theme": "光通信",
+      "themes": [
+        "光通信",
+        "無線通信",
+        "ネットワーク"
+      ],
       "rank": "B",
       "category": "光通信",
       "information": {
@@ -5295,7 +5791,9 @@
     {
       "name": "IEEE International Conference on Network Softwarization",
       "short_name": "NetSoft",
-      "theme": "ネットワーク",
+      "themes": [
+        "ネットワーク"
+      ],
       "rank": "B",
       "category": "",
       "information": {
@@ -5355,7 +5853,9 @@
     {
       "name": "IEEE International Conference on Pervasive Computing and Communications",
       "short_name": "PerCom",
-      "theme": "センシング",
+      "themes": [
+        "センシング"
+      ],
       "rank": "S",
       "category": "ユビキタス・センサ処理",
       "information": {
@@ -5449,7 +5949,9 @@
     {
       "name": "IEEE International Conference on Robotics and Automation",
       "short_name": "ICRA",
-      "theme": "ロボティクス",
+      "themes": [
+        "ロボティクス"
+      ],
       "rank": "A",
       "category": "ロボティクス",
       "information": {
@@ -5498,7 +6000,9 @@
     {
       "name": "IEEE International Conference on Software Analysis, Evolution and Reengineering",
       "short_name": "SANER",
-      "theme": "データ工学",
+      "themes": [
+        "データ工学"
+      ],
       "rank": "A",
       "category": "ソフトウェア工学",
       "information": {
@@ -5569,7 +6073,9 @@
     {
       "name": "IEEE International Conference on Software Maintenance and Evolution",
       "short_name": "ICSME",
-      "theme": "データ工学",
+      "themes": [
+        "データ工学"
+      ],
       "rank": "A",
       "category": "ソフトウェア工学",
       "information": {},
@@ -5578,7 +6084,9 @@
     {
       "name": "IEEE International Conference on Software Testing, Verification and Validation?",
       "short_name": "ICST",
-      "theme": "データ工学",
+      "themes": [
+        "データ工学"
+      ],
       "rank": "A",
       "category": "ソフトウェア工学",
       "information": {
@@ -5649,7 +6157,11 @@
     {
       "name": "IEEE International Conference on Systems, Man, and Cybernetics",
       "short_name": "IEEE SMC",
-      "theme": "神経科学",
+      "themes": [
+        "神経科学",
+        "生物工学",
+        "ロボティクス"
+      ],
       "rank": "A",
       "category": "触覚",
       "information": {},
@@ -5658,7 +6170,9 @@
     {
       "name": "IEEE International Conference on eScience",
       "short_name": "eScience",
-      "theme": "データ工学",
+      "themes": [
+        "データ工学"
+      ],
       "rank": "B",
       "category": "データ工学",
       "information": {
@@ -5696,16 +6210,21 @@
     {
       "name": "IEEE International Electron Devices Meeting",
       "short_name": "IEDM",
-      "theme": "半導体",
+      "themes": [
+        "半導体",
+        "物性"
+      ],
       "rank": "S",
       "category": "半導体",
       "information": {},
       "url": ""
     },
     {
-      "name": "IEEE International Frequency Control Symposium - European Frequency and Time Forum ",
+      "name": "IEEE International Frequency Control Symposium - European Frequency and Time Forum",
       "short_name": "IFCS-EFTF",
-      "theme": "物性",
+      "themes": [
+        "物性"
+      ],
       "rank": "A",
       "category": "光物性",
       "information": {},
@@ -5714,7 +6233,9 @@
     {
       "name": "IEEE International Geoscience and Remote Sensing Symposium",
       "short_name": "IGARSS",
-      "theme": "地球環境",
+      "themes": [
+        "地球環境"
+      ],
       "rank": "B",
       "category": "c:地球観測",
       "information": {
@@ -5774,7 +6295,11 @@
     {
       "name": "IEEE International Joint Conference on Neural Networks",
       "short_name": "IJCNN",
-      "theme": "機械学習",
+      "themes": [
+        "機械学習",
+        "神経科学",
+        "Affective Computing"
+      ],
       "rank": "B",
       "category": "機械学習",
       "information": {
@@ -5834,7 +6359,9 @@
     {
       "name": "IEEE International Parallel & Distributed Processing Symposium",
       "short_name": "IPDPS",
-      "theme": "データ工学",
+      "themes": [
+        "データ工学"
+      ],
       "rank": "A",
       "category": "データ工学",
       "information": {
@@ -5928,7 +6455,9 @@
     {
       "name": "IEEE International Requirements Engineering Conference",
       "short_name": "RE",
-      "theme": "データ工学",
+      "themes": [
+        "データ工学"
+      ],
       "rank": "A",
       "category": "ソフトウェア工学",
       "information": {
@@ -5999,7 +6528,10 @@
     {
       "name": "IEEE International Solid-State Circuits Conference",
       "short_name": "ISSCC",
-      "theme": "量子力学",
+      "themes": [
+        "量子力学",
+        "半導体"
+      ],
       "rank": "S",
       "category": "量子力学",
       "information": {},
@@ -6008,7 +6540,9 @@
     {
       "name": "IEEE International Symposium on Field-Programmable Custom Computing Machines",
       "short_name": "FCCM",
-      "theme": "半導体",
+      "themes": [
+        "半導体"
+      ],
       "rank": "A",
       "category": "集積電子回路",
       "information": {},
@@ -6017,7 +6551,11 @@
     {
       "name": "IEEE International Symposium on High-Performance Computer Architecture",
       "short_name": "HPCA",
-      "theme": "量子力学",
+      "themes": [
+        "量子力学",
+        "理論計算機科学",
+        "データ工学"
+      ],
       "rank": "S",
       "category": "量子力学",
       "information": {
@@ -6066,7 +6604,9 @@
     {
       "name": "IEEE International Symposium on Information Theory",
       "short_name": "ISIT",
-      "theme": "音声音響・信号処理",
+      "themes": [
+        "音声音響・信号処理"
+      ],
       "rank": "B",
       "category": "音声音響・信号処理",
       "information": {
@@ -6137,7 +6677,9 @@
     {
       "name": "IEEE International Symposium on Personal, Indoor and Mobile Radio Communications",
       "short_name": "PIMRC",
-      "theme": "無線通信",
+      "themes": [
+        "無線通信"
+      ],
       "rank": "B",
       "category": "無線通信",
       "information": {},
@@ -6146,7 +6688,9 @@
     {
       "name": "IEEE International Symposium on Software Reliability Engineering",
       "short_name": "ISSRE",
-      "theme": "データ工学",
+      "themes": [
+        "データ工学"
+      ],
       "rank": "A",
       "category": "ソフトウェア工学",
       "information": {
@@ -6217,7 +6761,9 @@
     {
       "name": "IEEE International Working Conference on Mining Software Repositories",
       "short_name": "MSR",
-      "theme": "データ工学",
+      "themes": [
+        "データ工学"
+      ],
       "rank": "A",
       "category": "ソフトウェア工学",
       "information": {},
@@ -6226,7 +6772,9 @@
     {
       "name": "IEEE International Working Conference on Software Visualisation",
       "short_name": "VISSOFT",
-      "theme": "データ工学",
+      "themes": [
+        "データ工学"
+      ],
       "rank": "B",
       "category": "ソフトウェア工学",
       "information": {
@@ -6297,7 +6845,10 @@
     {
       "name": "IEEE MTT-S International Microwave Symposium",
       "short_name": "IMS",
-      "theme": "無線通信",
+      "themes": [
+        "無線通信",
+        "半導体"
+      ],
       "rank": "A",
       "category": "無線通信",
       "information": {
@@ -6357,7 +6908,9 @@
     {
       "name": "IEEE Network Operations and Management Symposium",
       "short_name": "NOMS",
-      "theme": "ネットワーク",
+      "themes": [
+        "ネットワーク"
+      ],
       "rank": "B",
       "category": "",
       "information": {
@@ -6417,7 +6970,11 @@
     {
       "name": "IEEE Photonics Conference",
       "short_name": "IPC",
-      "theme": "量子力学",
+      "themes": [
+        "量子力学",
+        "半導体",
+        "物性"
+      ],
       "rank": "A",
       "category": "量子力学",
       "information": {
@@ -6453,9 +7010,52 @@
       "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=184687&copyownerid=185630"
     },
     {
+      "name": "IEEE Photonics Confernece",
+      "short_name": "IPC",
+      "themes": [
+        "光学"
+      ],
+      "rank": "B",
+      "category": "光学",
+      "information": {
+        "2025": {
+          "deadlines": [
+            {
+              "type": "submission",
+              "date": "2025-02-10",
+              "label": "Submission Deadline"
+            }
+          ],
+          "conference_dates": {
+            "start": "2025-07-02",
+            "end": "2025-07-04"
+          }
+        },
+        "2026": {
+          "deadlines": [
+            {
+              "type": "submission",
+              "date": "2026-02-10",
+              "label": "Submission Deadline",
+              "is_predicted": true
+            }
+          ],
+          "conference_dates": {
+            "start": "2026-07-02",
+            "end": "2026-07-04"
+          },
+          "is_predicted": true
+        }
+      },
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=184687&copyownerid=185630"
+    },
+    {
       "name": "IEEE Photovoltaic Specialists Conference",
       "short_name": "IEEE PVSC",
-      "theme": "エネルギー一般",
+      "themes": [
+        "エネルギー一般",
+        "物性"
+      ],
       "rank": "B",
       "category": "a:再生可能エネルギー",
       "information": {},
@@ -6464,7 +7064,9 @@
     {
       "name": "IEEE Power and Energy Society General Meeting",
       "short_name": "PESGM",
-      "theme": "エネルギー一般",
+      "themes": [
+        "エネルギー一般"
+      ],
       "rank": "A",
       "category": "a:エネルギー一般",
       "information": {},
@@ -6473,7 +7075,9 @@
     {
       "name": "IEEE Radio & Wireless Symposium",
       "short_name": "RWS",
-      "theme": "半導体",
+      "themes": [
+        "半導体"
+      ],
       "rank": "B",
       "category": "集積電子回路",
       "information": {
@@ -6556,16 +7160,92 @@
     {
       "name": "IEEE Radio Frequency Integrated Circuits Symposium",
       "short_name": "RFIC",
-      "theme": "半導体",
+      "themes": [
+        "半導体"
+      ],
       "rank": "A",
       "category": "集積電子回路",
       "information": {},
       "url": ""
     },
     {
+      "name": "IEEE Sensors",
+      "short_name": "",
+      "themes": [
+        "センシング"
+      ],
+      "rank": "A",
+      "category": "センシング",
+      "information": {
+        "2025": {
+          "deadlines": [
+            {
+              "type": "submission",
+              "date": "2025-12-20",
+              "label": "Submission Deadline"
+            }
+          ],
+          "conference_dates": {}
+        },
+        "2026": {
+          "deadlines": [
+            {
+              "type": "submission",
+              "date": "2026-03-03",
+              "label": "Submission Deadline"
+            },
+            {
+              "type": "notification",
+              "date": "2026-04-30",
+              "label": "Notification Due"
+            },
+            {
+              "type": "camera_ready",
+              "date": "2026-05-15",
+              "label": "Final Version Due"
+            }
+          ],
+          "conference_dates": {
+            "start": "2026-07-18",
+            "end": "2026-07-20"
+          }
+        },
+        "2027": {
+          "deadlines": [
+            {
+              "type": "submission",
+              "date": "2027-03-03",
+              "label": "Submission Deadline",
+              "is_predicted": true
+            },
+            {
+              "type": "notification",
+              "date": "2027-04-30",
+              "label": "Notification Due",
+              "is_predicted": true
+            },
+            {
+              "type": "camera_ready",
+              "date": "2027-05-15",
+              "label": "Final Version Due",
+              "is_predicted": true
+            }
+          ],
+          "conference_dates": {
+            "start": "2027-07-18",
+            "end": "2027-07-20"
+          },
+          "is_predicted": true
+        }
+      },
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=190726&copyownerid=45217"
+    },
+    {
       "name": "IEEE Spoken Language Technology Workshop",
       "short_name": "SLT",
-      "theme": "音声音響・信号処理",
+      "themes": [
+        "音声音響・信号処理"
+      ],
       "rank": "B",
       "category": "音声音響・信号処理",
       "information": {},
@@ -6574,7 +7254,9 @@
     {
       "name": "IEEE Symposium on Foundations of Computer Science",
       "short_name": "FOCS",
-      "theme": "理論計算機科学",
+      "themes": [
+        "理論計算機科学"
+      ],
       "rank": "S",
       "category": "理論計算機科学",
       "information": {},
@@ -6583,7 +7265,9 @@
     {
       "name": "IEEE Symposium on Security and Privacy",
       "short_name": "IEEE S&P",
-      "theme": "セキュリティ",
+      "themes": [
+        "セキュリティ"
+      ],
       "rank": "S",
       "category": "サイバーセキュリティ",
       "information": {},
@@ -6592,7 +7276,10 @@
     {
       "name": "IEEE Symposium on VLSI Technology and Circuits",
       "short_name": "VLSI Symp",
-      "theme": "量子力学",
+      "themes": [
+        "量子力学",
+        "半導体"
+      ],
       "rank": "A",
       "category": "量子力学",
       "information": {},
@@ -6601,7 +7288,9 @@
     {
       "name": "IEEE Vehicular Technology Conference",
       "short_name": "VTC",
-      "theme": "無線通信",
+      "themes": [
+        "無線通信"
+      ],
       "rank": "B",
       "category": "無線通信",
       "information": {},
@@ -6610,7 +7299,9 @@
     {
       "name": "IEEE Wireless Communications and Networking Conference",
       "short_name": "WCNC",
-      "theme": "無線通信",
+      "themes": [
+        "無線通信"
+      ],
       "rank": "B",
       "category": "無線通信",
       "information": {
@@ -6682,7 +7373,9 @@
     {
       "name": "IEEE Workshop on Applications of Signal Processing to Audio and Acoustics",
       "short_name": "WASPAA",
-      "theme": "音声音響・信号処理",
+      "themes": [
+        "音声音響・信号処理"
+      ],
       "rank": "B",
       "category": "音声音響・信号処理",
       "information": {},
@@ -6691,7 +7384,9 @@
     {
       "name": "IEEE Workshop on Automatic Speech Recognition & Understanding",
       "short_name": "ASRU",
-      "theme": "音声音響・信号処理",
+      "themes": [
+        "音声音響・信号処理"
+      ],
       "rank": "B",
       "category": "音声音響・信号処理",
       "information": {},
@@ -6700,7 +7395,9 @@
     {
       "name": "IEEE World Haptics Conference",
       "short_name": "WHC",
-      "theme": "19 心理学",
+      "themes": [
+        "19 心理学"
+      ],
       "rank": "B",
       "category": "19 心理学",
       "information": {
@@ -6738,7 +7435,9 @@
     {
       "name": "IEEE international semiconductor laser conference",
       "short_name": "ISLC",
-      "theme": "半導体",
+      "themes": [
+        "半導体"
+      ],
       "rank": "B",
       "category": "半導体",
       "information": {},
@@ -6747,7 +7446,9 @@
     {
       "name": "IEEE/ACM International Conference on Automated Software Engineering",
       "short_name": "ASE",
-      "theme": "データ工学",
+      "themes": [
+        "データ工学"
+      ],
       "rank": "A",
       "category": "ソフトウェア工学",
       "information": {
@@ -6796,7 +7497,9 @@
     {
       "name": "IEEE/ACM International Symposium on Cluster Computing and the Grid",
       "short_name": "CCGRID",
-      "theme": "データ工学",
+      "themes": [
+        "データ工学"
+      ],
       "rank": "B",
       "category": "データ工学",
       "information": {
@@ -6895,7 +7598,10 @@
     {
       "name": "IEEE/ACM International Symposium on Microarchitecture",
       "short_name": "MICRO",
-      "theme": "量子力学",
+      "themes": [
+        "量子力学",
+        "データ工学"
+      ],
       "rank": "A",
       "category": "量子力学",
       "information": {
@@ -6956,7 +7662,9 @@
     {
       "name": "IEEE/ACM International Symposium on Mixed and Augmented Reality",
       "short_name": "ISMAR",
-      "theme": "HCI",
+      "themes": [
+        "HCI"
+      ],
       "rank": "A",
       "category": "VR, AR",
       "information": {
@@ -7027,7 +7735,9 @@
     {
       "name": "IEEE/ACM International Symposium on Quality of Service",
       "short_name": "IWQoS",
-      "theme": "無線通信",
+      "themes": [
+        "無線通信"
+      ],
       "rank": "B",
       "category": "無線通信",
       "information": {
@@ -7098,7 +7808,9 @@
     {
       "name": "IEEE/CVF Conference on Computer Vision and Patter Recognition",
       "short_name": "CVPR",
-      "theme": "コンピュータビジョン",
+      "themes": [
+        "コンピュータビジョン"
+      ],
       "rank": "S",
       "category": "コンピュータビジョン",
       "information": {
@@ -7158,7 +7870,9 @@
     {
       "name": "IEEE/CVF International Conference on Computer Vision",
       "short_name": "ICCV",
-      "theme": "コンピュータビジョン",
+      "themes": [
+        "コンピュータビジョン"
+      ],
       "rank": "S",
       "category": "コンピュータビジョン",
       "information": {
@@ -7218,7 +7932,9 @@
     {
       "name": "IEEE/CVF Winter Conference on Applications of Computer Vision",
       "short_name": "WACV",
-      "theme": "コンピュータビジョン",
+      "themes": [
+        "コンピュータビジョン"
+      ],
       "rank": "A",
       "category": "コンピュータビジョン",
       "information": {
@@ -7267,7 +7983,9 @@
     {
       "name": "IEEE/IFIP DSN（IEEE/IFIP International Conference on Dependable Systems and Networks）",
       "short_name": "DSN",
-      "theme": "セキュリティ",
+      "themes": [
+        "セキュリティ"
+      ],
       "rank": "A",
       "category": "サイバーセキュリティ",
       "information": {
@@ -7366,7 +8084,9 @@
     {
       "name": "IEEE/RSJ International Conference on Intelligent Robots and Systems",
       "short_name": "IROS",
-      "theme": "ロボティクス",
+      "themes": [
+        "ロボティクス"
+      ],
       "rank": "A",
       "category": "ロボティクス",
       "information": {
@@ -7399,7 +8119,9 @@
     {
       "name": "IFIP Conference on Human-Computer Interaction",
       "short_name": "INTERACT",
-      "theme": "HCI",
+      "themes": [
+        "HCI"
+      ],
       "rank": "B",
       "category": "HCI",
       "information": {},
@@ -7408,7 +8130,9 @@
     {
       "name": "Intelligent Virtual Agents",
       "short_name": "IVA",
-      "theme": "HCI",
+      "themes": [
+        "HCI"
+      ],
       "rank": "B",
       "category": "HCI",
       "information": {
@@ -7461,7 +8185,9 @@
     {
       "name": "Interactive Theorem Proving",
       "short_name": "ITP",
-      "theme": "理論計算機科学",
+      "themes": [
+        "理論計算機科学"
+      ],
       "rank": "A",
       "category": "論理・検証",
       "information": {},
@@ -7470,7 +8196,9 @@
     {
       "name": "International ACM SIGACCESS Conference on Computers and Accessibility",
       "short_name": "ASSETS",
-      "theme": "HCI",
+      "themes": [
+        "HCI"
+      ],
       "rank": "A",
       "category": "HCI",
       "information": {
@@ -7519,7 +8247,9 @@
     {
       "name": "International Colloquium on Automata Languages and Programming",
       "short_name": "ICALP",
-      "theme": "理論計算機科学",
+      "themes": [
+        "理論計算機科学"
+      ],
       "rank": "A",
       "category": "理論計算機科学",
       "information": {
@@ -7602,7 +8332,10 @@
     {
       "name": "International Conference On Computer-Aided Design",
       "short_name": "ICCAD",
-      "theme": "半導体",
+      "themes": [
+        "半導体",
+        "機械学習"
+      ],
       "rank": "A",
       "category": "設計",
       "information": {
@@ -7690,7 +8423,9 @@
     {
       "name": "International Conference and Workshop on Algorithms and Computation",
       "short_name": "WALCOM",
-      "theme": "理論計算機科学",
+      "themes": [
+        "理論計算機科学"
+      ],
       "rank": "B",
       "category": "理論計算機科学",
       "information": {
@@ -7750,7 +8485,11 @@
     {
       "name": "International Conference for High Performance Computing, Networking, Storage, and Analysis",
       "short_name": "SC",
-      "theme": "量子力学",
+      "themes": [
+        "量子力学",
+        "理論計算機科学",
+        "データ工学"
+      ],
       "rank": "A",
       "category": "量子力学",
       "information": {
@@ -7821,7 +8560,12 @@
     {
       "name": "International Conference of the IEEE Engineering in Medicine and Biology Society",
       "short_name": "EMBC",
-      "theme": "センシング",
+      "themes": [
+        "センシング",
+        "神経科学",
+        "生物工学",
+        "Affective Computing"
+      ],
       "rank": "A",
       "category": "センシング",
       "information": {
@@ -7881,7 +8625,9 @@
     {
       "name": "International Conference on 3D Vision",
       "short_name": "3DV",
-      "theme": "コンピュータビジョン",
+      "themes": [
+        "コンピュータビジョン"
+      ],
       "rank": "B",
       "category": "コンピュータビジョン",
       "information": {
@@ -7948,7 +8694,9 @@
     {
       "name": "International Conference on Affective Computing and Intelligent Interaction",
       "short_name": "ACII",
-      "theme": "Affective Computing",
+      "themes": [
+        "Affective Computing"
+      ],
       "rank": "A",
       "category": "Affective Computing",
       "information": {
@@ -8002,7 +8750,9 @@
     {
       "name": "International Conference on Applied Cryptography and Network Security",
       "short_name": "ACNS",
-      "theme": "セキュリティ",
+      "themes": [
+        "セキュリティ"
+      ],
       "rank": "B",
       "category": "サイバーセキュリティ",
       "information": {
@@ -8062,7 +8812,11 @@
     {
       "name": "International Conference on Architectural Support for Programming Languages and Operating Systems",
       "short_name": "ASPLOS",
-      "theme": "量子力学",
+      "themes": [
+        "量子力学",
+        "理論計算機科学",
+        "データ工学"
+      ],
       "rank": "S",
       "category": "量子力学",
       "information": {
@@ -8145,7 +8899,9 @@
     {
       "name": "International Conference on Artificial Intelligence and Statistics",
       "short_name": "AISTATS",
-      "theme": "機械学習",
+      "themes": [
+        "機械学習"
+      ],
       "rank": "A",
       "category": "機械学習",
       "information": {
@@ -8178,7 +8934,9 @@
     {
       "name": "International Conference on Artificial Neural Networks",
       "short_name": "ICANN",
-      "theme": "Affective Computing",
+      "themes": [
+        "Affective Computing"
+      ],
       "rank": "B",
       "category": "Affective Computing",
       "information": {
@@ -8229,7 +8987,10 @@
     {
       "name": "International Conference on Automated Planning and Scheduling",
       "short_name": "ICAPS",
-      "theme": "理論計算機科学",
+      "themes": [
+        "理論計算機科学",
+        "機械学習"
+      ],
       "rank": "A",
       "category": "理論計算機科学",
       "information": {
@@ -8278,7 +9039,9 @@
     {
       "name": "International Conference on Autonomous Agents and Multiagent Systems",
       "short_name": "AAMAS",
-      "theme": "エージェント",
+      "themes": [
+        "エージェント"
+      ],
       "rank": "A",
       "category": "エージェント",
       "information": {
@@ -8377,7 +9140,9 @@
     {
       "name": "International Conference on Compound Semiconductor Manufacturing Technology",
       "short_name": "CS Mantech",
-      "theme": "半導体",
+      "themes": [
+        "半導体"
+      ],
       "rank": "B",
       "category": "半導体",
       "information": {},
@@ -8386,7 +9151,10 @@
     {
       "name": "International Conference on Computational Linguistics",
       "short_name": "COLING",
-      "theme": "自然言語処理",
+      "themes": [
+        "自然言語処理",
+        "エージェント"
+      ],
       "rank": "B",
       "category": "自然言語処理",
       "information": {
@@ -8435,7 +9203,9 @@
     {
       "name": "International Conference on Computer Communication and Networks",
       "short_name": "ICCCN",
-      "theme": "ネットワーク",
+      "themes": [
+        "ネットワーク"
+      ],
       "rank": "B",
       "category": "",
       "information": {},
@@ -8444,7 +9214,9 @@
     {
       "name": "International Conference on Computing, Networking and Communications",
       "short_name": "ICNC",
-      "theme": "ネットワーク",
+      "themes": [
+        "ネットワーク"
+      ],
       "rank": "A",
       "category": "",
       "information": {
@@ -8504,7 +9276,9 @@
     {
       "name": "International Conference on Database Systems for Advanced Applications",
       "short_name": "DASFAA",
-      "theme": "データ工学",
+      "themes": [
+        "データ工学"
+      ],
       "rank": "B",
       "category": "データ工学",
       "information": {
@@ -8575,7 +9349,10 @@
     {
       "name": "International Conference on Diamond and Carbon Materials",
       "short_name": "ICDCM",
-      "theme": "半導体",
+      "themes": [
+        "半導体",
+        "物性"
+      ],
       "rank": "B",
       "category": "半導体",
       "information": {
@@ -8626,7 +9403,9 @@
     {
       "name": "International Conference on Document Analysis and Recognition",
       "short_name": "ICDAR",
-      "theme": "コンピュータビジョン",
+      "themes": [
+        "コンピュータビジョン"
+      ],
       "rank": "A",
       "category": "コンピュータビジョン",
       "information": {},
@@ -8635,7 +9414,9 @@
     {
       "name": "International Conference on Electronics Packaging",
       "short_name": "ICEP",
-      "theme": "半導体",
+      "themes": [
+        "半導体"
+      ],
       "rank": "B",
       "category": "半導体",
       "information": {
@@ -8673,16 +9454,31 @@
     {
       "name": "International Conference on Electronics and Sustainable Communication Systems",
       "short_name": "ICESC",
-      "theme": "エネルギー一般",
+      "themes": [
+        "エネルギー一般"
+      ],
       "rank": "B",
       "category": "a:エネルギー一般",
       "information": {},
       "url": ""
     },
     {
+      "name": "International Conference on Electronics, Communication and Aerospace Technology",
+      "short_name": "",
+      "themes": [
+        "宇宙環境"
+      ],
+      "rank": "B",
+      "category": "a:宇宙工学",
+      "information": {},
+      "url": ""
+    },
+    {
       "name": "International Conference on Field Programmable Logic and Applications",
       "short_name": "FPL",
-      "theme": "半導体",
+      "themes": [
+        "半導体"
+      ],
       "rank": "A",
       "category": "集積電子回路",
       "information": {
@@ -8742,7 +9538,9 @@
     {
       "name": "International Conference on Field Programmable Technology",
       "short_name": "FPT",
-      "theme": "半導体",
+      "themes": [
+        "半導体"
+      ],
       "rank": "B",
       "category": "集積電子回路",
       "information": {
@@ -8802,7 +9600,9 @@
     {
       "name": "International Conference on Financial Cryptography and Data Security",
       "short_name": "FC",
-      "theme": "セキュリティ",
+      "themes": [
+        "セキュリティ"
+      ],
       "rank": "A",
       "category": "データセキュリティ",
       "information": {
@@ -8862,7 +9662,9 @@
     {
       "name": "International Conference on Functional Programming",
       "short_name": "ICFP",
-      "theme": "理論計算機科学",
+      "themes": [
+        "理論計算機科学"
+      ],
       "rank": "A",
       "category": "プログラミング言語",
       "information": {},
@@ -8871,7 +9673,10 @@
     {
       "name": "International Conference on Generative Programming and Component Engineering",
       "short_name": "GPCE",
-      "theme": "理論計算機科学",
+      "themes": [
+        "理論計算機科学",
+        "データ工学"
+      ],
       "rank": "B",
       "category": "プログラミング言語",
       "information": {},
@@ -8880,7 +9685,9 @@
     {
       "name": "International Conference on Intelligent Sustainable Systems",
       "short_name": "ICISS",
-      "theme": "エネルギー一般",
+      "themes": [
+        "エネルギー一般"
+      ],
       "rank": "B",
       "category": "a:エネルギー一般",
       "information": {
@@ -8963,7 +9770,9 @@
     {
       "name": "International Conference on Intelligent User Interfaces",
       "short_name": "IUI",
-      "theme": "HCI",
+      "themes": [
+        "HCI"
+      ],
       "rank": "A",
       "category": "HCI",
       "information": {
@@ -9034,7 +9843,10 @@
     {
       "name": "International Conference on Language Resources and Evaluation",
       "short_name": "LREC",
-      "theme": "Affective Computing",
+      "themes": [
+        "Affective Computing",
+        "自然言語処理"
+      ],
       "rank": "B",
       "category": "Affective Computing",
       "information": {
@@ -9094,7 +9906,10 @@
     {
       "name": "International Conference on Learning Representations",
       "short_name": "ICLR",
-      "theme": "機械学習",
+      "themes": [
+        "機械学習",
+        "エージェント"
+      ],
       "rank": "S",
       "category": "機械学習",
       "information": {
@@ -9166,7 +9981,9 @@
     {
       "name": "International Conference on Logic Programming",
       "short_name": "ICLP",
-      "theme": "理論計算機科学",
+      "themes": [
+        "理論計算機科学"
+      ],
       "rank": "A",
       "category": "論理・検証",
       "information": {
@@ -9237,7 +10054,10 @@
     {
       "name": "International Conference on Machine Learning",
       "short_name": "ICML",
-      "theme": "機械学習",
+      "themes": [
+        "機械学習",
+        "エージェント"
+      ],
       "rank": "S",
       "category": "機械学習",
       "information": {
@@ -9304,7 +10124,9 @@
     {
       "name": "International Conference on Medical Image Computing and Computer Assisted Intervention",
       "short_name": "MICCAI",
-      "theme": "コンピュータビジョン",
+      "themes": [
+        "コンピュータビジョン"
+      ],
       "rank": "A",
       "category": "医用画像処理",
       "information": {
@@ -9364,7 +10186,10 @@
     {
       "name": "International Conference on Metal Organic Vapor Phase Epitaxy",
       "short_name": "ICMOVPE",
-      "theme": "半導体",
+      "themes": [
+        "半導体",
+        "物性"
+      ],
       "rank": "B",
       "category": "半導体",
       "information": {},
@@ -9373,7 +10198,9 @@
     {
       "name": "International Conference on Miniaturized Systems for Chemistry and Life Sciences",
       "short_name": "MicroTAS",
-      "theme": "生物工学",
+      "themes": [
+        "生物工学"
+      ],
       "rank": "A",
       "category": "バイオデバイス・材料",
       "information": {},
@@ -9382,7 +10209,10 @@
     {
       "name": "International Conference on Molecular Beam Epitaxy",
       "short_name": "ICMBE",
-      "theme": "半導体",
+      "themes": [
+        "半導体",
+        "物性"
+      ],
       "rank": "B",
       "category": "半導体",
       "information": {},
@@ -9391,7 +10221,10 @@
     {
       "name": "International Conference on Multimodal Interaction/Interface",
       "short_name": "ICMI",
-      "theme": "HCI",
+      "themes": [
+        "HCI",
+        "Affective Computing"
+      ],
       "rank": "A",
       "category": "HCI",
       "information": {
@@ -9460,9 +10293,11 @@
       "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=190404&copyownerid=195712"
     },
     {
-      "name": "International Conference on Network and Service Management ",
+      "name": "International Conference on Network and Service Management",
       "short_name": "CNSM",
-      "theme": "ネットワーク",
+      "themes": [
+        "ネットワーク"
+      ],
       "rank": "B",
       "category": "",
       "information": {
@@ -9522,7 +10357,10 @@
     {
       "name": "International Conference on Neural Information Processing",
       "short_name": "ICONIP",
-      "theme": "機械学習",
+      "themes": [
+        "機械学習",
+        "神経科学"
+      ],
       "rank": "B",
       "category": "機械学習",
       "information": {
@@ -9582,7 +10420,10 @@
     {
       "name": "International Conference on Nitride Semiconductors",
       "short_name": "ICNS",
-      "theme": "半導体",
+      "themes": [
+        "半導体",
+        "物性"
+      ],
       "rank": "B",
       "category": "半導体",
       "information": {
@@ -9663,9 +10504,22 @@
       "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=189793&copyownerid=83510"
     },
     {
+      "name": "International Conference on Optical Fiber Sensors OFS",
+      "short_name": "",
+      "themes": [
+        "光学"
+      ],
+      "rank": "B",
+      "category": "光伝送媒体",
+      "information": {},
+      "url": ""
+    },
+    {
       "name": "International Conference on Parallel Architecture and Compilation Techniques",
       "short_name": "PACT",
-      "theme": "データ工学",
+      "themes": [
+        "データ工学"
+      ],
       "rank": "B",
       "category": "データ工学",
       "information": {
@@ -9736,7 +10590,10 @@
     {
       "name": "International Conference on Pattern Recognition",
       "short_name": "ICPR",
-      "theme": "コンピュータビジョン",
+      "themes": [
+        "コンピュータビジョン",
+        "機械学習"
+      ],
       "rank": "B",
       "category": "コンピュータビジョン",
       "information": {
@@ -9761,7 +10618,9 @@
     {
       "name": "International Conference on Photonics in Switching and Computing",
       "short_name": "PSC",
-      "theme": "光通信",
+      "themes": [
+        "光通信"
+      ],
       "rank": "B",
       "category": "光通信",
       "information": {},
@@ -9770,7 +10629,9 @@
     {
       "name": "International Conference on Practice and Theory in Public Key Cryptography",
       "short_name": "PKC",
-      "theme": "セキュリティ",
+      "themes": [
+        "セキュリティ"
+      ],
       "rank": "B",
       "category": "データセキュリティ",
       "information": {},
@@ -9779,7 +10640,10 @@
     {
       "name": "International Conference on Principles of Knowledge Representation and Reasoning",
       "short_name": "KR",
-      "theme": "理論計算機科学",
+      "themes": [
+        "理論計算機科学",
+        "機械学習"
+      ],
       "rank": "A",
       "category": "理論計算機科学",
       "information": {
@@ -9837,9 +10701,33 @@
       "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=186165&copyownerid=192170"
     },
     {
+      "name": "International Conference on Quantum Communication, Measurement and Computing",
+      "short_name": "",
+      "themes": [
+        "量子力学"
+      ],
+      "rank": "A",
+      "category": "量子力学",
+      "information": {},
+      "url": ""
+    },
+    {
+      "name": "International Conference on Quantum Error Correction",
+      "short_name": "",
+      "themes": [
+        "量子力学"
+      ],
+      "rank": "A",
+      "category": "量子力学",
+      "information": {},
+      "url": ""
+    },
+    {
       "name": "International Conference on Software Engineering and Formal Methods",
       "short_name": "SEFM",
-      "theme": "データ工学",
+      "themes": [
+        "データ工学"
+      ],
       "rank": "B",
       "category": "ソフトウェア工学",
       "information": {},
@@ -9848,7 +10736,9 @@
     {
       "name": "International Conference on Software and Systems Processes",
       "short_name": "ICSSP",
-      "theme": "データ工学",
+      "themes": [
+        "データ工学"
+      ],
       "rank": "B",
       "category": "ソフトウェア工学",
       "information": {},
@@ -9857,7 +10747,10 @@
     {
       "name": "International Conference on Solid State Devices and Materials",
       "short_name": "SSDM",
-      "theme": "半導体",
+      "themes": [
+        "半導体",
+        "物性"
+      ],
       "rank": "B",
       "category": "半導体",
       "information": {
@@ -9895,7 +10788,9 @@
     {
       "name": "International Conference on Statistical Physics",
       "short_name": "STATPHYS",
-      "theme": "物性",
+      "themes": [
+        "物性"
+      ],
       "rank": "A",
       "category": "物性一般",
       "information": {},
@@ -9904,25 +10799,31 @@
     {
       "name": "International Conference on Tangible Embedded and Embodied Interaction",
       "short_name": "TEI",
-      "theme": "HCI",
+      "themes": [
+        "HCI"
+      ],
       "rank": "B",
       "category": "HCI",
       "information": {},
       "url": ""
     },
     {
-      "name": "International Conference on The Theory and Application of Cryptology and Information Security ",
+      "name": "International Conference on The Theory and Application of Cryptology and Information Security",
       "short_name": "ASIACRYPT",
-      "theme": "セキュリティ",
+      "themes": [
+        "セキュリティ"
+      ],
       "rank": "A",
       "category": "データセキュリティ",
       "information": {},
       "url": ""
     },
     {
-      "name": "International Conference on Theory and Applications of Cryptographic Techniques ",
+      "name": "International Conference on Theory and Applications of Cryptographic Techniques",
       "short_name": "EUROCRYPT",
-      "theme": "セキュリティ",
+      "themes": [
+        "セキュリティ"
+      ],
       "rank": "S",
       "category": "データセキュリティ",
       "information": {},
@@ -9931,7 +10832,9 @@
     {
       "name": "International Conference on Very Large Data Bases",
       "short_name": "VLDB",
-      "theme": "データ工学",
+      "themes": [
+        "データ工学"
+      ],
       "rank": "S",
       "category": "データ工学",
       "information": {
@@ -9980,7 +10883,9 @@
     {
       "name": "International Conference on Web and Social Media (ICWSM)",
       "short_name": "ICWSM",
-      "theme": "エージェント",
+      "themes": [
+        "エージェント"
+      ],
       "rank": "A",
       "category": "WEBインテリジェンス, 行動科学",
       "information": {
@@ -10042,7 +10947,9 @@
     {
       "name": "International Conference on parallel processing",
       "short_name": "ICPP",
-      "theme": "データ工学",
+      "themes": [
+        "データ工学"
+      ],
       "rank": "B",
       "category": "データ工学",
       "information": {
@@ -10102,7 +11009,10 @@
     {
       "name": "International Conference on the Electronic Properties of Two-Dimensional Systems / International Conference on Modulated Semiconductor Structures",
       "short_name": "EP2DS/MSS",
-      "theme": "半導体",
+      "themes": [
+        "半導体",
+        "物性"
+      ],
       "rank": "A",
       "category": "半導体物理",
       "information": {},
@@ -10111,7 +11021,10 @@
     {
       "name": "International Conference on the Physics of Semiconductors",
       "short_name": "ICPS",
-      "theme": "半導体",
+      "themes": [
+        "半導体",
+        "物性"
+      ],
       "rank": "A",
       "category": "半導体物理",
       "information": {
@@ -10171,7 +11084,9 @@
     {
       "name": "International Congress of Mathematicians",
       "short_name": "ICM",
-      "theme": "基礎数学",
+      "themes": [
+        "基礎数学"
+      ],
       "rank": "SS",
       "category": "基礎数学",
       "information": {},
@@ -10180,7 +11095,9 @@
     {
       "name": "International Cryptology Conference (Advances in Cryptology)",
       "short_name": "CRYPTO",
-      "theme": "セキュリティ",
+      "themes": [
+        "セキュリティ"
+      ],
       "rank": "S",
       "category": "データセキュリティ",
       "information": {
@@ -10247,7 +11164,10 @@
     {
       "name": "International Joint Conference on Artificial Intelligence",
       "short_name": "IJCAI",
-      "theme": "機械学習",
+      "themes": [
+        "機械学習",
+        "エージェント"
+      ],
       "rank": "S",
       "category": "人工知能（機械学習）",
       "information": {
@@ -10303,7 +11223,9 @@
     {
       "name": "International Joint Conference on Natural Language Processing",
       "short_name": "IJCNLP",
-      "theme": "自然言語処理",
+      "themes": [
+        "自然言語処理"
+      ],
       "rank": "B",
       "category": "自然言語処理",
       "information": {
@@ -10363,7 +11285,9 @@
     {
       "name": "International Natural Language Generation Conference",
       "short_name": "INLG",
-      "theme": "自然言語処理",
+      "themes": [
+        "自然言語処理"
+      ],
       "rank": "B",
       "category": "言語生成",
       "information": {
@@ -10423,7 +11347,9 @@
     {
       "name": "International Semantic Web Conference (ISWC)",
       "short_name": "ISWC",
-      "theme": "エージェント",
+      "themes": [
+        "エージェント"
+      ],
       "rank": "A",
       "category": "知識処理",
       "information": {
@@ -10494,7 +11420,9 @@
     {
       "name": "International Society for Music Information Retrieval Conference",
       "short_name": "ISMIR",
-      "theme": "音声音響・信号処理",
+      "themes": [
+        "音声音響・信号処理"
+      ],
       "rank": "B",
       "category": "音声音響・信号処理",
       "information": {},
@@ -10503,7 +11431,9 @@
     {
       "name": "International Society for the Study of Behavioral Development",
       "short_name": "ISSBD",
-      "theme": "発達科学",
+      "themes": [
+        "発達科学"
+      ],
       "rank": "B",
       "category": "発達科学",
       "information": {},
@@ -10512,7 +11442,9 @@
     {
       "name": "International Symposium on Algorithms and Computation",
       "short_name": "ISAAC",
-      "theme": "理論計算機科学",
+      "themes": [
+        "理論計算機科学"
+      ],
       "rank": "A",
       "category": "理論計算機科学",
       "information": {
@@ -10572,7 +11504,9 @@
     {
       "name": "International Symposium on Circuits and Systems",
       "short_name": "ISCAS",
-      "theme": "半導体",
+      "themes": [
+        "半導体"
+      ],
       "rank": "A",
       "category": "集積電子回路",
       "information": {},
@@ -10581,7 +11515,12 @@
     {
       "name": "International Symposium on Computer Architecture",
       "short_name": "ISCA",
-      "theme": "量子力学",
+      "themes": [
+        "量子力学",
+        "理論計算機科学",
+        "物性",
+        "データ工学"
+      ],
       "rank": "S",
       "category": "量子力学",
       "information": {
@@ -10675,7 +11614,9 @@
     {
       "name": "International Symposium on Experimental Algorithms",
       "short_name": "SEA",
-      "theme": "機械学習",
+      "themes": [
+        "機械学習"
+      ],
       "rank": "B",
       "category": "人工知能（機械学習）",
       "information": {},
@@ -10684,7 +11625,9 @@
     {
       "name": "International Symposium on Formal Methods",
       "short_name": "FM",
-      "theme": "理論計算機科学",
+      "themes": [
+        "理論計算機科学"
+      ],
       "rank": "A",
       "category": "論理・検証",
       "information": {
@@ -10755,7 +11698,9 @@
     {
       "name": "International Symposium on Mathematical Foundations of Computer Science",
       "short_name": "MFCS",
-      "theme": "理論計算機科学",
+      "themes": [
+        "理論計算機科学"
+      ],
       "rank": "A",
       "category": "理論計算機科学",
       "information": {
@@ -10815,7 +11760,10 @@
     {
       "name": "International Symposium on Power Semiconductor Devices and Ics",
       "short_name": "ISPSD",
-      "theme": "半導体",
+      "themes": [
+        "半導体",
+        "物性"
+      ],
       "rank": "B",
       "category": "半導体",
       "information": {},
@@ -10824,7 +11772,9 @@
     {
       "name": "International Symposium on Research in Attacks, Intrusions and Defenses",
       "short_name": "RAID",
-      "theme": "セキュリティ",
+      "themes": [
+        "セキュリティ"
+      ],
       "rank": "A",
       "category": "サイバーセキュリティ",
       "information": {
@@ -10884,7 +11834,9 @@
     {
       "name": "International Symposium on Software Testing and Analysis",
       "short_name": "ISSTA",
-      "theme": "データ工学",
+      "themes": [
+        "データ工学"
+      ],
       "rank": "A",
       "category": "ソフトウェア工学",
       "information": {
@@ -10944,7 +11896,9 @@
     {
       "name": "International Symposium on Theoretical Aspects of Computer Science",
       "short_name": "STACS",
-      "theme": "理論計算機科学",
+      "themes": [
+        "理論計算機科学"
+      ],
       "rank": "A",
       "category": "理論計算機科学",
       "information": {
@@ -11016,7 +11970,9 @@
     {
       "name": "International Systems and Software Product Line conference",
       "short_name": "SPLC",
-      "theme": "データ工学",
+      "themes": [
+        "データ工学"
+      ],
       "rank": "B",
       "category": "ソフトウェア工学",
       "information": {
@@ -11087,7 +12043,10 @@
     {
       "name": "International Workshop on Nitride Semiconductors",
       "short_name": "IWN",
-      "theme": "半導体",
+      "themes": [
+        "半導体",
+        "物性"
+      ],
       "rank": "B",
       "category": "半導体",
       "information": {},
@@ -11096,7 +12055,9 @@
     {
       "name": "International Workshop on Oxide Electronics",
       "short_name": "IWOE",
-      "theme": "物性",
+      "themes": [
+        "物性"
+      ],
       "rank": "A",
       "category": "物性一般",
       "information": {},
@@ -11105,7 +12066,9 @@
     {
       "name": "International Workshop on Requirements Engineering: Foundation for Software Quality",
       "short_name": "REFSQ",
-      "theme": "データ工学",
+      "themes": [
+        "データ工学"
+      ],
       "rank": "B",
       "category": "ソフトウェア工学",
       "information": {
@@ -11176,7 +12139,9 @@
     {
       "name": "International Workshop on Semantic Evaluation",
       "short_name": "SemEval",
-      "theme": "自然言語処理",
+      "themes": [
+        "自然言語処理"
+      ],
       "rank": "B",
       "category": "意味解析",
       "information": {},
@@ -11185,7 +12150,10 @@
     {
       "name": "International Workshop on Ultraviolet Materials and Devices",
       "short_name": "IWUMD",
-      "theme": "半導体",
+      "themes": [
+        "半導体",
+        "物性"
+      ],
       "rank": "B",
       "category": "半導体",
       "information": {},
@@ -11194,7 +12162,10 @@
     {
       "name": "International World Wide Web Conferences",
       "short_name": "WWW",
-      "theme": "機械学習",
+      "themes": [
+        "機械学習",
+        "エージェント"
+      ],
       "rank": "A",
       "category": "データマイニング",
       "information": {
@@ -11255,7 +12226,9 @@
     {
       "name": "International conference on Communications and Electronics",
       "short_name": "ICCE",
-      "theme": "半導体",
+      "themes": [
+        "半導体"
+      ],
       "rank": "A",
       "category": "集積電子回路",
       "information": {
@@ -11341,9 +12314,33 @@
       "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=190740&copyownerid=3400"
     },
     {
+      "name": "KubeCon Europe",
+      "short_name": "",
+      "themes": [
+        "データ工学"
+      ],
+      "rank": "A",
+      "category": "OSS",
+      "information": {},
+      "url": ""
+    },
+    {
+      "name": "KubeCon North America",
+      "short_name": "",
+      "themes": [
+        "データ工学"
+      ],
+      "rank": "A",
+      "category": "OSS",
+      "information": {},
+      "url": ""
+    },
+    {
       "name": "Learning Analytics & Knowledge Conference",
       "short_name": "LAK",
-      "theme": "発達科学",
+      "themes": [
+        "発達科学"
+      ],
       "rank": "A",
       "category": "発達科学",
       "information": {
@@ -11404,7 +12401,9 @@
     {
       "name": "Logic for Programming, Artificial Intelligenceand Reasoning",
       "short_name": "LPAR",
-      "theme": "理論計算機科学",
+      "themes": [
+        "理論計算機科学"
+      ],
       "rank": "B",
       "category": "プログラミング言語",
       "information": {},
@@ -11413,7 +12412,9 @@
     {
       "name": "Logic in Computer Science",
       "short_name": "LICS",
-      "theme": "理論計算機科学",
+      "themes": [
+        "理論計算機科学"
+      ],
       "rank": "A",
       "category": "論理・検証",
       "information": {
@@ -11473,16 +12474,33 @@
     {
       "name": "Low Temperature",
       "short_name": "LT",
-      "theme": "物性",
+      "themes": [
+        "物性"
+      ],
       "rank": "A",
       "category": "物性一般",
       "information": {},
       "url": ""
     },
     {
-      "name": "Material Research Society annual meeting ",
+      "name": "META",
+      "short_name": "",
+      "themes": [
+        "光学"
+      ],
+      "rank": "A",
+      "category": "光学",
+      "information": {},
+      "url": ""
+    },
+    {
+      "name": "Material Research Society annual meeting",
       "short_name": "MRS",
-      "theme": "半導体",
+      "themes": [
+        "半導体",
+        "物性",
+        "生物工学"
+      ],
       "rank": "B",
       "category": "半導体",
       "information": {},
@@ -11491,16 +12509,31 @@
     {
       "name": "Materials Research Meeting",
       "short_name": "MRM",
-      "theme": "物性",
+      "themes": [
+        "物性"
+      ],
       "rank": "B",
       "category": "物質科学",
       "information": {},
       "url": ""
     },
     {
+      "name": "Nanowire Week",
+      "short_name": "",
+      "themes": [
+        "物性"
+      ],
+      "rank": "B",
+      "category": "物性一般",
+      "information": {},
+      "url": ""
+    },
+    {
       "name": "Neural Control of Movement",
       "short_name": "NCM",
-      "theme": "神経科学",
+      "themes": [
+        "神経科学"
+      ],
       "rank": "B",
       "category": "神経科学",
       "information": {},
@@ -11509,7 +12542,9 @@
     {
       "name": "Neuroscience meeting (Society for Neuroscience)",
       "short_name": "SfN",
-      "theme": "神経科学",
+      "themes": [
+        "神経科学"
+      ],
       "rank": "B",
       "category": "神経科学",
       "information": {},
@@ -11518,7 +12553,10 @@
     {
       "name": "New Diamond & Nano Carbons",
       "short_name": "NDNC",
-      "theme": "半導体",
+      "themes": [
+        "半導体",
+        "物性"
+      ],
       "rank": "B",
       "category": "半導体",
       "information": {},
@@ -11527,7 +12565,9 @@
     {
       "name": "Object-oriented Programming, Systems, Languages, and Applications",
       "short_name": "OOPSLA",
-      "theme": "理論計算機科学",
+      "themes": [
+        "理論計算機科学"
+      ],
       "rank": "A",
       "category": "プログラミング言語",
       "information": {
@@ -11563,9 +12603,24 @@
       "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=181461&copyownerid=183380"
     },
     {
+      "name": "Optica Advanced Photonics Congress",
+      "short_name": "",
+      "themes": [
+        "光学"
+      ],
+      "rank": "B",
+      "category": "光学",
+      "information": {},
+      "url": ""
+    },
+    {
       "name": "Optical Fiber Communications Conference and Exhibition",
       "short_name": "OFC",
-      "theme": "光通信",
+      "themes": [
+        "光通信",
+        "量子力学",
+        "光学"
+      ],
       "rank": "A",
       "category": "光通信",
       "information": {},
@@ -11574,7 +12629,9 @@
     {
       "name": "Opto-Electronics and Communications Conference",
       "short_name": "OECC",
-      "theme": "光通信",
+      "themes": [
+        "光通信"
+      ],
       "rank": "B",
       "category": "光通信",
       "information": {},
@@ -11583,7 +12640,9 @@
     {
       "name": "Pacific Rim International Conference on Artificial Intelligence",
       "short_name": "PRICAI",
-      "theme": "機械学習",
+      "themes": [
+        "機械学習"
+      ],
       "rank": "B",
       "category": "機械学習",
       "information": {
@@ -11641,9 +12700,11 @@
       "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=185478&copyownerid=13149"
     },
     {
-      "name": "Pacific Rim Meeting on electrochemical and solid state science ",
+      "name": "Pacific Rim Meeting on electrochemical and solid state science",
       "short_name": "PRiME",
-      "theme": "物性",
+      "themes": [
+        "物性"
+      ],
       "rank": "B",
       "category": "物性一般",
       "information": {},
@@ -11652,7 +12713,9 @@
     {
       "name": "Pacific-Asia Conference on Knowledge Discovery and Data Mining",
       "short_name": "PAKDD",
-      "theme": "機械学習",
+      "themes": [
+        "機械学習"
+      ],
       "rank": "B",
       "category": "データマイニング",
       "information": {
@@ -11735,7 +12798,9 @@
     {
       "name": "Principles and Practice of Constraint Programming",
       "short_name": "CP",
-      "theme": "理論計算機科学",
+      "themes": [
+        "理論計算機科学"
+      ],
       "rank": "A",
       "category": "プログラミング言語",
       "information": {},
@@ -11744,7 +12809,9 @@
     {
       "name": "Privacy Enhancing Technologies Symposium",
       "short_name": "PETS",
-      "theme": "セキュリティ",
+      "themes": [
+        "セキュリティ"
+      ],
       "rank": "A",
       "category": "データセキュリティ",
       "information": {},
@@ -11753,25 +12820,65 @@
     {
       "name": "Product Focused Software Process Improvement",
       "short_name": "PROFES",
-      "theme": "データ工学",
+      "themes": [
+        "データ工学"
+      ],
       "rank": "B",
       "category": "ソフトウェア工学",
       "information": {},
       "url": ""
     },
     {
-      "name": "Quantum Information Processing Conference",
-      "short_name": "QIP",
-      "theme": "量子力学",
+      "name": "Qcrypt",
+      "short_name": "",
+      "themes": [
+        "量子力学",
+        "物性"
+      ],
+      "rank": "B",
+      "category": "量子力学",
+      "information": {},
+      "url": ""
+    },
+    {
+      "name": "Quantum Computing Theory in Practice",
+      "short_name": "",
+      "themes": [
+        "量子力学"
+      ],
       "rank": "A",
       "category": "量子力学",
       "information": {},
       "url": ""
     },
     {
+      "name": "Quantum Information Processing Conference",
+      "short_name": "QIP",
+      "themes": [
+        "量子力学"
+      ],
+      "rank": "A",
+      "category": "量子力学",
+      "information": {},
+      "url": ""
+    },
+    {
+      "name": "Quantum Innovation",
+      "short_name": "",
+      "themes": [
+        "物性"
+      ],
+      "rank": "B",
+      "category": "量子物性",
+      "information": {},
+      "url": ""
+    },
+    {
       "name": "Quantum Physics and Logic (Proceeding Trackに限定)",
       "short_name": "QPL",
-      "theme": "量子力学",
+      "themes": [
+        "量子力学"
+      ],
       "rank": "B",
       "category": "量子力学",
       "information": {},
@@ -11780,7 +12887,9 @@
     {
       "name": "Robotics: Science and Systems",
       "short_name": "RSS",
-      "theme": "ロボティクス",
+      "themes": [
+        "ロボティクス"
+      ],
       "rank": "B",
       "category": "ロボティクス",
       "information": {},
@@ -11789,7 +12898,9 @@
     {
       "name": "SIAM International Conference on Data Mining",
       "short_name": "SDM",
-      "theme": "機械学習",
+      "themes": [
+        "機械学習"
+      ],
       "rank": "A",
       "category": "データマイニング",
       "information": {
@@ -11838,34 +12949,78 @@
     {
       "name": "SIGGRAPH Asia",
       "short_name": "SiggraphA",
-      "theme": "HCI",
+      "themes": [
+        "HCI"
+      ],
       "rank": "B",
       "category": "マルチメディア",
       "information": {},
       "url": ""
     },
     {
+      "name": "SPIE Optics + Photonics",
+      "short_name": "",
+      "themes": [
+        "量子力学",
+        "光学"
+      ],
+      "rank": "B",
+      "category": "量子力学",
+      "information": {},
+      "url": ""
+    },
+    {
+      "name": "SPIE Photonics West",
+      "short_name": "",
+      "themes": [
+        "量子力学",
+        "光学",
+        "物性"
+      ],
+      "rank": "B",
+      "category": "量子力学",
+      "information": {},
+      "url": ""
+    },
+    {
       "name": "Scandinavian Workshop on Algorithm Theory?",
       "short_name": "SWAT",
-      "theme": "理論計算機科学",
+      "themes": [
+        "理論計算機科学"
+      ],
       "rank": "B",
       "category": "理論計算機科学",
       "information": {},
       "url": ""
     },
     {
+      "name": "Society for Neuroscience (SFN)",
+      "short_name": "",
+      "themes": [
+        "生物工学"
+      ],
+      "rank": "B",
+      "category": "バイオデバイス・材料",
+      "information": {},
+      "url": ""
+    },
+    {
       "name": "Society for Research in Child Development",
       "short_name": "SRCD",
-      "theme": "発達科学",
+      "themes": [
+        "発達科学"
+      ],
       "rank": "B",
       "category": "発達科学",
       "information": {},
       "url": ""
     },
     {
-      "name": "Software Language Engineering ",
+      "name": "Software Language Engineering",
       "short_name": "FLE",
-      "theme": "理論計算機科学",
+      "themes": [
+        "理論計算機科学"
+      ],
       "rank": "B",
       "category": "プログラミング言語",
       "information": {},
@@ -11874,7 +13029,9 @@
     {
       "name": "Static Analysis Symposium",
       "short_name": "SAS",
-      "theme": "理論計算機科学",
+      "themes": [
+        "理論計算機科学"
+      ],
       "rank": "B",
       "category": "プログラミング言語",
       "information": {
@@ -11923,7 +13080,9 @@
     {
       "name": "Symposium On Usable Privacy and Security",
       "short_name": "USENIX SOUPS",
-      "theme": "セキュリティ",
+      "themes": [
+        "セキュリティ"
+      ],
       "rank": "B",
       "category": "サイバーセキュリティ",
       "information": {},
@@ -11932,7 +13091,9 @@
     {
       "name": "Symposium of Combinatorial Search",
       "short_name": "SoCS",
-      "theme": "機械学習",
+      "themes": [
+        "機械学習"
+      ],
       "rank": "B",
       "category": "人工知能（機械学習）",
       "information": {
@@ -12003,7 +13164,9 @@
     {
       "name": "Symposium on Field Programmable Gate Arrays",
       "short_name": "FPGA",
-      "theme": "半導体",
+      "themes": [
+        "半導体"
+      ],
       "rank": "A",
       "category": "集積電子回路",
       "information": {},
@@ -12012,7 +13175,9 @@
     {
       "name": "Symposium on Operating Systems Design and Implementation",
       "short_name": "OSDI",
-      "theme": "データ工学",
+      "themes": [
+        "データ工学"
+      ],
       "rank": "A",
       "category": "データ工学",
       "information": {
@@ -12083,7 +13248,9 @@
     {
       "name": "The ACM Conference on Fairness, Accountability, and Transparency",
       "short_name": "FAccT",
-      "theme": "HCI",
+      "themes": [
+        "HCI"
+      ],
       "rank": "A",
       "category": "HCI",
       "information": {
@@ -12119,9 +13286,11 @@
       "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=188048&copyownerid=176795"
     },
     {
-      "name": "The Conference on Magnetism and Magnetic Materials ",
+      "name": "The Conference on Magnetism and Magnetic Materials",
       "short_name": "MMM",
-      "theme": "物性",
+      "themes": [
+        "物性"
+      ],
       "rank": "B",
       "category": "物性一般",
       "information": {
@@ -12182,25 +13351,64 @@
     {
       "name": "The Data Compression Conference",
       "short_name": "DCC",
-      "theme": "理論計算機科学",
+      "themes": [
+        "理論計算機科学"
+      ],
       "rank": "B",
       "category": "理論計算機科学",
       "information": {},
       "url": ""
     },
     {
-      "name": "The IEEE International Magnetics Conference ",
+      "name": "The IEEE International Magnetics Conference",
       "short_name": "Intermag",
-      "theme": "物性",
+      "themes": [
+        "物性"
+      ],
       "rank": "B",
       "category": "物性一般",
       "information": {},
       "url": ""
     },
     {
-      "name": "The Joint Conference on Magnetism and Magnetic Materials and Intermag ",
+      "name": "The ISTT International No-Dig",
+      "short_name": "",
+      "themes": [
+        "土木"
+      ],
+      "rank": "B",
+      "category": "",
+      "information": {},
+      "url": ""
+    },
+    {
+      "name": "The International Conference for High Performance Computing, Networking, Storage, and Analysis",
+      "short_name": "",
+      "themes": [
+        "地球環境"
+      ],
+      "rank": "A",
+      "category": "c:地球科学一般",
+      "information": {},
+      "url": ""
+    },
+    {
+      "name": "The International Conference on Magnetism",
+      "short_name": "ICM",
+      "themes": [
+        "物性"
+      ],
+      "rank": "B",
+      "category": "物性一般",
+      "information": {},
+      "url": ""
+    },
+    {
+      "name": "The Joint Conference on Magnetism and Magnetic Materials and Intermag",
       "short_name": "MMM-Intermag",
-      "theme": "物性",
+      "themes": [
+        "物性"
+      ],
       "rank": "B",
       "category": "物性一般",
       "information": {},
@@ -12209,7 +13417,9 @@
     {
       "name": "Theory and Applications of Satisfiability Testing",
       "short_name": "SAT",
-      "theme": "理論計算機科学",
+      "themes": [
+        "理論計算機科学"
+      ],
       "rank": "A",
       "category": "論理・検証",
       "information": {},
@@ -12218,25 +13428,42 @@
     {
       "name": "Theory of Cryptography Conference",
       "short_name": "TCC",
-      "theme": "セキュリティ",
+      "themes": [
+        "セキュリティ"
+      ],
       "rank": "A",
       "category": "データセキュリティ",
       "information": {},
       "url": ""
     },
     {
+      "name": "Theory of Quantum Computation, Communication and Cryptography",
+      "short_name": "",
+      "themes": [
+        "量子力学"
+      ],
+      "rank": "A",
+      "category": "量子力学",
+      "information": {},
+      "url": ""
+    },
+    {
       "name": "Tools and Algorithms for the Construction and Analysis of Systems",
       "short_name": "TACAS",
-      "theme": "理論計算機科学",
+      "themes": [
+        "理論計算機科学"
+      ],
       "rank": "A",
       "category": "プログラミング言語",
       "information": {},
       "url": ""
     },
     {
-      "name": "USENIX Network and Distributed System Security Symposium ",
+      "name": "USENIX Network and Distributed System Security Symposium",
       "short_name": "NDSS",
-      "theme": "セキュリティ",
+      "themes": [
+        "セキュリティ"
+      ],
       "rank": "S",
       "category": "サイバーセキュリティ",
       "information": {
@@ -12296,7 +13523,9 @@
     {
       "name": "USENIX Security Symposium",
       "short_name": "USENIX Security",
-      "theme": "セキュリティ",
+      "themes": [
+        "セキュリティ"
+      ],
       "rank": "S",
       "category": "サイバーセキュリティ",
       "information": {
@@ -12356,7 +13585,9 @@
     {
       "name": "USENIX Symposium on Networked Systems Design and Implementation",
       "short_name": "NSDI",
-      "theme": "データ工学",
+      "themes": [
+        "データ工学"
+      ],
       "rank": "B",
       "category": "データ工学",
       "information": {},
@@ -12365,7 +13596,9 @@
     {
       "name": "Usenix Annual Technical Conference",
       "short_name": "USENIX",
-      "theme": "理論計算機科学",
+      "themes": [
+        "理論計算機科学"
+      ],
       "rank": "A",
       "category": "理論計算機科学",
       "information": {
@@ -12425,7 +13658,9 @@
     {
       "name": "Verification, Model Checking and Abstract Interpretation",
       "short_name": "VMCAI",
-      "theme": "理論計算機科学",
+      "themes": [
+        "理論計算機科学"
+      ],
       "rank": "B",
       "category": "プログラミング言語",
       "information": {
@@ -12485,7 +13720,9 @@
     {
       "name": "Workshop on Algorithm Engineering and Experiments",
       "short_name": "ALENEX",
-      "theme": "理論計算機科学",
+      "themes": [
+        "理論計算機科学"
+      ],
       "rank": "A",
       "category": "理論計算機科学",
       "information": {
@@ -12541,6 +13778,17 @@
         }
       },
       "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=180978&copyownerid=179617"
+    },
+    {
+      "name": "日本数学会総合講演",
+      "short_name": "",
+      "themes": [
+        "基礎数学"
+      ],
+      "rank": "S",
+      "category": "基礎数学",
+      "information": {},
+      "url": ""
     }
   ],
   "themes": [
@@ -12573,5 +13821,5 @@
     "量子力学",
     "音声音響・信号処理"
   ],
-  "last_updated": "2025-11-26 04:37:08"
+  "last_updated": "2025-11-26 05:59:24"
 }
