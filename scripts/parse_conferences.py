@@ -55,32 +55,44 @@ def create_conference_json(conferences: List[Dict]) -> Dict:
         "last_updated": None
     }
 
-    # Group conferences by short_name to merge them
+    # Group conferences by normalized full name to merge duplicates
+    # This handles cases where same conference has different short names
     conferences_map = {}
 
     for conf in conferences:
-        short_name = conf.get("略称", "")
+        # Normalize full name for matching (strip whitespace, lowercase)
+        full_name = conf.get("正式名称", "").strip()
+        full_name_key = full_name.lower().strip()
+
+        # Remove numeric prefix from theme (e.g., "10. " -> "")
+        theme = conf.get("注力テーマ", "")
+        theme = re.sub(r'^\d+\.\s*', '', theme).strip()
 
         # If this conference doesn't exist yet, create it
-        if short_name not in conferences_map:
-            # Remove numeric prefix from theme (e.g., "10. " -> "")
-            theme = conf.get("注力テーマ", "")
-            theme = re.sub(r'^\d+\.\s*', '', theme)
-
+        if full_name_key not in conferences_map:
             conf_data = {
-                "name": conf.get("正式名称", ""),
-                "short_name": short_name,
-                "theme": theme,
+                "name": full_name,
+                "short_name": conf.get("略称", "").strip(),
+                "themes": [theme] if theme else [],  # Changed to array
                 "rank": conf.get("ランク", ""),
                 "category": conf.get("分野小分類", ""),
                 "information": {},  # Year-based information
                 "url": "",  # To be filled by scraping
             }
-            conferences_map[short_name] = conf_data
+            conferences_map[full_name_key] = conf_data
+        else:
+            # Conference already exists, add theme if not already present
+            existing_conf = conferences_map[full_name_key]
+            if theme and theme not in existing_conf["themes"]:
+                existing_conf["themes"].append(theme)
 
-        # Add theme (with numeric prefix removed)
-        theme = conf.get("注力テーマ", "")
-        theme = re.sub(r'^\d+\.\s*', '', theme)
+            # Prefer shorter abbreviation if multiple exist
+            existing_short = existing_conf["short_name"]
+            new_short = conf.get("略称", "").strip()
+            if new_short and (not existing_short or len(new_short) < len(existing_short)):
+                existing_conf["short_name"] = new_short
+
+        # Add theme to global themes set
         if theme:
             structured_data["themes"].add(theme)
 

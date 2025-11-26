@@ -307,8 +307,17 @@ class ConferenceCalendar {
             if (this.currentFilters.themes.size === 0) {
                 return false; // No themes selected = hide all
             }
-            if (!this.currentFilters.themes.has(conf.theme)) {
-                return false; // Conference theme not in selected themes
+
+            // Support both single theme (string) and multiple themes (array)
+            const confThemes = Array.isArray(conf.themes) ? conf.themes : [conf.theme];
+
+            // Check if any of the conference's themes match selected themes
+            const hasMatchingTheme = confThemes.some(theme =>
+                this.currentFilters.themes.has(theme)
+            );
+
+            if (!hasMatchingTheme) {
+                return false; // Conference themes not in selected themes
             }
 
             // Search filter
@@ -316,7 +325,9 @@ class ConferenceCalendar {
                 const searchLower = this.currentFilters.search;
                 const nameMatch = (conf.name || '').toLowerCase().includes(searchLower);
                 const shortNameMatch = (conf.short_name || '').toLowerCase().includes(searchLower);
-                const themeMatch = (conf.theme || '').toLowerCase().includes(searchLower);
+                const themeMatch = confThemes.some(theme =>
+                    (theme || '').toLowerCase().includes(searchLower)
+                );
 
                 if (!nameMatch && !shortNameMatch && !themeMatch) {
                     return false;
@@ -458,7 +469,8 @@ class ConferenceCalendar {
             return {
                 name: conf.name,
                 short_name: conf.short_name,
-                theme: conf.theme,
+                theme: conf.theme,  // Keep for backward compatibility
+                themes: conf.themes,  // New field for multiple themes
                 rank: conf.rank,
                 url: conf.url,
                 paperTypes: conf.paper_types || [],
@@ -517,11 +529,16 @@ class ConferenceCalendar {
         const metaDiv = document.createElement('div');
         metaDiv.className = 'conference-meta';
 
-        // Theme badge
-        const themeBadge = document.createElement('span');
-        themeBadge.className = 'badge badge-theme';
-        themeBadge.textContent = this.stripThemePrefix(conference.theme);
-        metaDiv.appendChild(themeBadge);
+        // Theme badges - support both single theme (string) and multiple themes (array)
+        const confThemes = Array.isArray(conference.themes) ? conference.themes : [conference.theme];
+        confThemes.forEach(theme => {
+            if (theme) {
+                const themeBadge = document.createElement('span');
+                themeBadge.className = 'badge badge-theme';
+                themeBadge.textContent = this.stripThemePrefix(theme);
+                metaDiv.appendChild(themeBadge);
+            }
+        });
 
         // Flagship badge
         if (conference.flagship) {
