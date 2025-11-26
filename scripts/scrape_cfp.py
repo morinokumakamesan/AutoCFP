@@ -29,6 +29,23 @@ class CFPScraper:
             'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'
         })
 
+    def get_exclusion_patterns(self, conference_name: str) -> list:
+        """
+        Get exclusion patterns for a given conference name to avoid false matches.
+        This helps distinguish similar conference names.
+        """
+        import re
+
+        # Common patterns to exclude for specific conferences
+        exclusion_map = {
+            'cluster': [r'ccgrid', r'grid'],  # CLUSTER should not match CCGRID
+            'cc': [r'icc\b', r'iccc', r'ccgrid'],  # CC should not match ICC, ICCC, CCGRID
+            # Add more exclusions as needed
+        }
+
+        conf_lower = conference_name.lower()
+        return exclusion_map.get(conf_lower, [])
+
     def search_wikicfp_multi_year(self, conference_name: str, target_years: list) -> Dict[int, Dict]:
         """Search WikiCFP for conference information for multiple years"""
         try:
@@ -74,10 +91,11 @@ class CFPScraper:
                 link_text = event_link.get_text(strip=True).lower()
                 event_title = details.get('event_title', '').lower()
                 when_text = details.get('when_text', '').lower()
+                page_title = details.get('page_title', '').lower()
 
                 # Normalize for matching: remove spaces from conference name but not from texts
                 # This allows "WWW" to match "The Web 2026 : WWW 2026" in the event title
-                conference_name_normalized = conference_name.lower().replace('acm ', '').strip()
+                conference_name_normalized = conference_name.lower().replace('acm ', '').replace('ieee ', '').strip()
 
                 # Check if conference name appears as a standalone word (word boundary check)
                 # This prevents "WWW" from matching "CIAWI" or other conferences
@@ -95,9 +113,23 @@ class CFPScraper:
                 link_match = re.search(pattern, link_text) is not None
                 title_match = re.search(pattern, event_title) is not None
                 when_match = re.search(pattern, when_text) is not None
+                page_title_match = re.search(pattern, page_title) is not None
 
-                if not link_match and not title_match and not when_match:
+                # Additional check: Reject matches if they contain exclusion patterns
+                # This helps distinguish similar conference names
+                exclusion_patterns = self.get_exclusion_patterns(conference_name_normalized)
+                has_exclusion = any(
+                    re.search(excl_pattern, text, re.IGNORECASE)
+                    for excl_pattern in exclusion_patterns
+                    for text in [link_text, event_title, page_title]
+                )
+
+                if not (link_match or title_match or when_match or page_title_match):
                     # Skip this event if it doesn't match
+                    continue
+
+                if has_exclusion:
+                    # Skip if exclusion pattern found (e.g., "CLUSTER" shouldn't match "CCGRID")
                     continue
 
                 # Determine the year of this event

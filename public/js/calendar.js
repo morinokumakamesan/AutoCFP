@@ -302,9 +302,13 @@ class ConferenceCalendar {
 
     applyFilters() {
         this.filteredConferences = this.conferences.filter(conf => {
-            // Theme filter - if themes are selected, only show matching ones
-            if (this.currentFilters.themes.size > 0 && !this.currentFilters.themes.has(conf.theme)) {
-                return false;
+            // Theme filter - only show conferences with selected themes
+            // If no themes are selected, show nothing
+            if (this.currentFilters.themes.size === 0) {
+                return false; // No themes selected = hide all
+            }
+            if (!this.currentFilters.themes.has(conf.theme)) {
+                return false; // Conference theme not in selected themes
             }
 
             // Search filter
