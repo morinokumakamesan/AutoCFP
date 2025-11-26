@@ -207,6 +207,9 @@ class ConferenceCalendar {
         const themeCheckboxes = document.getElementById('themeCheckboxes');
         themeCheckboxes.innerHTML = '';
 
+        // Initialize with all themes selected
+        this.currentFilters.themes = new Set(themes);
+
         themes.forEach(theme => {
             const label = document.createElement('label');
             label.style.marginRight = '15px';
