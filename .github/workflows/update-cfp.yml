@@ -57,6 +57,11 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
+      with:
+        ref: main  # Ensure we get the latest commit from main branch
+
+    - name: Pull latest changes
+      run: git pull origin main
 
     - name: Setup Pages
       uses: actions/configure-pages@v5
