@@ -1267,6 +1267,24 @@
       "rank": "S",
       "category": "情報検索",
       "information": {
+        "2026": {
+          "deadlines": [
+            {
+              "type": "abstract_registration",
+              "date": "2026-01-15",
+              "label": "Abstract Registration Due"
+            },
+            {
+              "type": "submission",
+              "date": "2026-01-22",
+              "label": "Submission Deadline"
+            }
+          ],
+          "conference_dates": {
+            "start": "2026-07-20",
+            "end": "2026-07-24"
+          }
+        },
         "2025": {
           "deadlines": [
             {
@@ -1288,24 +1306,6 @@
           "conference_dates": {
             "start": "2025-07-13",
             "end": "2025-07-18"
-          }
-        },
-        "2026": {
-          "deadlines": [
-            {
-              "type": "abstract_registration",
-              "date": "2026-01-15",
-              "label": "Abstract Registration Due"
-            },
-            {
-              "type": "submission",
-              "date": "2026-01-22",
-              "label": "Submission Deadline"
-            }
-          ],
-          "conference_dates": {
-            "start": "2026-07-20",
-            "end": "2026-07-24"
           }
         },
         "2027": {
@@ -2087,12 +2087,12 @@
           "deadlines": [
             {
               "type": "submission",
-              "date": "2025-11-28",
+              "date": "2025-12-05",
               "label": "Submission Deadline"
             },
             {
               "type": "camera_ready",
-              "date": "2025-11-28",
+              "date": "2025-12-05",
               "label": "Final Version Due"
             }
           ],
@@ -5077,7 +5077,7 @@
           "is_predicted": true
         }
       },
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=190895&copyownerid=182680"
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=188874&copyownerid=182680"
     },
     {
       "name": "IEEE International Conference on Cluster Computing",
@@ -8944,7 +8944,7 @@
           "deadlines": [
             {
               "type": "submission",
-              "date": "2025-11-25",
+              "date": "2026-01-05",
               "label": "Submission Deadline"
             }
           ],
@@ -8970,7 +8970,7 @@
           "deadlines": [
             {
               "type": "submission",
-              "date": "2026-11-25",
+              "date": "2027-01-05",
               "label": "Submission Deadline",
               "is_predicted": true
             }
@@ -13821,5 +13821,5 @@
     "量子力学",
     "音声音響・信号処理"
   ],
-  "last_updated": "2025-11-26 06:56:23"
+  "last_updated": "2025-12-01 01:00:50"
 }
