@@ -32,7 +32,8 @@ class ConferenceCalendar {
         if (!monthsClone) return;
 
         const wrapperRect = calendarWrapper.getBoundingClientRect();
-        const conferenceColumnWidth = 300;
+        const conferenceColumnHeader = document.querySelector('.conference-column-header');
+        const conferenceColumnWidth = conferenceColumnHeader ? conferenceColumnHeader.offsetWidth : 300;
 
         // Calculate the actual content width of months
         const actualMonthsWidth = monthsClone.scrollWidth || monthsClone.offsetWidth;
@@ -54,7 +55,6 @@ class ConferenceCalendar {
 
         let headerTop = null;
         let isFixed = false;
-        const conferenceColumnWidth = 300; // width of conference column
 
         // Create a wrapper for months to clip overflow on the left
         let monthsWrapper = null;
@@ -72,8 +72,9 @@ class ConferenceCalendar {
 
                     // Create wrapper for months header if not exists
                     if (!monthsWrapper) {
-                        // Get the actual header height
+                        // Get the actual header height and conference column width dynamically
                         const headerHeight = calendarHeader.offsetHeight;
+                        const conferenceColumnWidth = conferenceColumnHeader.offsetWidth;
                         const leftPosition = wrapperLeft + conferenceColumnWidth;
 
                         monthsWrapper = document.createElement('div');
