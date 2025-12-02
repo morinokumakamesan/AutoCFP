@@ -722,13 +722,46 @@ class ConferenceCalendar {
             ${deadline.is_predicted ? '<div class="deadline-detail-note">Predicted</div>' : ''}
         `;
 
-        // Position popup near the marker
-        const rect = markerElement.getBoundingClientRect();
+        // Add popup to DOM first to measure its size
         popup.style.position = 'fixed';
-        popup.style.left = `${rect.left}px`;
-        popup.style.top = `${rect.bottom + 5}px`;
-
+        popup.style.visibility = 'hidden'; // Hide while positioning
         document.body.appendChild(popup);
+
+        // Position popup near the marker, ensuring it stays within viewport
+        const rect = markerElement.getBoundingClientRect();
+        const popupRect = popup.getBoundingClientRect();
+        const viewportWidth = window.innerWidth;
+        const viewportHeight = window.innerHeight;
+
+        // Calculate initial position (below the marker)
+        let left = rect.left;
+        let top = rect.bottom + 5;
+
+        // Adjust horizontal position if popup would overflow right edge
+        if (left + popupRect.width > viewportWidth) {
+            left = viewportWidth - popupRect.width - 10; // 10px margin from edge
+        }
+
+        // Ensure popup doesn't overflow left edge
+        if (left < 10) {
+            left = 10;
+        }
+
+        // Adjust vertical position if popup would overflow bottom edge
+        if (top + popupRect.height > viewportHeight) {
+            // Show above the marker instead
+            top = rect.top - popupRect.height - 5;
+        }
+
+        // Ensure popup doesn't overflow top edge
+        if (top < 10) {
+            top = 10;
+        }
+
+        // Apply final position and make visible
+        popup.style.left = `${left}px`;
+        popup.style.top = `${top}px`;
+        popup.style.visibility = 'visible';
 
         // Keep popup open when hovering over it
         popup.addEventListener('mouseenter', () => {
