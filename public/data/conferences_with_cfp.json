@@ -2603,32 +2603,54 @@
           "deadlines": [
             {
               "type": "submission",
-              "date": "2026-04-22",
+              "date": "2026-08-01",
               "label": "Submission Deadline"
+            },
+            {
+              "type": "notification",
+              "date": "2026-09-01",
+              "label": "Notification Due"
+            },
+            {
+              "type": "camera_ready",
+              "date": "2026-10-01",
+              "label": "Final Version Due"
             }
           ],
           "conference_dates": {
-            "start": "2026-05-22",
-            "end": "2026-05-24"
+            "start": "2026-12-19",
+            "end": "2026-12-21"
           }
         },
         "2027": {
           "deadlines": [
             {
               "type": "submission",
-              "date": "2027-04-22",
+              "date": "2027-08-01",
               "label": "Submission Deadline",
+              "is_predicted": true
+            },
+            {
+              "type": "notification",
+              "date": "2027-09-01",
+              "label": "Notification Due",
+              "is_predicted": true
+            },
+            {
+              "type": "camera_ready",
+              "date": "2027-10-01",
+              "label": "Final Version Due",
               "is_predicted": true
             }
           ],
           "conference_dates": {
-            "start": "2027-05-22",
-            "end": "2027-05-24"
+            "start": "2027-12-19",
+            "end": "2027-12-21"
           },
           "is_predicted": true
         }
       },
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=127474&copyownerid=166935"
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191457&copyownerid=195213"
     },
     {
       "name": "IEEE Conference on Virtual Reality and 3D User Interfaces",
@@ -3671,8 +3693,59 @@
       ],
       "rank": "B",
       "category": "音声音響・信号処理",
-      "information": {},
-      "url": ""
+      "information": {
+        "2026": {
+          "deadlines": [
+            {
+              "type": "submission",
+              "date": "2026-04-15",
+              "label": "Submission Deadline"
+            },
+            {
+              "type": "notification",
+              "date": "2026-05-31",
+              "label": "Notification Due"
+            },
+            {
+              "type": "camera_ready",
+              "date": "2026-06-15",
+              "label": "Final Version Due"
+            }
+          ],
+          "conference_dates": {
+            "start": "2026-09-23",
+            "end": "2026-09-25"
+          }
+        },
+        "2027": {
+          "deadlines": [
+            {
+              "type": "submission",
+              "date": "2027-04-15",
+              "label": "Submission Deadline",
+              "is_predicted": true
+            },
+            {
+              "type": "notification",
+              "date": "2027-05-31",
+              "label": "Notification Due",
+              "is_predicted": true
+            },
+            {
+              "type": "camera_ready",
+              "date": "2027-06-15",
+              "label": "Final Version Due",
+              "is_predicted": true
+            }
+          ],
+          "conference_dates": {
+            "start": "2027-09-23",
+            "end": "2027-09-25"
+          },
+          "is_predicted": true
+        }
+      },
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191565&copyownerid=196675"
     },
     {
       "name": "IEEE International Symposium on Personal, Indoor and Mobile Radio Communications",
@@ -4263,25 +4336,63 @@
       "category": "HCI",
       "information": {
         "2026": {
-          "deadlines": [],
+          "deadlines": [
+            {
+              "type": "abstract_registration",
+              "date": "2026-03-28",
+              "label": "Abstract Registration Due"
+            },
+            {
+              "type": "submission",
+              "date": "2026-04-04",
+              "label": "Submission Deadline"
+            },
+            {
+              "type": "notification",
+              "date": "2026-06-15",
+              "label": "Notification Due"
+            },
+            {
+              "type": "camera_ready",
+              "date": "2026-07-07",
+              "label": "Final Version Due"
+            }
+          ],
           "conference_dates": {
             "start": "2026-09-07",
             "end": "2026-09-11"
           }
         },
         "2027": {
-          "deadlines": [],
+          "deadlines": [
+            {
+              "type": "abstract_registration",
+              "date": "2027-03-28",
+              "label": "Abstract Registration Due",
+              "is_predicted": true
+            },
+            {
+              "type": "submission",
+              "date": "2027-04-04",
+              "label": "Submission Deadline",
+              "is_predicted": true
+            },
+            {
+              "type": "notification",
+              "date": "2027-06-15",
+              "label": "Notification Due",
+              "is_predicted": true
+            },
+            {
+              "type": "camera_ready",
+              "date": "2027-07-07",
+              "label": "Final Version Due",
+              "is_predicted": true
+            }
+          ],
           "conference_dates": {
             "start": "2027-09-07",
             "end": "2027-09-11"
-          },
-          "is_predicted": true
-        },
-        "2028": {
-          "deadlines": [],
-          "conference_dates": {
-            "start": "2028-09-07",
-            "end": "2028-09-11"
           },
           "is_predicted": true
         }
@@ -4588,17 +4699,17 @@
           "deadlines": [
             {
               "type": "submission",
-              "date": "2026-01-03",
+              "date": "2026-01-17",
               "label": "Submission Deadline"
             },
             {
               "type": "notification",
-              "date": "2026-01-24",
+              "date": "2026-01-28",
               "label": "Notification Due"
             },
             {
               "type": "camera_ready",
-              "date": "2026-01-30",
+              "date": "2026-01-31",
               "label": "Final Version Due"
             }
           ],
@@ -4608,19 +4719,19 @@
           "deadlines": [
             {
               "type": "submission",
-              "date": "2027-01-03",
+              "date": "2027-01-17",
               "label": "Submission Deadline",
               "is_predicted": true
             },
             {
               "type": "notification",
-              "date": "2027-01-24",
+              "date": "2027-01-28",
               "label": "Notification Due",
               "is_predicted": true
             },
             {
               "type": "camera_ready",
-              "date": "2027-01-30",
+              "date": "2027-01-31",
               "label": "Final Version Due",
               "is_predicted": true
             }
@@ -4730,7 +4841,7 @@
           "deadlines": [
             {
               "type": "submission",
-              "date": "2026-01-05",
+              "date": "2026-02-05",
               "label": "Submission Deadline"
             }
           ],
@@ -4743,7 +4854,7 @@
           "deadlines": [
             {
               "type": "submission",
-              "date": "2027-01-05",
+              "date": "2027-02-05",
               "label": "Submission Deadline",
               "is_predicted": true
             }
@@ -7580,5 +7691,5 @@
     "量子力学",
     "音声音響・信号処理"
   ],
-  "last_updated": "2026-01-01 00:53:45"
+  "last_updated": "2026-01-15 00:53:11"
 }
