@@ -703,8 +703,70 @@
       ],
       "rank": "B",
       "category": "グラフィクス",
-      "information": {},
-      "url": ""
+      "information": {
+        "2026": {
+          "deadlines": [
+            {
+              "type": "abstract_registration",
+              "date": "2026-04-10",
+              "label": "Abstract Registration Due"
+            },
+            {
+              "type": "submission",
+              "date": "2026-04-17",
+              "label": "Submission Deadline"
+            },
+            {
+              "type": "notification",
+              "date": "2026-05-12",
+              "label": "Notification Due"
+            },
+            {
+              "type": "camera_ready",
+              "date": "2026-06-17",
+              "label": "Final Version Due"
+            }
+          ],
+          "conference_dates": {
+            "start": "2026-07-08",
+            "end": "2026-07-10"
+          }
+        },
+        "2027": {
+          "deadlines": [
+            {
+              "type": "abstract_registration",
+              "date": "2027-04-10",
+              "label": "Abstract Registration Due",
+              "is_predicted": true
+            },
+            {
+              "type": "submission",
+              "date": "2027-04-17",
+              "label": "Submission Deadline",
+              "is_predicted": true
+            },
+            {
+              "type": "notification",
+              "date": "2027-05-12",
+              "label": "Notification Due",
+              "is_predicted": true
+            },
+            {
+              "type": "camera_ready",
+              "date": "2027-06-17",
+              "label": "Final Version Due",
+              "is_predicted": true
+            }
+          ],
+          "conference_dates": {
+            "start": "2027-07-08",
+            "end": "2027-07-10"
+          },
+          "is_predicted": true
+        }
+      },
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192626&copyownerid=118352"
     },
     {
       "name": "ACM SIGIR Conference on Research and Development in Information Retrieval",
@@ -1545,8 +1607,70 @@
       ],
       "rank": "B",
       "category": "対話",
-      "information": {},
-      "url": ""
+      "information": {
+        "2026": {
+          "deadlines": [
+            {
+              "type": "abstract_registration",
+              "date": "2026-04-13",
+              "label": "Abstract Registration Due"
+            },
+            {
+              "type": "submission",
+              "date": "2026-04-20",
+              "label": "Submission Deadline"
+            },
+            {
+              "type": "notification",
+              "date": "2026-06-15",
+              "label": "Notification Due"
+            },
+            {
+              "type": "camera_ready",
+              "date": "2026-06-29",
+              "label": "Final Version Due"
+            }
+          ],
+          "conference_dates": {
+            "start": "2026-08-03",
+            "end": "2026-08-05"
+          }
+        },
+        "2027": {
+          "deadlines": [
+            {
+              "type": "abstract_registration",
+              "date": "2027-04-13",
+              "label": "Abstract Registration Due",
+              "is_predicted": true
+            },
+            {
+              "type": "submission",
+              "date": "2027-04-20",
+              "label": "Submission Deadline",
+              "is_predicted": true
+            },
+            {
+              "type": "notification",
+              "date": "2027-06-15",
+              "label": "Notification Due",
+              "is_predicted": true
+            },
+            {
+              "type": "camera_ready",
+              "date": "2027-06-29",
+              "label": "Final Version Due",
+              "is_predicted": true
+            }
+          ],
+          "conference_dates": {
+            "start": "2027-08-03",
+            "end": "2027-08-05"
+          },
+          "is_predicted": true
+        }
+      },
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192460&copyownerid=197283"
     },
     {
       "name": "Applied Superconductivity Conference",
@@ -3063,54 +3187,54 @@
           "deadlines": [
             {
               "type": "submission",
-              "date": "2026-08-01",
+              "date": "2026-05-14",
               "label": "Submission Deadline"
             },
             {
               "type": "notification",
-              "date": "2026-09-01",
+              "date": "2026-06-04",
               "label": "Notification Due"
             },
             {
               "type": "camera_ready",
-              "date": "2026-10-01",
+              "date": "2026-06-11",
               "label": "Final Version Due"
             }
           ],
           "conference_dates": {
-            "start": "2026-12-19",
-            "end": "2026-12-21"
+            "start": "2026-07-07",
+            "end": "2026-07-07"
           }
         },
         "2027": {
           "deadlines": [
             {
               "type": "submission",
-              "date": "2027-08-01",
+              "date": "2027-05-14",
               "label": "Submission Deadline",
               "is_predicted": true
             },
             {
               "type": "notification",
-              "date": "2027-09-01",
+              "date": "2027-06-04",
               "label": "Notification Due",
               "is_predicted": true
             },
             {
               "type": "camera_ready",
-              "date": "2027-10-01",
+              "date": "2027-06-11",
               "label": "Final Version Due",
               "is_predicted": true
             }
           ],
           "conference_dates": {
-            "start": "2027-12-19",
-            "end": "2027-12-21"
+            "start": "2027-07-07",
+            "end": "2027-07-07"
           },
           "is_predicted": true
         }
       },
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191457&copyownerid=195213"
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192595&copyownerid=154107"
     },
     {
       "name": "IEEE Conference on Virtual Reality and 3D User Interfaces",
@@ -3413,8 +3537,59 @@
       ],
       "rank": "B",
       "category": "データマイニング",
-      "information": {},
-      "url": ""
+      "information": {
+        "2026": {
+          "deadlines": [
+            {
+              "type": "submission",
+              "date": "2026-09-30",
+              "label": "Submission Deadline"
+            },
+            {
+              "type": "notification",
+              "date": "2026-10-20",
+              "label": "Notification Due"
+            },
+            {
+              "type": "camera_ready",
+              "date": "2026-11-14",
+              "label": "Final Version Due"
+            }
+          ],
+          "conference_dates": {
+            "start": "2026-12-14",
+            "end": "2026-12-17"
+          }
+        },
+        "2027": {
+          "deadlines": [
+            {
+              "type": "submission",
+              "date": "2027-09-30",
+              "label": "Submission Deadline",
+              "is_predicted": true
+            },
+            {
+              "type": "notification",
+              "date": "2027-10-20",
+              "label": "Notification Due",
+              "is_predicted": true
+            },
+            {
+              "type": "camera_ready",
+              "date": "2027-11-14",
+              "label": "Final Version Due",
+              "is_predicted": true
+            }
+          ],
+          "conference_dates": {
+            "start": "2027-12-14",
+            "end": "2027-12-17"
+          },
+          "is_predicted": true
+        }
+      },
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192495&copyownerid=197318"
     },
     {
       "name": "IEEE International Conference on Cluster Computing",
@@ -3444,43 +3619,54 @@
           "deadlines": [
             {
               "type": "submission",
-              "date": "2026-06-30",
+              "date": "2025-11-10",
               "label": "Submission Deadline"
             },
             {
               "type": "notification",
-              "date": "2026-07-15",
+              "date": "2026-01-19",
               "label": "Notification Due"
+            },
+            {
+              "type": "camera_ready",
+              "date": "2026-02-13",
+              "label": "Final Version Due"
             }
           ],
           "conference_dates": {
-            "start": "2026-08-31",
-            "end": "2026-08-27"
+            "start": "2026-05-24",
+            "end": "2026-05-28"
           }
         },
         "2027": {
           "deadlines": [
             {
               "type": "submission",
-              "date": "2027-06-30",
+              "date": "2026-11-10",
               "label": "Submission Deadline",
               "is_predicted": true
             },
             {
               "type": "notification",
-              "date": "2027-07-15",
+              "date": "2027-01-19",
               "label": "Notification Due",
+              "is_predicted": true
+            },
+            {
+              "type": "camera_ready",
+              "date": "2027-02-13",
+              "label": "Final Version Due",
               "is_predicted": true
             }
           ],
           "conference_dates": {
-            "start": "2027-08-31",
-            "end": "2027-08-27"
+            "start": "2027-05-24",
+            "end": "2027-05-28"
           },
           "is_predicted": true
         }
       },
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192002&copyownerid=197001"
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192337&copyownerid=196971"
     },
     {
       "name": "IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids",
@@ -4888,8 +5074,70 @@
       ],
       "rank": "A",
       "category": "VR, AR",
-      "information": {},
-      "url": ""
+      "information": {
+        "2026": {
+          "deadlines": [
+            {
+              "type": "abstract_registration",
+              "date": "2026-03-09",
+              "label": "Abstract Registration Due"
+            },
+            {
+              "type": "submission",
+              "date": "2026-03-16",
+              "label": "Submission Deadline"
+            },
+            {
+              "type": "notification",
+              "date": "2026-06-22",
+              "label": "Notification Due"
+            },
+            {
+              "type": "camera_ready",
+              "date": "2026-07-21",
+              "label": "Final Version Due"
+            }
+          ],
+          "conference_dates": {
+            "start": "2026-10-05",
+            "end": "2026-10-09"
+          }
+        },
+        "2027": {
+          "deadlines": [
+            {
+              "type": "abstract_registration",
+              "date": "2027-03-09",
+              "label": "Abstract Registration Due",
+              "is_predicted": true
+            },
+            {
+              "type": "submission",
+              "date": "2027-03-16",
+              "label": "Submission Deadline",
+              "is_predicted": true
+            },
+            {
+              "type": "notification",
+              "date": "2027-06-22",
+              "label": "Notification Due",
+              "is_predicted": true
+            },
+            {
+              "type": "camera_ready",
+              "date": "2027-07-21",
+              "label": "Final Version Due",
+              "is_predicted": true
+            }
+          ],
+          "conference_dates": {
+            "start": "2027-10-05",
+            "end": "2027-10-09"
+          },
+          "is_predicted": true
+        }
+      },
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192614&copyownerid=38541"
     },
     {
       "name": "IEEE/ACM International Symposium on Quality of Service",
@@ -5454,17 +5702,17 @@
           "deadlines": [
             {
               "type": "submission",
-              "date": "2026-02-13",
+              "date": "2026-03-04",
               "label": "Submission Deadline"
             },
             {
               "type": "notification",
-              "date": "2026-03-13",
+              "date": "2026-03-27",
               "label": "Notification Due"
             },
             {
               "type": "camera_ready",
-              "date": "2026-03-20",
+              "date": "2026-04-03",
               "label": "Final Version Due"
             }
           ],
@@ -5474,19 +5722,19 @@
           "deadlines": [
             {
               "type": "submission",
-              "date": "2027-02-13",
+              "date": "2027-03-04",
               "label": "Submission Deadline",
               "is_predicted": true
             },
             {
               "type": "notification",
-              "date": "2027-03-13",
+              "date": "2027-03-27",
               "label": "Notification Due",
               "is_predicted": true
             },
             {
               "type": "camera_ready",
-              "date": "2027-03-20",
+              "date": "2027-04-03",
               "label": "Final Version Due",
               "is_predicted": true
             }
@@ -7705,17 +7953,17 @@
           "deadlines": [
             {
               "type": "submission",
-              "date": "2026-02-15",
+              "date": "2026-03-15",
               "label": "Submission Deadline"
             },
             {
               "type": "notification",
-              "date": "2026-05-03",
+              "date": "2026-05-24",
               "label": "Notification Due"
             },
             {
               "type": "camera_ready",
-              "date": "2026-05-29",
+              "date": "2026-06-12",
               "label": "Final Version Due"
             }
           ],
@@ -7728,19 +7976,19 @@
           "deadlines": [
             {
               "type": "submission",
-              "date": "2027-02-15",
+              "date": "2027-03-15",
               "label": "Submission Deadline",
               "is_predicted": true
             },
             {
               "type": "notification",
-              "date": "2027-05-03",
+              "date": "2027-05-24",
               "label": "Notification Due",
               "is_predicted": true
             },
             {
               "type": "camera_ready",
-              "date": "2027-05-29",
+              "date": "2027-06-12",
               "label": "Final Version Due",
               "is_predicted": true
             }
@@ -8971,5 +9219,5 @@
     "量子力学",
     "音声音響・信号処理"
   ],
-  "last_updated": "2026-02-15 01:03:23"
+  "last_updated": "2026-03-01 01:04:24"
 }
