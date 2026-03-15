@@ -400,13 +400,18 @@
           "deadlines": [
             {
               "type": "abstract_registration",
-              "date": "2025-09-18",
+              "date": "2025-05-08",
               "label": "Abstract Registration Due"
             },
             {
               "type": "submission",
-              "date": "2025-09-25",
+              "date": "2025-05-15",
               "label": "Submission Deadline"
+            },
+            {
+              "type": "notification",
+              "date": "2025-08-22",
+              "label": "Notification Due"
             }
           ],
           "conference_dates": {
@@ -418,14 +423,20 @@
           "deadlines": [
             {
               "type": "abstract_registration",
-              "date": "2026-09-18",
+              "date": "2026-05-08",
               "label": "Abstract Registration Due",
               "is_predicted": true
             },
             {
               "type": "submission",
-              "date": "2026-09-25",
+              "date": "2026-05-15",
               "label": "Submission Deadline",
+              "is_predicted": true
+            },
+            {
+              "type": "notification",
+              "date": "2026-08-22",
+              "label": "Notification Due",
               "is_predicted": true
             }
           ],
@@ -436,7 +447,7 @@
           "is_predicted": true
         }
       },
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=189593&copyownerid=90236"
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=186524&copyownerid=71926"
     },
     {
       "name": "ACM International Conference and Exhibition on Computer Graphics and Interactive Techniques",
@@ -904,8 +915,59 @@
       ],
       "rank": "A",
       "category": "プログラミング言語",
-      "information": {},
-      "url": ""
+      "information": {
+        "2026": {
+          "deadlines": [
+            {
+              "type": "submission",
+              "date": "2025-07-10",
+              "label": "Submission Deadline"
+            },
+            {
+              "type": "notification",
+              "date": "2025-11-06",
+              "label": "Notification Due"
+            },
+            {
+              "type": "camera_ready",
+              "date": "2025-12-01",
+              "label": "Final Version Due"
+            }
+          ],
+          "conference_dates": {
+            "start": "2026-01-11",
+            "end": "2026-01-17"
+          }
+        },
+        "2027": {
+          "deadlines": [
+            {
+              "type": "submission",
+              "date": "2026-07-10",
+              "label": "Submission Deadline",
+              "is_predicted": true
+            },
+            {
+              "type": "notification",
+              "date": "2026-11-06",
+              "label": "Notification Due",
+              "is_predicted": true
+            },
+            {
+              "type": "camera_ready",
+              "date": "2026-12-01",
+              "label": "Final Version Due",
+              "is_predicted": true
+            }
+          ],
+          "conference_dates": {
+            "start": "2027-01-11",
+            "end": "2027-01-17"
+          },
+          "is_predicted": true
+        }
+      },
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192912&copyownerid=197641"
     },
     {
       "name": "ACM SIGSOFT International Symposium on Foundations of Software Engineering",
@@ -1828,8 +1890,48 @@
       ],
       "rank": "A",
       "category": "プログラミング言語",
-      "information": {},
-      "url": ""
+      "information": {
+        "2026": {
+          "deadlines": [
+            {
+              "type": "submission",
+              "date": "2025-09-11",
+              "label": "Submission Deadline"
+            },
+            {
+              "type": "notification",
+              "date": "2025-11-03",
+              "label": "Notification Due"
+            }
+          ],
+          "conference_dates": {
+            "start": "2026-01-31",
+            "end": "2026-02-04"
+          }
+        },
+        "2027": {
+          "deadlines": [
+            {
+              "type": "submission",
+              "date": "2026-09-11",
+              "label": "Submission Deadline",
+              "is_predicted": true
+            },
+            {
+              "type": "notification",
+              "date": "2026-11-03",
+              "label": "Notification Due",
+              "is_predicted": true
+            }
+          ],
+          "conference_dates": {
+            "start": "2027-01-31",
+            "end": "2027-02-04"
+          },
+          "is_predicted": true
+        }
+      },
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192909&copyownerid=197641"
     },
     {
       "name": "Compiler Construction",
@@ -2089,8 +2191,59 @@
       ],
       "rank": "S",
       "category": "自然言語処理",
-      "information": {},
-      "url": ""
+      "information": {
+        "2026": {
+          "deadlines": [
+            {
+              "type": "submission",
+              "date": "2026-05-25",
+              "label": "Submission Deadline"
+            },
+            {
+              "type": "notification",
+              "date": "2026-08-20",
+              "label": "Notification Due"
+            },
+            {
+              "type": "camera_ready",
+              "date": "2026-09-20",
+              "label": "Final Version Due"
+            }
+          ],
+          "conference_dates": {
+            "start": "2026-10-24",
+            "end": "2026-10-29"
+          }
+        },
+        "2027": {
+          "deadlines": [
+            {
+              "type": "submission",
+              "date": "2027-05-25",
+              "label": "Submission Deadline",
+              "is_predicted": true
+            },
+            {
+              "type": "notification",
+              "date": "2027-08-20",
+              "label": "Notification Due",
+              "is_predicted": true
+            },
+            {
+              "type": "camera_ready",
+              "date": "2027-09-20",
+              "label": "Final Version Due",
+              "is_predicted": true
+            }
+          ],
+          "conference_dates": {
+            "start": "2027-10-24",
+            "end": "2027-10-29"
+          },
+          "is_predicted": true
+        }
+      },
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192857&copyownerid=692"
     },
     {
       "name": "Conference on Integer Programming and Combinatorial Optimization",
@@ -3004,8 +3157,70 @@
       ],
       "rank": "B",
       "category": "論理・検証",
-      "information": {},
-      "url": ""
+      "information": {
+        "2026": {
+          "deadlines": [
+            {
+              "type": "abstract_registration",
+              "date": "2026-04-26",
+              "label": "Abstract Registration Due"
+            },
+            {
+              "type": "submission",
+              "date": "2026-05-03",
+              "label": "Submission Deadline"
+            },
+            {
+              "type": "notification",
+              "date": "2026-06-28",
+              "label": "Notification Due"
+            },
+            {
+              "type": "camera_ready",
+              "date": "2026-07-17",
+              "label": "Final Version Due"
+            }
+          ],
+          "conference_dates": {
+            "start": "2026-09-14",
+            "end": "2026-09-18"
+          }
+        },
+        "2027": {
+          "deadlines": [
+            {
+              "type": "abstract_registration",
+              "date": "2027-04-26",
+              "label": "Abstract Registration Due",
+              "is_predicted": true
+            },
+            {
+              "type": "submission",
+              "date": "2027-05-03",
+              "label": "Submission Deadline",
+              "is_predicted": true
+            },
+            {
+              "type": "notification",
+              "date": "2027-06-28",
+              "label": "Notification Due",
+              "is_predicted": true
+            },
+            {
+              "type": "camera_ready",
+              "date": "2027-07-17",
+              "label": "Final Version Due",
+              "is_predicted": true
+            }
+          ],
+          "conference_dates": {
+            "start": "2027-09-14",
+            "end": "2027-09-18"
+          },
+          "is_predicted": true
+        }
+      },
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192804&copyownerid=197565"
     },
     {
       "name": "Formal Structures for Computation and Deduction",
@@ -3774,8 +3989,59 @@
       ],
       "rank": "B",
       "category": "機械学習",
-      "information": {},
-      "url": ""
+      "information": {
+        "2026": {
+          "deadlines": [
+            {
+              "type": "submission",
+              "date": "2026-05-01",
+              "label": "Submission Deadline"
+            },
+            {
+              "type": "notification",
+              "date": "2026-07-24",
+              "label": "Notification Due"
+            },
+            {
+              "type": "camera_ready",
+              "date": "2026-08-06",
+              "label": "Final Version Due"
+            }
+          ],
+          "conference_dates": {
+            "start": "2026-10-06",
+            "end": "2026-10-09"
+          }
+        },
+        "2027": {
+          "deadlines": [
+            {
+              "type": "submission",
+              "date": "2027-05-01",
+              "label": "Submission Deadline",
+              "is_predicted": true
+            },
+            {
+              "type": "notification",
+              "date": "2027-07-24",
+              "label": "Notification Due",
+              "is_predicted": true
+            },
+            {
+              "type": "camera_ready",
+              "date": "2027-08-06",
+              "label": "Final Version Due",
+              "is_predicted": true
+            }
+          ],
+          "conference_dates": {
+            "start": "2027-10-06",
+            "end": "2027-10-09"
+          },
+          "is_predicted": true
+        }
+      },
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192854&copyownerid=837"
     },
     {
       "name": "IEEE International Conference on Distributed Computing Systems",
@@ -3951,18 +4217,13 @@
         "2026": {
           "deadlines": [
             {
-              "type": "abstract_registration",
-              "date": "2025-09-12",
-              "label": "Abstract Registration Due"
-            },
-            {
               "type": "submission",
-              "date": "2025-09-19",
+              "date": "2025-12-01",
               "label": "Submission Deadline"
             },
             {
               "type": "notification",
-              "date": "2025-12-22",
+              "date": "2026-01-05",
               "label": "Notification Due"
             },
             {
@@ -3979,20 +4240,14 @@
         "2027": {
           "deadlines": [
             {
-              "type": "abstract_registration",
-              "date": "2026-09-12",
-              "label": "Abstract Registration Due",
-              "is_predicted": true
-            },
-            {
               "type": "submission",
-              "date": "2026-09-19",
+              "date": "2026-12-01",
               "label": "Submission Deadline",
               "is_predicted": true
             },
             {
               "type": "notification",
-              "date": "2026-12-22",
+              "date": "2027-01-05",
               "label": "Notification Due",
               "is_predicted": true
             },
@@ -4010,7 +4265,7 @@
           "is_predicted": true
         }
       },
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=189752&copyownerid=18071"
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=189699&copyownerid=121781"
     },
     {
       "name": "IEEE International Conference on Robotics and Automation",
@@ -4241,8 +4496,59 @@
       ],
       "rank": "A",
       "category": "触覚",
-      "information": {},
-      "url": ""
+      "information": {
+        "2026": {
+          "deadlines": [
+            {
+              "type": "submission",
+              "date": "2026-03-22",
+              "label": "Submission Deadline"
+            },
+            {
+              "type": "notification",
+              "date": "2026-04-26",
+              "label": "Notification Due"
+            },
+            {
+              "type": "camera_ready",
+              "date": "2026-05-24",
+              "label": "Final Version Due"
+            }
+          ],
+          "conference_dates": {
+            "start": "2026-10-04",
+            "end": "2026-10-07"
+          }
+        },
+        "2027": {
+          "deadlines": [
+            {
+              "type": "submission",
+              "date": "2027-03-22",
+              "label": "Submission Deadline",
+              "is_predicted": true
+            },
+            {
+              "type": "notification",
+              "date": "2027-04-26",
+              "label": "Notification Due",
+              "is_predicted": true
+            },
+            {
+              "type": "camera_ready",
+              "date": "2027-05-24",
+              "label": "Final Version Due",
+              "is_predicted": true
+            }
+          ],
+          "conference_dates": {
+            "start": "2027-10-04",
+            "end": "2027-10-07"
+          },
+          "is_predicted": true
+        }
+      },
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192855&copyownerid=837"
     },
     {
       "name": "IEEE International Conference on eScience",
@@ -4423,44 +4729,55 @@
         "2026": {
           "deadlines": [
             {
-              "type": "abstract_registration",
-              "date": "2025-09-12",
-              "label": "Abstract Registration Due"
+              "type": "submission",
+              "date": "2026-04-24",
+              "label": "Submission Deadline"
             },
             {
-              "type": "submission",
-              "date": "2025-09-19",
-              "label": "Submission Deadline"
+              "type": "notification",
+              "date": "2026-05-31",
+              "label": "Notification Due"
+            },
+            {
+              "type": "camera_ready",
+              "date": "2026-11-02",
+              "label": "Final Version Due"
             }
           ],
           "conference_dates": {
-            "start": "2026-01-31",
-            "end": "2026-02-04"
+            "start": "2026-08-30",
+            "end": "2026-09-02"
           }
         },
         "2027": {
           "deadlines": [
             {
-              "type": "abstract_registration",
-              "date": "2026-09-12",
-              "label": "Abstract Registration Due",
+              "type": "submission",
+              "date": "2027-04-24",
+              "label": "Submission Deadline",
               "is_predicted": true
             },
             {
-              "type": "submission",
-              "date": "2026-09-19",
-              "label": "Submission Deadline",
+              "type": "notification",
+              "date": "2027-05-31",
+              "label": "Notification Due",
+              "is_predicted": true
+            },
+            {
+              "type": "camera_ready",
+              "date": "2027-11-02",
+              "label": "Final Version Due",
               "is_predicted": true
             }
           ],
           "conference_dates": {
-            "start": "2027-01-31",
-            "end": "2027-02-04"
+            "start": "2027-08-30",
+            "end": "2027-09-02"
           },
           "is_predicted": true
         }
       },
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=189594&copyownerid=90236"
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=193006&copyownerid=173574"
     },
     {
       "name": "IEEE International Symposium on Information Theory",
@@ -4954,8 +5271,59 @@
       ],
       "rank": "A",
       "category": "ソフトウェア工学",
-      "information": {},
-      "url": ""
+      "information": {
+        "2026": {
+          "deadlines": [
+            {
+              "type": "submission",
+              "date": "2026-03-26",
+              "label": "Submission Deadline"
+            },
+            {
+              "type": "notification",
+              "date": "2026-06-18",
+              "label": "Notification Due"
+            },
+            {
+              "type": "camera_ready",
+              "date": "2026-08-03",
+              "label": "Final Version Due"
+            }
+          ],
+          "conference_dates": {
+            "start": "2026-10-12",
+            "end": "2026-10-16"
+          }
+        },
+        "2027": {
+          "deadlines": [
+            {
+              "type": "submission",
+              "date": "2027-03-26",
+              "label": "Submission Deadline",
+              "is_predicted": true
+            },
+            {
+              "type": "notification",
+              "date": "2027-06-18",
+              "label": "Notification Due",
+              "is_predicted": true
+            },
+            {
+              "type": "camera_ready",
+              "date": "2027-08-03",
+              "label": "Final Version Due",
+              "is_predicted": true
+            }
+          ],
+          "conference_dates": {
+            "start": "2027-10-12",
+            "end": "2027-10-16"
+          },
+          "is_predicted": true
+        }
+      },
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192824&copyownerid=52988"
     },
     {
       "name": "IEEE/ACM International Symposium on Cluster Computing and the Grid",
@@ -5041,30 +5409,68 @@
       "category": "量子力学",
       "information": {
         "2026": {
-          "deadlines": [],
+          "deadlines": [
+            {
+              "type": "abstract_registration",
+              "date": "2026-03-31",
+              "label": "Abstract Registration Due"
+            },
+            {
+              "type": "submission",
+              "date": "2026-04-07",
+              "label": "Submission Deadline"
+            },
+            {
+              "type": "notification",
+              "date": "2026-07-07",
+              "label": "Notification Due"
+            },
+            {
+              "type": "camera_ready",
+              "date": "2026-09-11",
+              "label": "Final Version Due"
+            }
+          ],
           "conference_dates": {
             "start": "2026-10-31",
             "end": "2026-11-04"
           }
         },
         "2027": {
-          "deadlines": [],
+          "deadlines": [
+            {
+              "type": "abstract_registration",
+              "date": "2027-03-31",
+              "label": "Abstract Registration Due",
+              "is_predicted": true
+            },
+            {
+              "type": "submission",
+              "date": "2027-04-07",
+              "label": "Submission Deadline",
+              "is_predicted": true
+            },
+            {
+              "type": "notification",
+              "date": "2027-07-07",
+              "label": "Notification Due",
+              "is_predicted": true
+            },
+            {
+              "type": "camera_ready",
+              "date": "2027-09-11",
+              "label": "Final Version Due",
+              "is_predicted": true
+            }
+          ],
           "conference_dates": {
             "start": "2027-10-31",
             "end": "2027-11-04"
           },
           "is_predicted": true
-        },
-        "2028": {
-          "deadlines": [],
-          "conference_dates": {
-            "start": "2028-10-31",
-            "end": "2028-11-04"
-          },
-          "is_predicted": true
         }
       },
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191375&copyownerid=190257"
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192693&copyownerid=167052"
     },
     {
       "name": "IEEE/ACM International Symposium on Mixed and Augmented Reality",
@@ -5702,17 +6108,17 @@
           "deadlines": [
             {
               "type": "submission",
-              "date": "2026-03-04",
+              "date": "2026-03-13",
               "label": "Submission Deadline"
             },
             {
               "type": "notification",
-              "date": "2026-03-27",
+              "date": "2026-04-13",
               "label": "Notification Due"
             },
             {
               "type": "camera_ready",
-              "date": "2026-04-03",
+              "date": "2026-04-20",
               "label": "Final Version Due"
             }
           ],
@@ -5722,19 +6128,19 @@
           "deadlines": [
             {
               "type": "submission",
-              "date": "2027-03-04",
+              "date": "2027-03-13",
               "label": "Submission Deadline",
               "is_predicted": true
             },
             {
               "type": "notification",
-              "date": "2027-03-27",
+              "date": "2027-04-13",
               "label": "Notification Due",
               "is_predicted": true
             },
             {
               "type": "camera_ready",
-              "date": "2027-04-03",
+              "date": "2027-04-20",
               "label": "Final Version Due",
               "is_predicted": true
             }
@@ -6873,8 +7279,70 @@
       ],
       "rank": "B",
       "category": "データ工学",
-      "information": {},
-      "url": ""
+      "information": {
+        "2026": {
+          "deadlines": [
+            {
+              "type": "abstract_registration",
+              "date": "2026-04-17",
+              "label": "Abstract Registration Due"
+            },
+            {
+              "type": "submission",
+              "date": "2026-04-24",
+              "label": "Submission Deadline"
+            },
+            {
+              "type": "notification",
+              "date": "2026-08-05",
+              "label": "Notification Due"
+            },
+            {
+              "type": "camera_ready",
+              "date": "2026-10-02",
+              "label": "Final Version Due"
+            }
+          ],
+          "conference_dates": {
+            "start": "2026-10-19",
+            "end": "2026-10-22"
+          }
+        },
+        "2027": {
+          "deadlines": [
+            {
+              "type": "abstract_registration",
+              "date": "2027-04-17",
+              "label": "Abstract Registration Due",
+              "is_predicted": true
+            },
+            {
+              "type": "submission",
+              "date": "2027-04-24",
+              "label": "Submission Deadline",
+              "is_predicted": true
+            },
+            {
+              "type": "notification",
+              "date": "2027-08-05",
+              "label": "Notification Due",
+              "is_predicted": true
+            },
+            {
+              "type": "camera_ready",
+              "date": "2027-10-02",
+              "label": "Final Version Due",
+              "is_predicted": true
+            }
+          ],
+          "conference_dates": {
+            "start": "2027-10-19",
+            "end": "2027-10-22"
+          },
+          "is_predicted": true
+        }
+      },
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192870&copyownerid=197617"
     },
     {
       "name": "International Conference on Pattern Recognition",
@@ -7433,8 +7901,48 @@
       ],
       "rank": "A",
       "category": "知識処理",
-      "information": {},
-      "url": ""
+      "information": {
+        "2026": {
+          "deadlines": [
+            {
+              "type": "submission",
+              "date": "2026-07-14",
+              "label": "Submission Deadline"
+            },
+            {
+              "type": "notification",
+              "date": "2026-08-11",
+              "label": "Notification Due"
+            }
+          ],
+          "conference_dates": {
+            "start": "2026-10-25",
+            "end": "2026-10-26"
+          }
+        },
+        "2027": {
+          "deadlines": [
+            {
+              "type": "submission",
+              "date": "2027-07-14",
+              "label": "Submission Deadline",
+              "is_predicted": true
+            },
+            {
+              "type": "notification",
+              "date": "2027-08-11",
+              "label": "Notification Due",
+              "is_predicted": true
+            }
+          ],
+          "conference_dates": {
+            "start": "2027-10-25",
+            "end": "2027-10-26"
+          },
+          "is_predicted": true
+        }
+      },
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192982&copyownerid=196093"
     },
     {
       "name": "International Society for Music Information Retrieval Conference",
@@ -7671,8 +8179,59 @@
       ],
       "rank": "A",
       "category": "サイバーセキュリティ",
-      "information": {},
-      "url": ""
+      "information": {
+        "2026": {
+          "deadlines": [
+            {
+              "type": "submission",
+              "date": "2026-04-16",
+              "label": "Submission Deadline"
+            },
+            {
+              "type": "notification",
+              "date": "2026-07-10",
+              "label": "Notification Due"
+            },
+            {
+              "type": "camera_ready",
+              "date": "2026-08-13",
+              "label": "Final Version Due"
+            }
+          ],
+          "conference_dates": {
+            "start": "2026-10-11",
+            "end": "2026-10-14"
+          }
+        },
+        "2027": {
+          "deadlines": [
+            {
+              "type": "submission",
+              "date": "2027-04-16",
+              "label": "Submission Deadline",
+              "is_predicted": true
+            },
+            {
+              "type": "notification",
+              "date": "2027-07-10",
+              "label": "Notification Due",
+              "is_predicted": true
+            },
+            {
+              "type": "camera_ready",
+              "date": "2027-08-13",
+              "label": "Final Version Due",
+              "is_predicted": true
+            }
+          ],
+          "conference_dates": {
+            "start": "2027-10-11",
+            "end": "2027-10-14"
+          },
+          "is_predicted": true
+        }
+      },
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192894&copyownerid=186809"
     },
     {
       "name": "International Symposium on Software Testing and Analysis",
@@ -8311,8 +8870,59 @@
       ],
       "rank": "B",
       "category": "機械学習",
-      "information": {},
-      "url": ""
+      "information": {
+        "2026": {
+          "deadlines": [
+            {
+              "type": "submission",
+              "date": "2026-06-13",
+              "label": "Submission Deadline"
+            },
+            {
+              "type": "notification",
+              "date": "2026-08-08",
+              "label": "Notification Due"
+            },
+            {
+              "type": "camera_ready",
+              "date": "2026-08-22",
+              "label": "Final Version Due"
+            }
+          ],
+          "conference_dates": {
+            "start": "2026-11-17",
+            "end": "2026-11-20"
+          }
+        },
+        "2027": {
+          "deadlines": [
+            {
+              "type": "submission",
+              "date": "2027-06-13",
+              "label": "Submission Deadline",
+              "is_predicted": true
+            },
+            {
+              "type": "notification",
+              "date": "2027-08-08",
+              "label": "Notification Due",
+              "is_predicted": true
+            },
+            {
+              "type": "camera_ready",
+              "date": "2027-08-22",
+              "label": "Final Version Due",
+              "is_predicted": true
+            }
+          ],
+          "conference_dates": {
+            "start": "2027-11-17",
+            "end": "2027-11-20"
+          },
+          "is_predicted": true
+        }
+      },
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192725&copyownerid=197490"
     },
     {
       "name": "Pacific Rim Meeting on electrochemical and solid state science",
@@ -8860,55 +9470,55 @@
         "2026": {
           "deadlines": [
             {
-              "type": "abstract_registration",
-              "date": "2026-01-08",
-              "label": "Abstract Registration Due"
-            },
-            {
               "type": "submission",
-              "date": "2026-01-13",
+              "date": "2026-02-28",
               "label": "Submission Deadline"
             },
             {
               "type": "notification",
-              "date": "2026-03-02",
+              "date": "2026-03-13",
               "label": "Notification Due"
+            },
+            {
+              "type": "camera_ready",
+              "date": "2026-03-31",
+              "label": "Final Version Due"
             }
           ],
           "conference_dates": {
-            "start": "2026-06-25",
-            "end": "2026-06-28"
+            "start": "2026-05-11",
+            "end": "2026-05-11"
           }
         },
         "2027": {
           "deadlines": [
             {
-              "type": "abstract_registration",
-              "date": "2027-01-08",
-              "label": "Abstract Registration Due",
-              "is_predicted": true
-            },
-            {
               "type": "submission",
-              "date": "2027-01-13",
+              "date": "2027-02-28",
               "label": "Submission Deadline",
               "is_predicted": true
             },
             {
               "type": "notification",
-              "date": "2027-03-02",
+              "date": "2027-03-13",
               "label": "Notification Due",
+              "is_predicted": true
+            },
+            {
+              "type": "camera_ready",
+              "date": "2027-03-31",
+              "label": "Final Version Due",
               "is_predicted": true
             }
           ],
           "conference_dates": {
-            "start": "2027-06-25",
-            "end": "2027-06-28"
+            "start": "2027-05-11",
+            "end": "2027-05-11"
           },
           "is_predicted": true
         }
       },
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191964&copyownerid=195699"
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191839&copyownerid=196887"
     },
     {
       "name": "The Conference on Magnetism and Magnetic Materials",
@@ -9219,5 +9829,5 @@
     "量子力学",
     "音声音響・信号処理"
   ],
-  "last_updated": "2026-03-01 01:04:24"
+  "last_updated": "2026-03-15 01:10:34"
 }
