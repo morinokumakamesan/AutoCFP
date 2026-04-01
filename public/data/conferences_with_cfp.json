@@ -6108,17 +6108,17 @@
           "deadlines": [
             {
               "type": "submission",
-              "date": "2026-03-13",
+              "date": "2026-04-04",
               "label": "Submission Deadline"
             },
             {
               "type": "notification",
-              "date": "2026-04-13",
+              "date": "2026-04-25",
               "label": "Notification Due"
             },
             {
               "type": "camera_ready",
-              "date": "2026-04-20",
+              "date": "2026-04-29",
               "label": "Final Version Due"
             }
           ],
@@ -6128,19 +6128,19 @@
           "deadlines": [
             {
               "type": "submission",
-              "date": "2027-03-13",
+              "date": "2027-04-04",
               "label": "Submission Deadline",
               "is_predicted": true
             },
             {
               "type": "notification",
-              "date": "2027-04-13",
+              "date": "2027-04-25",
               "label": "Notification Due",
               "is_predicted": true
             },
             {
               "type": "camera_ready",
-              "date": "2027-04-20",
+              "date": "2027-04-29",
               "label": "Final Version Due",
               "is_predicted": true
             }
@@ -6725,7 +6725,7 @@
           "deadlines": [
             {
               "type": "submission",
-              "date": "2026-03-25",
+              "date": "2026-05-15",
               "label": "Submission Deadline"
             }
           ],
@@ -6738,7 +6738,7 @@
           "deadlines": [
             {
               "type": "submission",
-              "date": "2027-03-25",
+              "date": "2027-05-15",
               "label": "Submission Deadline",
               "is_predicted": true
             }
@@ -6750,7 +6750,7 @@
           "is_predicted": true
         }
       },
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191348&copyownerid=13881"
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191349&copyownerid=13881"
     },
     {
       "name": "International Conference on Intelligent User Interfaces",
@@ -7388,8 +7388,70 @@
       ],
       "rank": "B",
       "category": "光通信",
-      "information": {},
-      "url": ""
+      "information": {
+        "2026": {
+          "deadlines": [
+            {
+              "type": "abstract_registration",
+              "date": "2026-05-10",
+              "label": "Abstract Registration Due"
+            },
+            {
+              "type": "submission",
+              "date": "2026-05-17",
+              "label": "Submission Deadline"
+            },
+            {
+              "type": "notification",
+              "date": "2026-06-24",
+              "label": "Notification Due"
+            },
+            {
+              "type": "camera_ready",
+              "date": "2026-07-14",
+              "label": "Final Version Due"
+            }
+          ],
+          "conference_dates": {
+            "start": "2026-08-24",
+            "end": "2026-08-26"
+          }
+        },
+        "2027": {
+          "deadlines": [
+            {
+              "type": "abstract_registration",
+              "date": "2027-05-10",
+              "label": "Abstract Registration Due",
+              "is_predicted": true
+            },
+            {
+              "type": "submission",
+              "date": "2027-05-17",
+              "label": "Submission Deadline",
+              "is_predicted": true
+            },
+            {
+              "type": "notification",
+              "date": "2027-06-24",
+              "label": "Notification Due",
+              "is_predicted": true
+            },
+            {
+              "type": "camera_ready",
+              "date": "2027-07-14",
+              "label": "Final Version Due",
+              "is_predicted": true
+            }
+          ],
+          "conference_dates": {
+            "start": "2027-08-24",
+            "end": "2027-08-26"
+          },
+          "is_predicted": true
+        }
+      },
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194216&copyownerid=320"
     },
     {
       "name": "International Conference on Practice and Theory in Public Key Cryptography",
@@ -8072,8 +8134,59 @@
       ],
       "rank": "B",
       "category": "人工知能（機械学習）",
-      "information": {},
-      "url": ""
+      "information": {
+        "2026": {
+          "deadlines": [
+            {
+              "type": "submission",
+              "date": "2026-04-04",
+              "label": "Submission Deadline"
+            },
+            {
+              "type": "notification",
+              "date": "2026-05-23",
+              "label": "Notification Due"
+            },
+            {
+              "type": "camera_ready",
+              "date": "2026-05-30",
+              "label": "Final Version Due"
+            }
+          ],
+          "conference_dates": {
+            "start": "2026-06-27",
+            "end": "2026-06-28"
+          }
+        },
+        "2027": {
+          "deadlines": [
+            {
+              "type": "submission",
+              "date": "2027-04-04",
+              "label": "Submission Deadline",
+              "is_predicted": true
+            },
+            {
+              "type": "notification",
+              "date": "2027-05-23",
+              "label": "Notification Due",
+              "is_predicted": true
+            },
+            {
+              "type": "camera_ready",
+              "date": "2027-05-30",
+              "label": "Final Version Due",
+              "is_predicted": true
+            }
+          ],
+          "conference_dates": {
+            "start": "2027-06-27",
+            "end": "2027-06-28"
+          },
+          "is_predicted": true
+        }
+      },
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=189375&copyownerid=170233"
     },
     {
       "name": "International Symposium on Formal Methods",
@@ -9471,54 +9584,43 @@
           "deadlines": [
             {
               "type": "submission",
-              "date": "2026-02-28",
+              "date": "2026-03-25",
               "label": "Submission Deadline"
             },
             {
               "type": "notification",
-              "date": "2026-03-13",
+              "date": "2026-04-08",
               "label": "Notification Due"
-            },
-            {
-              "type": "camera_ready",
-              "date": "2026-03-31",
-              "label": "Final Version Due"
             }
           ],
           "conference_dates": {
-            "start": "2026-05-11",
-            "end": "2026-05-11"
+            "start": "2026-06-25",
+            "end": "2026-06-28"
           }
         },
         "2027": {
           "deadlines": [
             {
               "type": "submission",
-              "date": "2027-02-28",
+              "date": "2027-03-25",
               "label": "Submission Deadline",
               "is_predicted": true
             },
             {
               "type": "notification",
-              "date": "2027-03-13",
+              "date": "2027-04-08",
               "label": "Notification Due",
-              "is_predicted": true
-            },
-            {
-              "type": "camera_ready",
-              "date": "2027-03-31",
-              "label": "Final Version Due",
               "is_predicted": true
             }
           ],
           "conference_dates": {
-            "start": "2027-05-11",
-            "end": "2027-05-11"
+            "start": "2027-06-25",
+            "end": "2027-06-28"
           },
           "is_predicted": true
         }
       },
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191839&copyownerid=196887"
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192362&copyownerid=197238"
     },
     {
       "name": "The Conference on Magnetism and Magnetic Materials",
@@ -9829,5 +9931,5 @@
     "量子力学",
     "音声音響・信号処理"
   ],
-  "last_updated": "2026-03-15 01:10:34"
+  "last_updated": "2026-04-01 01:10:06"
 }
