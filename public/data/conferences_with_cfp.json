@@ -549,7 +549,7 @@
           "deadlines": [
             {
               "type": "submission",
-              "date": "2026-06-01",
+              "date": "2026-06-14",
               "label": "Submission Deadline"
             },
             {
@@ -567,7 +567,7 @@
           "deadlines": [
             {
               "type": "submission",
-              "date": "2027-06-01",
+              "date": "2027-06-14",
               "label": "Submission Deadline",
               "is_predicted": true
             },
@@ -2141,7 +2141,7 @@
           "deadlines": [
             {
               "type": "submission",
-              "date": "2025-12-22",
+              "date": "2025-10-06",
               "label": "Submission Deadline"
             }
           ],
@@ -2154,7 +2154,7 @@
           "deadlines": [
             {
               "type": "submission",
-              "date": "2026-12-22",
+              "date": "2026-10-06",
               "label": "Submission Deadline",
               "is_predicted": true
             }
@@ -2166,7 +2166,7 @@
           "is_predicted": true
         }
       },
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=190155&copyownerid=320"
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=189703&copyownerid=194953"
     },
     {
       "name": "Conference on Architectures and Mechanisms for Language Processing",
@@ -2828,7 +2828,7 @@
           "deadlines": [
             {
               "type": "submission",
-              "date": "2026-06-05",
+              "date": "2026-06-10",
               "label": "Submission Deadline"
             },
             {
@@ -2846,7 +2846,7 @@
           "deadlines": [
             {
               "type": "submission",
-              "date": "2027-06-05",
+              "date": "2027-06-10",
               "label": "Submission Deadline",
               "is_predicted": true
             },
@@ -3885,12 +3885,12 @@
           "deadlines": [
             {
               "type": "submission",
-              "date": "2026-09-30",
+              "date": "2026-08-21",
               "label": "Submission Deadline"
             },
             {
               "type": "notification",
-              "date": "2026-10-20",
+              "date": "2026-10-24",
               "label": "Notification Due"
             },
             {
@@ -3908,13 +3908,13 @@
           "deadlines": [
             {
               "type": "submission",
-              "date": "2027-09-30",
+              "date": "2027-08-21",
               "label": "Submission Deadline",
               "is_predicted": true
             },
             {
               "type": "notification",
-              "date": "2027-10-20",
+              "date": "2027-10-24",
               "label": "Notification Due",
               "is_predicted": true
             },
@@ -3932,7 +3932,7 @@
           "is_predicted": true
         }
       },
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192495&copyownerid=197318"
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=195392&copyownerid=13149"
     },
     {
       "name": "IEEE International Conference on Cluster Computing",
@@ -4356,13 +4356,18 @@
         "2026": {
           "deadlines": [
             {
+              "type": "abstract_registration",
+              "date": "2025-09-12",
+              "label": "Abstract Registration Due"
+            },
+            {
               "type": "submission",
-              "date": "2025-12-01",
+              "date": "2025-09-19",
               "label": "Submission Deadline"
             },
             {
               "type": "notification",
-              "date": "2026-01-05",
+              "date": "2025-12-22",
               "label": "Notification Due"
             },
             {
@@ -4379,14 +4384,20 @@
         "2027": {
           "deadlines": [
             {
+              "type": "abstract_registration",
+              "date": "2026-09-12",
+              "label": "Abstract Registration Due",
+              "is_predicted": true
+            },
+            {
               "type": "submission",
-              "date": "2026-12-01",
+              "date": "2026-09-19",
               "label": "Submission Deadline",
               "is_predicted": true
             },
             {
               "type": "notification",
-              "date": "2027-01-05",
+              "date": "2026-12-22",
               "label": "Notification Due",
               "is_predicted": true
             },
@@ -4404,7 +4415,7 @@
           "is_predicted": true
         }
       },
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=189699&copyownerid=121781"
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=189752&copyownerid=18071"
     },
     {
       "name": "IEEE International Conference on Robotics and Automation",
@@ -5740,23 +5751,18 @@
         "2026": {
           "deadlines": [
             {
-              "type": "abstract_registration",
-              "date": "2025-11-27",
-              "label": "Abstract Registration Due"
-            },
-            {
               "type": "submission",
-              "date": "2025-12-04",
+              "date": "2026-03-06",
               "label": "Submission Deadline"
             },
             {
               "type": "notification",
-              "date": "2026-03-19",
+              "date": "2026-03-20",
               "label": "Notification Due"
             },
             {
               "type": "camera_ready",
-              "date": "2026-04-28",
+              "date": "2026-04-24",
               "label": "Final Version Due"
             }
           ],
@@ -5768,26 +5774,20 @@
         "2027": {
           "deadlines": [
             {
-              "type": "abstract_registration",
-              "date": "2026-11-27",
-              "label": "Abstract Registration Due",
-              "is_predicted": true
-            },
-            {
               "type": "submission",
-              "date": "2026-12-04",
+              "date": "2027-03-06",
               "label": "Submission Deadline",
               "is_predicted": true
             },
             {
               "type": "notification",
-              "date": "2027-03-19",
+              "date": "2027-03-20",
               "label": "Notification Due",
               "is_predicted": true
             },
             {
               "type": "camera_ready",
-              "date": "2027-04-28",
+              "date": "2027-04-24",
               "label": "Final Version Due",
               "is_predicted": true
             }
@@ -5799,7 +5799,7 @@
           "is_predicted": true
         }
       },
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=190392&copyownerid=195575"
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=190399&copyownerid=195575"
     },
     {
       "name": "IEEE/RSJ International Conference on Intelligent Robots and Systems",
@@ -8490,17 +8490,17 @@
           "deadlines": [
             {
               "type": "submission",
-              "date": "2026-05-30",
+              "date": "2026-06-13",
               "label": "Submission Deadline"
             },
             {
               "type": "notification",
-              "date": "2026-06-13",
+              "date": "2026-06-20",
               "label": "Notification Due"
             },
             {
               "type": "camera_ready",
-              "date": "2026-06-20",
+              "date": "2026-06-22",
               "label": "Final Version Due"
             }
           ],
@@ -8513,19 +8513,19 @@
           "deadlines": [
             {
               "type": "submission",
-              "date": "2027-05-30",
+              "date": "2027-06-13",
               "label": "Submission Deadline",
               "is_predicted": true
             },
             {
               "type": "notification",
-              "date": "2027-06-13",
+              "date": "2027-06-20",
               "label": "Notification Due",
               "is_predicted": true
             },
             {
               "type": "camera_ready",
-              "date": "2027-06-20",
+              "date": "2027-06-22",
               "label": "Final Version Due",
               "is_predicted": true
             }
@@ -8537,7 +8537,7 @@
           "is_predicted": true
         }
       },
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=189375&copyownerid=170233"
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=199638&copyownerid=33993"
     },
     {
       "name": "International Symposium on Formal Methods",
@@ -10344,5 +10344,5 @@
     "量子力学",
     "音声音響・信号処理"
   ],
-  "last_updated": "2026-06-01 01:28:05"
+  "last_updated": "2026-06-15 01:31:42"
 }
